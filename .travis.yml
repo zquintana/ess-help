@@ -10,7 +10,7 @@ deploy:
     skip_cleanup: true
     project: ess-help
     token:
-      secure: $FIREBASE_TOKEN
+      secure: "$FIREBASE_TOKEN"
     on:
       branch: master
 
