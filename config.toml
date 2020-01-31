@@ -1,0 +1,154 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "ESS - The Help Drivers Need Until Help Arrives"
+theme = "enov-hugo"
+contentDir = "content"
+
+############################## navigation ###############################
+
+# main menu
+[[menu.main]]
+name = "Our Mission"
+URL = "our-mission"
+weight = 2
+
+#[[menu.main]]
+#name = "Blog"
+#URL = "blog"
+#weight = 3
+
+[[menu.main]]
+weight = 3
+name = "Safety Solution"
+URL = "safety-solution"
+#hasChildren = true
+
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "Portfolio"
+#  URL = "project"
+#
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "Pricing"
+#  URL = "pricing"
+#
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "Service"
+#  URL = "service"
+
+[[menu.main]]
+name = "Preventable Tragedies"
+URL = "preventable-tragedies"
+weight = 4
+
+[[menu.main]]
+name = "Contact Us"
+URL = "contact-us"
+weight = 5
+
+# footer menu
+#[[menu.footer]]
+#name = "service"
+#URL = "service"
+#weight = 1
+#
+#[[menu.footer]]
+#name = "about"
+#URL = "about"
+#weight = 2
+#
+#[[menu.footer]]
+#name = "blog"
+#URL = "blog"
+#weight = 3
+#
+#[[menu.footer]]
+#name = "pricing"
+#URL = "pricing"
+#weight = 4
+
+#################### default parameters ################################
+[params]
+logo = "images/logo-no-slogan-150x65.png"
+# top header
+top_header = true
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# contact info
+address = "Emergency Safety Solutions, Inc.\n825 Town and Country Lane, Suite 1200\nHouston, TX 77024"
+phone = "281-507-8800"
+email = "atucker@ess-help.com"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# Google Analitycs
+google_analitycs_id = "" # your id
+# search
+search = true
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[params.navigation_button]
+enable = false
+label = "get a quote"
+link = "contact"
+
+# google map
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+######################### Clients logo ################################
+[[params.clients_logo]]
+logo = "images/about/key-vision1.png"
+
+[[params.clients_logo]]
+logo = "images/about/key-vision2.png"
+
+[[params.clients_logo]]
+logo = "images/about/key-vision3.png"
+
+[[params.clients_logo]]
+logo = "images/about/key-vision4.png"
+
+[[params.clients_logo]]
+logo = "images/about/key-vision3.png"
+
+[[params.clients_logo]]
+logo = "images/about/key-vision5.png"
+
+[[params.clients_logo]]
+logo = "images/about/key-vision2.png"
+
+[[params.clients_logo]]
+logo = "images/about/key-vision1.png"
+
+#################### social icon ######################################
+[[params.social]]
+name = "Facebook"
+icon = "ti-facebook"
+link = "#"
+
+[[params.social]]
+name = "Twitter"
+icon = "ti-twitter-alt"
+link = "#"
+
+[[params.social]]
+name = "Vimeo"
+icon = "ti-vimeo-alt"
+link = "#"
+
+[[params.social]]
+name = "Github"
+icon = "ti-github"
+link = "#"
