@@ -13,23 +13,23 @@ banner:
   # border button
   button_border:
     enable : true
-    label : "Discover Enov"
-    link : "service"
+    label : "Contact Us"
+    link : "contact-us"
 
 ######################## Banner call to action ############################
 banner_cta:
   enable : true
-  title : "Crafting visually stunning memorable experiences for web."
-  content : "Magni perspiciatis sequi, molestias dignissimos numquam placeat eveniet nobis rerum eos, facilis minus, est illo adipisci soluta dolores quisquam, praesentium ab corrupti!"
+  title : "The H.E.L.P. drivers need until HELP arrives."
+  content : "Our mission is to protect roadway users by integrating H.E.L.P. technology into all vehicles on the road"
   button:
     enable : true
     label : "Learn more"
-    link : "about"
+    link : "safety-solution"
 
 ########################## feature ########################################
 feature:
   enable : true
-  title : "We provide best solution to client with their business problem"
+  title : "We strive to develop new strategies and technologies to prevent future accidents."
   feature_item:
     # feature item loop
     - title : "Modern & Responsive design"
@@ -43,13 +43,13 @@ feature:
 
 ######################## About #######################################
 about:
-  enable : true
+  enable : false
   image : "images/about/home-8.jpg"
   title : "Forget about <br> design limits! Build and customize your portfolio"
   content : "We provide consulting services in the area of IFRS and management reporting, helping companies
             to reach their highest level. We optimize business processes, making them easier."
   button:
-    enable : true
+    enable : false
     label : "Get started"
     link : "pricing"
 
@@ -233,14 +233,14 @@ team:
 ################################### promo video ##########################
 promo_video:
   enable : true
-  title : "See How we work!"
-  video_thumbnail : "images/bg/contact-bg-min-1.jpg"
-  video_link : "https://www.youtube.com/watch?v=jrkvirglgaQ"
-  content: "Our mission is to produce the highest quality work for everyclient, on every project"
+  title : "See Our Solution"
+  video_thumbnail : "images/car-crash-2.jpg"
+  video_link : "https://www.youtube.com/watch?v=DteiOEHvbu4"
+  content: "We strive to develop new strategies and technologies to prevent future accidents."
 
 ############################## blog ####################################
 blog:
-  enable: true
+  enable: false
   title : "Latest News & Articles"
   content : "Don’t just take our words for it. Our clients are our biggest supporters. Would you like to know what they think about us?"
   # blog post comes from "content/**/blog" folder.
