@@ -16,21 +16,25 @@ hasChildren = true
   parent = "About Us"
   name = "Our Mission"
   URL = "our-mission"
+  weight = 1
 
   [[menu.main]]
   parent = "About Us"
   name = "Leadership and Board of Directors"
   URL = "leadership-and-board"
+  weight = 2
 
   [[menu.main]]
   parent = "About Us"
   name = "Intellectual Property"
   URL = "intellectual-property"
+  weight = 3
 
-  [[menu.main]]
-  parent = "About Us"
-  name = "Austin's Awesome Page"
-  URL = "#"
+#  [[menu.main]]
+#  parent = "About Us"
+#  name = "Austin's Awesome Page"
+#  URL = "#"
+#  weight = 4
 
 #[[menu.main]]
 #name = "Blog"
