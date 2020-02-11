@@ -20,7 +20,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "About Us"
-  name = "Leadership and Board of Directors"
+  name = "Leadership and Board"
   URL = "leadership-and-board"
   weight = 2
 
