@@ -8,54 +8,49 @@ contentDir = "content"
 
 # main menu
 [[menu.main]]
-name = "Our Mission"
-URL = "our-mission"
+name = "About Us"
 weight = 2
+hasChildren = true
+
+  [[menu.main]]
+  parent = "About Us"
+  name = "Our Mission"
+  URL = "our-mission"
+
+  [[menu.main]]
+  parent = "About Us"
+  name = "Leadership and Board of Directors"
+  URL = "leadership-and-board"
+
+  [[menu.main]]
+  parent = "About Us"
+  name = "Intellectual Property"
+  URL = "intellectual-property"
+
+  [[menu.main]]
+  parent = "About Us"
+  name = "Austin's Awesome Page"
+  URL = "#"
 
 #[[menu.main]]
 #name = "Blog"
 #URL = "blog"
 #weight = 3
+
 [[menu.main]]
 weight = 3
-name = "Leadership and Board of Directors"
-URL = "leadership-and-board"
-
-[[menu.main]]
-weight = 4
 name = "Safety Solution"
 URL = "safety-solution"
-#hasChildren = true
-
-#  [[menu.main]]
-#  parent = "Pages"
-#  name = "Portfolio"
-#  URL = "project"
-#
-#  [[menu.main]]
-#  parent = "Pages"
-#  name = "Pricing"
-#  URL = "pricing"
-#
-#  [[menu.main]]
-#  parent = "Pages"
-#  name = "Service"
-#  URL = "service"
 
 [[menu.main]]
 name = "Preventable Tragedies"
 URL = "preventable-tragedies"
-weight = 5
-
-[[menu.main]]
-name = "Intellectual Property"
-URL = "intellectual-property"
-weight = 6
+weight = 4
 
 [[menu.main]]
 name = "Contact Us"
 URL = "contact-us"
-weight = 7
+weight = 5
 
 # footer menu
 #[[menu.footer]]
