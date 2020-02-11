@@ -16,9 +16,13 @@ weight = 2
 #name = "Blog"
 #URL = "blog"
 #weight = 3
-
 [[menu.main]]
 weight = 3
+name = "Leadership and Board of Directors"
+URL = "leadership-and-board"
+
+[[menu.main]]
+weight = 4
 name = "Safety Solution"
 URL = "safety-solution"
 #hasChildren = true
@@ -41,12 +45,17 @@ URL = "safety-solution"
 [[menu.main]]
 name = "Preventable Tragedies"
 URL = "preventable-tragedies"
-weight = 4
+weight = 5
+
+[[menu.main]]
+name = "Intellectual Property"
+URL = "intellectual-property"
+weight = 6
 
 [[menu.main]]
 name = "Contact Us"
 URL = "contact-us"
-weight = 5
+weight = 7
 
 # footer menu
 #[[menu.footer]]
