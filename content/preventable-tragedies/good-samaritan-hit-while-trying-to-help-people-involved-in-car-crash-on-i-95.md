@@ -3,7 +3,7 @@ credit:
   source: 7 News Boston
   url: https://whdh.com/news/good-samaritan-hit-while-trying-to-help-people-involved-in-car-crash-on-i-95/
 date: '2020-02-11'
-title: Good Samaritan hit while trying to help people involved in car crash on I-95 (7 News Boston, February 11, 2020)
+title: Good Samaritan hit while trying to help people involved in car crash on I-95
 ---
 FOXBOROUGH, MASS. (WHDH) - A good Samaritan was hit while trying to help people involved in a car crash near the scene of a vehicle fire on Interstate 95 northbound in Foxborough on Monday.
 
