@@ -9,6 +9,7 @@ contentDir = "content"
 # main menu
 [[menu.main]]
 name = "About Us"
+URL = "our-mission"
 weight = 2
 hasChildren = true
 
@@ -141,22 +142,22 @@ logo = "images/about/key-vision2.png"
 logo = "images/about/key-vision1.png"
 
 #################### social icon ######################################
-[[params.social]]
-name = "Facebook"
-icon = "ti-facebook"
-link = "#"
-
-[[params.social]]
-name = "Twitter"
-icon = "ti-twitter-alt"
-link = "#"
-
-[[params.social]]
-name = "Vimeo"
-icon = "ti-vimeo-alt"
-link = "#"
-
-[[params.social]]
-name = "Github"
-icon = "ti-github"
-link = "#"
+#[[params.social]]
+#name = "Facebook"
+#icon = "ti-facebook"
+#link = "#"
+#
+#[[params.social]]
+#name = "Twitter"
+#icon = "ti-twitter-alt"
+#link = "#"
+#
+#[[params.social]]
+#name = "Vimeo"
+#icon = "ti-vimeo-alt"
+#link = "#"
+#
+#[[params.social]]
+#name = "Github"
+#icon = "ti-github"
+#link = "#"

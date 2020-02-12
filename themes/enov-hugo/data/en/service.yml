@@ -1,9 +1,9 @@
 ########################### services ############################
 services:
   # service item loop
-  - title : "Web development"
+  - title : "Saves Lives"
     icon : "ti-desktop" # themify icon pack: https://themify.me/themify-icons
-    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+    content : "Increased vehicle conspicuity proven to decrease likelihood of secondary collisions"
     
   # service item loop
   - title : "Interface Design"

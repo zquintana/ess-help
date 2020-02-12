@@ -1,0 +1,122 @@
+team_member:
+  ################### team member loop
+  - name: "David Tucker"
+    image: "images/team/david-tucker.jpeg"
+    designation: "Chief Executive Officer and Chairman of the Board"
+    content: "David Tucker is the founder and Chief Executive Officer of ESS. He is responsible for developing and executing ESS’s business plan and research & development program, as well as securing the company’s intellectual property. David is an entrepreneur with more than 25 years of experience building and divesting start-ups. Before he founded ESS, David served as president of Canyon Offshore, Inc. He also co-founded UTEC Survey International as well as Valkyrie Commissioning Services, Inc. He holds an MBA from Rice University and a bachelor’s degree in Business Administration from Chapman University and is the inventor of 10 patents worldwide."
+    social:
+      # social site loop
+      #        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
+      #          link : "#"
+      #
+      #        # social site loop
+      #        - icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+      #          link : "#"
+
+      # social site loop
+      - icon: "ti-linkedin" # icon pack : https://themify.me/themify-icons
+        link: "https://www.linkedin.com/in/david-tucker-a0857a/"
+
+  ################### team member loop
+  - name: "Stephen Powers"
+    image: "images/team/stephen-powers.jpg"
+    designation: "Chief Operating Officer and Secretary of the Board"
+    content: "Stephen Powers is the co-founder and Chief Operating Officer of ESS. Stephen is responsible for strategic execution of ESS’ business objectives, leading research initiatives, building advocacy and public awareness of the Low Conspicuity Emergency safety case. He is the former CEO of PinnacleART, CFO of PinnacleART, and vice president of Corporate Development of Canyon Offshore, Inc. Stephen is a licensed CPA, and earned his MPA as well as his bachelor’s degree in Business Administration from the University of Texas at Austin."
+    social:
+      # social site loop
+      #        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
+      #          link : "#"
+      #
+      #        # social site loop
+      #        - icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+      #          link : "#"
+
+      # social site loop
+      - icon: "ti-linkedin" # icon pack : https://themify.me/themify-icons
+        link: "https://www.linkedin.com/in/stephen-powers-1052191/"
+
+  ################### team member loop
+  - name: "Mike Incorvaia"
+    image: "images/team/mike-incorvaia.jpg"
+    designation: "Senior Vice President of Business Development"
+    content: "Mike Incorvaia is the Senior Vice President of Business Development and Director for ESS. Mike is responsible for the development and execution of ESS’ business development endeavors with the vision to make H.E.L.P. a standard feature on every new car produced across the globe.  Mike is a technology-based entrepreneur with broad experience in international corporate automotive manufacturing industries. Before joining ESS, he was positioned as founder, CEO and president of Novita Technologies and then transitioned to CEO of Osram-Novita. Mike earned his bachelor’s degree in Electrical and Computer Engineering from Ohio University."
+    social:
+      # social site loop
+      #        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
+      #          link : "#"
+      #
+      #        # social site loop
+      #        - icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+      #          link : "#"
+
+      # social site loop
+      - icon: "ti-linkedin" # icon pack : https://themify.me/themify-icons
+        link: "https://www.linkedin.com/in/mike-incorvaia-625a236/"
+
+  ################### team member loop
+  - name: "James D. Ray"
+    image: "images/team/james-ray.jpg"
+    designation: "Director"
+    content: "James Ray is a Director for ESS. James is a nationally recognized transportation professional with more than 20 years of experience in government and the private sector. James completed a recent tenure in government in early 2019 where he served as Senior Advisor to Secretary Elaine Chao at the U.S. Department of Transportation (DOT). Prior to his service at USDOT, James worked as a principal at KPMG. During an earlier stint in government, James served in the Bush Administration as Chief Counsel and Acting Administrator for the Federal Highway Administration and later as the Deputy General Counsel for the White House Office of Management and Budget. James graduated from Georgetown University Law Center and earned his bachelor’s degree from the University of North Carolina Chapel Hill."
+    social:
+    # social site loop
+    #        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
+    #          link : "#"
+    #
+    #        # social site loop
+    #        - icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+    #          link : "#"
+    #
+    #        # social site loop
+    #        - icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
+    #          link : "#"
+
+  ################### team member loop
+  - name: "Kenneth Wagner"
+    image: "images/team/kenneth-wagner.jpg"
+    designation: "Director"
+    content: "Kenneth Wagner is a Director for ESS. Kenneth also serves as the current Oklahoma Secretary of Energy and Environment. He is a former senior advisor to the Administrator of the U.S. Environmental Protection Agency and a former managing partner of Latham, Wagner, Steele & Lehman, P.C. He has been named to the List of SuperLawyers from 2008 to 2016 and peer reviewed as Preeminent for being in Top 5% of all lawyers for Competence and Ethics by Martindale-Hubbell. Kenneth graduated from University of Tulsa Law School and earned his bachelor’s degree from The University of Oklahoma."
+    social:
+    # social site loop
+    #        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
+    #          link : "#"
+    #
+    #        # social site loop
+    #        - icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+    #          link : "#"
+    #
+    #        # social site loop
+    #        - icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
+    #          link : "#"
+    #
+    #        # social site loop
+    #        - icon : "ti-github" # icon pack : https://themify.me/themify-icons
+    #          link : "#"
+
+  ################### team member loop
+  - name: "Martin O’Carroll"
+    image: "images/team/martin-o-carroll.jpg"
+    designation: "Director"
+    content: "Martin O’Carroll is a Director for ESS. Martin is an entrepreneur and executive manager with more than 25 years of experience working in finance and with start-ups, building and exiting strong businesses at superior returns to stakeholders. Before he joined ESS, Martin co-founded UTEC Survey International and Canyon Offshore Inc. He earned his bachelor of commerce degree from the National University of Ireland."
+    social:
+    # social site loop
+  #        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
+  #          link : "#"
+  #
+  #        # social site loop
+  #        - icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+  #          link : "#"
+  #
+  #        # social site loop
+  #        - icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
+  #          link : "#"
+  #
+  #        # social site loop
+  #        - icon : "ti-github" # icon pack : https://themify.me/themify-icons
+  #          link : "#"
+
+  - name: "Ramon Rodriguez"
+    image: "images/team/ramon-rodriguez.jpg"
+    designation: "Director"
+    content: "Ramon Rodriguez is a Director for ESS. He also serves as the Audit Committee chair of PBS, and on the Board of Directors of Republic Services Inc. Ramon has previously served as chair of the Board of Directors of Republic Services Inc., president of the Florida Institute of Certified Public Accountants, chair of the Florida Board of Accountancy and chair, president and CEO for Madsen, Sapp, Mena, Rodriguez & Co. Rodriguez earned his bachelor’s degree in accounting from Florida Atlantic University and is a licensed CPA."
+    social:

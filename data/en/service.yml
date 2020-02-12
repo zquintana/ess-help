@@ -1,0 +1,68 @@
+########################### services ############################
+services:
+  # service item loop
+  - title: "Saves Lives"
+    icon: "ti-heart" # themify icon pack: https://themify.me/themify-icons
+    content: "Increased vehicle conspicuity proven to decrease likelihood of secondary collisions"
+    
+  # service item loop
+  - title : "Low Cost"
+    icon : "ti-money" # themify icon pack: https://themify.me/themify-icons
+    content : "Easy to produce and integrate HELP technology into new and existing vehicles at $10/unit"
+    
+  # service item loop
+  - title : "Cost-Safety-Benefit"
+    icon : "ti-bar-chart" # themify icon pack: https://themify.me/themify-icons
+    content : "Most effective and logical safety solution since the advent of the seatbelt"
+    
+  # service item loop
+  - title : "No Add Ons Necessary"
+    icon : "ti-hummer" # themify icon pack: https://themify.me/themify-icons
+    content : "HELP Technology manipulates the existing technology in today’s vehicles making adoption simple and efficient"
+    
+  # service item loop
+  - title : "Scalability"
+    icon : "ti-stats-up" # themify icon pack: https://themify.me/themify-icons
+    content : "Improved roadway communication and decreased first responder time to accident using V2V and V2X technologies"
+    
+  # service item loop
+  - title : "Sales Driver"
+    icon : "ti-rocket" # themify icon pack: https://themify.me/themify-icons
+    content : "Early adoption of HELP technology will become the catalyst for any OEM aiming to get a leg up on the competition"
+    
+  # service item loop
+#  - title : "Business Consulting"
+#    icon : "ti-bar-chart" # themify icon pack: https://themify.me/themify-icons
+#    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+#
+#  # service item loop
+#  - title : "Branding"
+#    icon : "ti-vector" # themify icon pack: https://themify.me/themify-icons
+#    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+#
+#  # service item loop
+#  - title : "App development"
+#    icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
+#    content : "A digital agency isn't here to replace your internal team, we're here to partner"
+
+
+######################### pricing #####################################
+pricing:
+  enable : true
+  # pricing item comes from "pricing.yml" file
+
+######################## Service step #################################
+steps:
+  enable : true
+  step:
+    # step loop
+    - title : "Discuss with us"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart" 
+
+    # step loop
+    - title : "Choose your perfect plan"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart" 
+      
+    # step loop
+    - title : "Start your project"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart"

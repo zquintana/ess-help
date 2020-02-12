@@ -32,14 +32,14 @@ feature:
   title : "We strive to develop new strategies and technologies to prevent future accidents."
   feature_item:
     # feature item loop
-    - title : "Modern & Responsive design"
+    - title : "Auto Deployment"
       icon : "ti-wand" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
+      content : "Immediate activation of emergency hazard light flashing immediately following a roadway collision."
 
     # feature item loop
-    - title : "Awarded licensed company"
-      icon : "ti-medall" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
+    - title : "Manual Activation"
+      icon : "ti-control-eject" # icon pack : https://themify.me/themify-icons
+      content : "Ideal for distressed vehicles in hazardous conditions which require increased vehicle conspicuity."
 
 ######################## About #######################################
 about:
@@ -55,7 +55,7 @@ about:
 
 ##################### Funfacts ######################################
 funfacts:
-  enable : true
+  enable : false
   funfact_item:
     # fanfacts item loop
     - title : "Preventable Tragedies Since 2008"
@@ -84,8 +84,8 @@ funfacts:
 ######################### Service #####################################
 service:
   enable : true
-  title : "Total Solution in one"
-  content : "We provide a wide range of creative services adipisicing elit. Autem maxime rem modi eaque, voluptate. Beatae officiis neque"
+  title : "ESS-HELP Value Proposition"
+#  content : "We provide a wide range of creative services adipisicing elit. Autem maxime rem modi eaque, voluptate. Beatae officiis neque"
   # service item comes from "data/**/service.yml" file
 
 ######################### pricing #####################################
@@ -95,7 +95,7 @@ pricing:
 
 ############################# Team ##################################
 team:
-  enable: true
+  enable: false
   title : "Amazing Team"
   content : "We provide a wide range of creative services adipisicing elit. Autem maxime rem modi eaque, voluptate. Beatae officiis neque"
   team_member:
@@ -235,7 +235,7 @@ promo_video:
   enable : true
   title : "See Our Solution"
   video_thumbnail : "images/car-crash-2.jpg"
-  video_link : "https://www.youtube.com/watch?v=DteiOEHvbu4"
+  video_link : "https://www.youtube.com/watch?v=tZLEB2spxLA"
   content: "We strive to develop new strategies and technologies to prevent future accidents."
 
 ############################## blog ####################################

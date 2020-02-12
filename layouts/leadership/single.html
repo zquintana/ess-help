@@ -15,24 +15,26 @@
                                         href="{{ `categories/` | relLangURL }}{{ . | lower }}"> {{ . | humanize }}</a></span>
                                 {{ end }}
                             </div>
-<!--                            <h2 class="mt-1 mb-3 text-center">{{ .Title | markdownify }}</h2>-->
+                            <!--                            <h2 class="mt-1 mb-3 text-center">{{ .Title | markdownify }}</h2>-->
                             <div class="blog-item-meta text-center mb-5">
                                 {{ if .Params.Author }}
-                                    <span class="text-uppercase text-sm mr-3 letter-spacing">
+                                <span class="text-uppercase text-sm mr-3 letter-spacing">
                                         <i class="ti-user mr-1"></i> <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a>
                                     </span>
                                 {{ end }}
                                 {{ if .PublishDate }}
-                                    <span class="text-uppercase text-sm letter-spacing"><i class="ti-time mr-1"></i>
+                                <span class="text-uppercase text-sm letter-spacing"><i class="ti-time mr-1"></i>
                                     {{ .PublishDate.Format "January 02, 2006" }}</span>
                                 {{ end }}
                             </div>
                             {{ if .Params.Image }}
-                                <img src="{{ .Params.Image | absURL }}" alt="{{ .Title | markdownify }}" class="img-fluid rounded">
+                            <img src="{{ .Params.Image | absURL }}" alt="{{ .Title | markdownify }}" class="img-fluid rounded">
                             {{ end }}
                             <div class="contant">
                                 {{.Content}}
                             </div>
+
+                            {{ partial "leadership.html" . }}
                         </div>
                     </div>
                     <div class="col-lg-12 mb-3 text-center">

@@ -2,7 +2,7 @@
 title: "Intellectual Property"
 ---
 
-## Emergency Safety Solutions currently holds 38 patents and trademarks assigned in over 45 countries. 
+### Emergency Safety Solutions currently holds 38 patents and trademarks assigned in over 45 countries. 
 
 H.E.L.P. Patent Synopsis
 

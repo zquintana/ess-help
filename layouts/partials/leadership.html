@@ -1,0 +1,32 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ with $data.leadership }}
+<section class="section team position-relative">
+  <div class="container">
+    <div class="row justify-content-center">
+      {{ .member }}
+      {{ range $index, $element := .team_member }}
+      {{ $delay:= mul $index 100 }}
+      <div class="col-lg-4 col-md-6 col-sm-6">
+        <div class="team-item-wrap mb-5" data-aos="fade-left" data-aos-delay="{{ $delay }}">
+          <img src="{{ .image | absURL }}" alt="{{ .name }}" class="img-fluid w-100 rounded">
+          <div class="team-item-content">
+            <p class="text-sm mb-0">{{ .designation }}</p>
+            <h3 class="mt-0 mb-2 text-capitalize">{{ .name }}</h3>
+
+            <ul class="team-social list-inline">
+              {{ range .social }}
+              <li class="list-inline-item">
+                <a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+          <div class="team-item-long-content">{{ .content }}</div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
