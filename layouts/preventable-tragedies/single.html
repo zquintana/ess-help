@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section" data-type="single-{{ .Type }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="content">
+          {{ .Content }}
+
+          {{ with .Params.credit}}
+          <p>
+            <span><strong>Credit:</strong> <a href="{{ .url }}" target="_blank" rel="nofollow">{{ .source }}</a></span><br />
+          </p>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

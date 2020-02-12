@@ -17,6 +17,7 @@ A recent study of the National Highway Traffic Safety Administration’s fatalit
 1.	A moving vehicle strikes a non-moving, disabled vehicle on or adjacent to the roadway, including multiple car pile-ups;
 2.	A pedestrian is struck while attending to disabled vehicle on or adjacent to roadway;
 3.	A vehicle runs off the roadway, strikes a fixed object, and the accident goes unnoticed by passersby for hours or days while trapped vehicle occupants expire.
-These accidents occur when oncoming drivers do not notice disabled vehicles in time to safely react.
-Click Here to View Example of Secondary Collision
 
+These accidents occur when oncoming drivers do not notice disabled vehicles in time to safely react.
+
+{{< youtube c6GkXHmdyvA >}}

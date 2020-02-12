@@ -1,4 +1,4 @@
-<div class="blog-item text-center " data-type="{{ .Type }}">
+<div class="blog-item text-center " data-type="post-{{ .Type }}">
     {{ if .Params.Image }}
         <img src="{{ .Params.Image }}" alt="{{ .Title | markdownify }}" class="img-fluid mb-4 rounded">
     {{ end }}
