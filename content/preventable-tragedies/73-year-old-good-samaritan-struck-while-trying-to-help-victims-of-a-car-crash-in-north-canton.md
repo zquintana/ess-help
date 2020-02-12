@@ -3,7 +3,7 @@ credit:
   source: 19 News
   url: https://www.cleveland19.com/2020/02/09/year-old-good-samaritan-struck-while-trying-help-victims-car-crash-north-canton/
 date: '2020-02-11'
-title: Man, 73, struck by car while helping crash victims (19 News, February 11, 2020)
+title: Man, 73, struck by car while helping crash victims
 
 ---
 Man, 73, struck by car while helping crash victims
