@@ -29,7 +29,7 @@ banner_cta:
 ########################## feature ########################################
 feature:
   enable : true
-  title : "We strive to develop new strategies and technologies to prevent future accidents."
+  title : "H.E.L.P. has two forms of activation."
   feature_item:
     # feature item loop
     - title : "Auto Deployment"
@@ -39,7 +39,7 @@ feature:
     # feature item loop
     - title : "Manual Activation"
       icon : "ti-control-eject" # icon pack : https://themify.me/themify-icons
-      content : "Ideal for distressed vehicles in hazardous conditions which require increased vehicle conspicuity."
+      content : "Simple two-click hazard switch activation. Ideal for distressed vehicles in hazardous conditions which require increased vehicle conspicuity."
 
 ######################## About #######################################
 about:
