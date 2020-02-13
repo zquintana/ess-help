@@ -1,6 +1,7 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 {{ with $data.ip }}
+<strong>{{ .title }}</strong>
 <table class="ip-table">
     <thead>
         <tr>
