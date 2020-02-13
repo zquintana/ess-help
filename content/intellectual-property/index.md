@@ -15,4 +15,4 @@ All passenger vehicles use some form of a microcomputer that is solely responsib
 
 Emergency Safety Solutions also retains H.E.L.P. technology that can be integrated into vehicles by other means. This includes Over The Air (OTA) updates, manual software updates, or by any plug and play 3rd party device.  
 
-###### Disclaimer: Any infringement of the intellectual property retained by Emergency Safety Solutions without the consent of Emergency Safety SOlutions and its partners may result in charges against the infringing party. 
+###### Disclaimer: Any infringement of the intellectual property retained by Emergency Safety Solutions without the consent of Emergency Safety Solutions and its partners may result in charges against the infringing party. 
