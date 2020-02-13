@@ -1,7 +1,7 @@
 ################################## Banner #################################
 banner:
   enable : true
-  subtitle : "Preventable U.S. Tragedies since 2008:"
+  subtitle : "Preventable U.S.A. Tragedies since 2008:"
   title : "11,764"
 
   # solid button
@@ -29,7 +29,7 @@ banner_cta:
 ########################## feature ########################################
 feature:
   enable : true
-  title : "H.E.L.P. has two forms of activation."
+  title : "H.E.L.P. has two forms of activation"
   feature_item:
     # feature item loop
     - title : "Auto Deployment"

@@ -53,9 +53,14 @@ URL = "preventable-tragedies"
 weight = 4
 
 [[menu.main]]
+name = "News"
+URL = "news"
+weight = 5
+
+[[menu.main]]
 name = "Contact Us"
 URL = "contact-us"
-weight = 5
+weight = 6
 
 # footer menu
 #[[menu.footer]]
@@ -142,22 +147,17 @@ logo = "images/about/key-vision2.png"
 logo = "images/about/key-vision1.png"
 
 #################### social icon ######################################
-#[[params.social]]
-#name = "Facebook"
-#icon = "ti-facebook"
-#link = "#"
-#
-#[[params.social]]
-#name = "Twitter"
-#icon = "ti-twitter-alt"
-#link = "#"
-#
-#[[params.social]]
-#name = "Vimeo"
-#icon = "ti-vimeo-alt"
-#link = "#"
-#
-#[[params.social]]
-#name = "Github"
-#icon = "ti-github"
-#link = "#"
+[[params.social]]
+name = "Facebook"
+icon = "ti-facebook"
+link = "https://www.facebook.com/EmergencySafetySolutions/"
+
+[[params.social]]
+name = "Twitter"
+icon = "ti-twitter-alt"
+link = "https://twitter.com/ESS_Help"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "ti-linkedin"
+link = "https://www.linkedin.com/company/emergency-strobe-solutions-inc/"
