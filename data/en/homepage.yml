@@ -2,7 +2,7 @@
 banner:
   enable : true
   subtitle : "Preventable U.S. Tragedies since 2008:"
-  title : "11,552"
+  title : "11,764"
 
   # solid button
   button_solid:
