@@ -13,6 +13,4 @@ trademarks.
 
 All passenger vehicles use some form of a microcomputer that is solely responsible for sending electronic signals to the exterior lights of the vehicle. This microcomputer is most commonly known as a "Body Control Module" (BCM) or "Electronic Computer Unit" (ECU). These small devices control the activation as well as the frequency and pattern of exterior vehicle lighting. The intellectual property owned by Emergency Safety Solutions circumvents any enhanced frequency signal up to 5 hertz, sent from a vehicle microcomputer or any similar device responsible for exterior vehicle lighting. 
 
-Emergency Safety Solutions also retains H.E.L.P. technology that can be integrated into vehicles by other means. This includes Over The Air (OTA) updates, manual software updates, or by any plug and play 3rd party device.  
-
-###### Disclaimer: Any infringement of the intellectual property retained by Emergency Safety Solutions without the consent of Emergency Safety Solutions and its partners may result in charges against the infringing party. 
+Emergency Safety Solutions also retains H.E.L.P. technology that can be integrated into vehicles by other means. This includes Over The Air (OTA) updates, manual software updates, or by any plug and play 3rd party device.   
