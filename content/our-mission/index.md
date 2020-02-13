@@ -1,6 +1,7 @@
 ---
 title: "Our Mission"
 ---
+### What Is ESS
 
 Emergency Safety Solutions (ESS) is the brainchild of roadside safety advocates who 
 are deeply troubled by the high number of preventable, and often fatal, car accidents 
