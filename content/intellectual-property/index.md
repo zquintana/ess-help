@@ -5,15 +5,18 @@ type: ip
 
 ### Emergency Safety Solutions currently holds 38 patents and trademarks assigned in over 45 countries. 
 
-H.E.L.P. Patent Synopsis
-
-Emergency Safety Solutions has built its intellectual property portfolio using a base of 
-7 awarded foundational patents along with dozens of pending and continuous patents, and 
+Emergency Safety Solutions has built its global patent portfolio using a base of 
+7 awarded foundational patents that are supplemented by dozens of other intangible assets primarily being add-on patents and various
 trademarks. 
 
-Emergency Safety Solutions currently owns any signal sent to the vehicle lighting computer 
-or mechanism that controls the functionality of a vehicle’s lighting system. In all cases, 
-passenger vehicles have some type of microprocessor or microcomputer. These are most 
-commonly known as a Body Control Module or Electronic Computer Unit which controls the 
-activation or deactivation of vehicle lighting functions. It is in this arena that 
-Emergency Safety Solutions patents remains applicable.   
+### Emergency Safety Solutions Patented Technology
+
+In nearly all cases, passenger vehicles have some form of a microprocessor or microcomputer that is responsible for sending signals to the lights of a passenger vehicle. These are most commonly known as a Body Control Module (BCM) or Electronic Computer Unit (ECU) which controls the activation or deactivation of vehicle lighting function. Emergency Safety Solutions currently owns any enhanced frequency signal sent from these vehiclular microcomputers or any mechanism that controls the functionality of a -passenger vehicle’s lighting system.
+
+Emergency Safety Solutions also retains the right to the technology if it sent to a vehicle by any other means. This includes Over The Air (OTA) or any type of software update that is commonly used in today's vehicles. 
+
+It is in these capacities that Emergency Safety Solutions patents remains applicable and retain full propietary ownership.  
+
+### Disclaimer: Any infringement of the intellectual property retained by Emergency Safety Solutions may result charges against the infringing party. 
+
+**Emergency Safety Solutions Foundational Patents:**
