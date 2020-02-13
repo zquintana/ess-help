@@ -4,7 +4,6 @@
 <section class="section team position-relative">
   <div class="container">
     <div class="row justify-content-center">
-      {{ .member }}
       {{ range $index, $element := .team_member }}
       {{ $delay:= mul $index 100 }}
       <div class="col-lg-4 col-md-6 col-sm-6">
