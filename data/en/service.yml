@@ -1,34 +1,34 @@
 ########################### services ############################
 services:
   # service item loop
-  - title: "Saves Lives"
+  - title: "Save Lives"
     icon: "ti-heart" # themify icon pack: https://themify.me/themify-icons
-    content: "Increased vehicle conspicuity proven to decrease likelihood of secondary collisions"
+    content: "Increased vehicle conspicuity is proven to decrease the likelihood of secondary collisions"
     
   # service item loop
   - title : "Low Cost"
     icon : "ti-money" # themify icon pack: https://themify.me/themify-icons
-    content : "Easy to produce and integrate HELP technology into new and existing vehicles at $10/unit"
+    content : "Easy to integrate H.E.L.P. technology into new and existing vehicles"
     
   # service item loop
   - title : "Cost-Safety-Benefit"
     icon : "ti-bar-chart" # themify icon pack: https://themify.me/themify-icons
-    content : "Most effective and logical safety solution since the advent of the seatbelt"
+    content : "Most effective safety solution since the seatbelt. Cost less than .05% of a vehicle."
     
   # service item loop
   - title : "No Add Ons Necessary"
     icon : "ti-hummer" # themify icon pack: https://themify.me/themify-icons
-    content : "HELP Technology manipulates the existing technology in today’s vehicles making adoption simple and efficient"
+    content : "H.E.L.P. technology manipulates the existing technology in today’s vehicles making adoption simple and cost effective"
     
   # service item loop
   - title : "Scalability"
     icon : "ti-stats-up" # themify icon pack: https://themify.me/themify-icons
-    content : "Improved roadway communication and decreased first responder time to accident using V2V and V2X technologies"
+    content : "Improved roadway communication and first responder time to vehicle accidents using V2V and V2X technologies"
     
   # service item loop
   - title : "Sales Driver"
     icon : "ti-rocket" # themify icon pack: https://themify.me/themify-icons
-    content : "Early adoption of HELP technology will become the catalyst for any OEM aiming to get a leg up on the competition"
+    content : "Early adoption of H.E.L.P. technology is the catalyst for any auto maker business aiming to achieve a competitive advantage"
     
   # service item loop
 #  - title : "Business Consulting"

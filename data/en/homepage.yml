@@ -84,7 +84,7 @@ funfacts:
 ######################### Service #####################################
 service:
   enable : true
-  title : "ESS-HELP Value Proposition"
+  title : "Value Proposition"
 #  content : "We provide a wide range of creative services adipisicing elit. Autem maxime rem modi eaque, voluptate. Beatae officiis neque"
   # service item comes from "data/**/service.yml" file
 
