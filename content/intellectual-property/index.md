@@ -5,16 +5,14 @@ type: ip
 
 ### Emergency Safety Solutions currently holds 38 patents and trademarks assigned in over 45 countries. 
 
-Emergency Safety Solutions has built its global patent portfolio using a base of 
+Emergency Safety Solutions has developed its global patent portfolio over four years, using a base of 
 7 awarded foundational patents that are supplemented by dozens of other intangible assets primarily being add-on patents and various
 trademarks. 
 
 ### Emergency Safety Solutions Patented Technology
 
-In nearly all cases, passenger vehicles have some form of a microprocessor or microcomputer that is responsible for sending signals to the lights of a passenger vehicle. These are most commonly known as a Body Control Module (BCM) or Electronic Computer Unit (ECU) which controls the activation or deactivation of vehicle lighting function. Emergency Safety Solutions currently owns any enhanced frequency signal sent from these vehiclular microcomputers or any mechanism that controls the functionality of a -passenger vehicle’s lighting system.
+All passenger vehicles use some form of a microcomputer that is solely responsible for sending electronic signals to the exterior lights of the vehicle. This microcomputer is most commonly known as a "Body Control Module" (BCM) or "Electronic Computer Unit" (ECU). These small devices control the activation as well as the frequency and pattern of exterior vehicle lighting. The intellectual property owned by Emergency Safety Solutions circumvents any enhanced frequency signal up to 5 hertz, sent from a vehicle microcomputer or any similar device responsible for exterior vehicle lighting. 
 
-Emergency Safety Solutions also retains the right to the technology if it sent to a vehicle by any other means. This includes Over The Air (OTA) or any type of software update that is commonly used in today's vehicles. 
-
-It is in these capacities that Emergency Safety Solutions patents remains applicable and retain full propietary ownership.  
+Emergency Safety Solutions also retains H.E.L.P. technology that can be integrated into vehicles by other means. This includes Over The Air (OTA) updates, manual software updates, or by any plug and play 3rd party device.  
 
 ###### Disclaimer: Any infringement of the intellectual property retained by Emergency Safety Solutions without the consent of Emergency Safety SOlutions and its partners may result in charges against the infringing party. 
