@@ -17,6 +17,6 @@ Emergency Safety Solutions also retains the right to the technology if it sent t
 
 It is in these capacities that Emergency Safety Solutions patents remains applicable and retain full propietary ownership.  
 
-### Disclaimer: Any infringement of the intellectual property retained by Emergency Safety Solutions may result charges against the infringing party. 
+# Disclaimer: Any infringement of the intellectual property retained by Emergency Safety Solutions without the consent of Emergency Safety SOlutions and its partners may result in charges against the infringing party. 
 
 **Emergency Safety Solutions Foundational Patents:**
