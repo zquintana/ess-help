@@ -1,6 +1,5 @@
 ---
 title: "Intellectual Property"
-type: ip
 ---
 
 ### Emergency Safety Solutions currently holds 38 patents and trademarks assigned in over 45 countries. 
@@ -17,6 +16,16 @@ Emergency Safety Solutions also retains the right to the technology if it sent t
 
 It is in these capacities that Emergency Safety Solutions patents remains applicable and retain full propietary ownership.  
 
-# Disclaimer: Any infringement of the intellectual property retained by Emergency Safety Solutions without the consent of Emergency Safety SOlutions and its partners may result in charges against the infringing party. 
+###### Disclaimer: Any infringement of the intellectual property retained by Emergency Safety Solutions without the consent of Emergency Safety SOlutions and its partners may result in charges against the infringing party. 
 
 **Emergency Safety Solutions Foundational Patents:**
+
+| Client Case Number | Title Or Mark | Application Serial Number | Case Type | Country Or State |
+| ------------------ | ------------- | ------------------------- | --------- | ---------------- |
+| 012644-00001 | ENHANCED COMMUNICATION SYSTEM FOR VEHICLE HAZARD LIGHTS | 2016-558380 | Foreign Patent | Japan |
+| 012644-00001 | ENHANCED COMMUNICATION SYSTEM FOR VEHICLE HAZARD LIGHTS | 2016 262723 | Foreign Patent | Australia |
+| 012644-00001 | ENHANCED COMMUNICATION SYSTEM FOR VEHICLE HAZARD LIGHTS | 2,942,926 | Foreign Patent | Canada |
+| 012644-00001 | ENHANCED COMMUNICATION SYSTEM FOR VEHICLE HAZARD LIGHTS | 10-2016-7030304 | Foreign Patent | South Korea |
+| 012644-00001 | ENHANCED COMMUNICATION SYSTEM FOR VEHICLE HAZARD LIGHTS | 14/933,881 | US Patent | US |
+| 012644-00001 | ENHANCED COMMUNICATION SYSTEM FOR VEHICLE HAZARD LIGHTS | 15/280,393 | US Patent | US | 
+| 012644-00001 | ENHANCED COMMUNICATION SYSTEM FOR VEHICLE HAZARD LIGHTS | 10-2018-7034704 | Foreign Patent | Korea, Republic of |
