@@ -1,5 +1,5 @@
 ---
-title: "Safety Solution"
+title: "H.E.L.P. Safety Solution"
 ---
 
 # The Problem
@@ -30,8 +30,8 @@ To see more examples of preventative tragedies, click here.
 ### How ESS Can H.E.L.P.
 
 ESS’s H.E.L.P. safety feature is a globally patented low-cost technology designed for emergency 
-situations in which one moving vehicle strikes one or more non-moving, disabled vehicles. The 
-technology utilizes existing vehicle wiring harnessing and componentry, thus H.E.L.P. is an ideal 
+situations in which one moving vehicle strikes one or more non-moving, disabled vehicles. This Hazard Enhanced Lighting Package
+utilizes existing vehicle wiring harnessing and componentry, thus H.E.L.P. is an ideal 
 fit into all OEM Vehicle Manufacturers and offers the adopting vehicle manufacturer the best 
 safety-cost-benefit ratio of any original equipment vehicle feature since the advent of the 
 seat belt. Surprisingly enough, the integration of the H.E.L.P. safety feature into passenger 
@@ -46,7 +46,7 @@ The H.E.L.P. Safety Solution is a lighting technology specifically designed to i
 conspicuity of distressed or disabled vehicles and motorist. Thanks to the development in 
 lighting, specifically in LED technology, vehicles with H.E.L.P. are equipped an enhanced hazard 
 lighting function that will allow the vehicle to simultaneously strobe at a speed of 5 Hz rather 
-than at the current frequency of 1-2 Hz. Science has proven time and time again that this increase 
+than at the current frequency of between 1-2 Hz. Science has proven time and time again that this increase 
 in flash rate frequency, increases driver reaction timing and therefore, decreases the likelihood 
 of secondary collisions and multi-car pile up accidents. 
 
