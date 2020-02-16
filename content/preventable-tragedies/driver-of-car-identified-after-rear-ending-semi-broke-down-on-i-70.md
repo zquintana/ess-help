@@ -5,7 +5,7 @@ credit:
 date: '2020-02-15
 title: Driver of car identified after rear-ending semi broke down on I-70
 ---
-KANSAS CITY, Mo. — UPDATE: Feb 15, 11:15a.m.: The Kansas Highway Patrol said Christopher Deason, 59, of Kansas City, Kansas, was killed when the 2015 Jeep Patriot he was driving struck the back of a 2017 Freightliner semi tractor.
+The Kansas Highway Patrol said Christopher Deason, 59, of Kansas City, Kansas, was killed when the 2015 Jeep Patriot he was driving struck the back of a 2017 Freightliner semi tractor.
 
 The semi was driven by Artis Henry, 39 of Jonesboro, Arkansas. He was not injured in the crash.
 
