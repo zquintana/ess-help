@@ -3,7 +3,7 @@ credit:
   source: WBALTV
   url: https://www.wbaltv.com/article/baltimore-beltway-closed-key-bridge-crash-investigation-mdta/30927773
 date: '2020-02-14'
-title: Fire officials: Man's body pulled from water after crash on Key Bridge
+title: Man's body pulled from water after crash on Key Bridge
 ---
 MDTA police said the situation unfolded around 10 a.m. when a truck hit a disabled vehicle, highlighting the dangers of disabled vehicles on bridges.
 
