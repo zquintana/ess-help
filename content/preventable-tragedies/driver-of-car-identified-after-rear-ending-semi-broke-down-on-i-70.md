@@ -2,7 +2,7 @@
 credit:
   source: KSHB41
   url: https://www.kshb.com/news/local-news/driver-of-car-killed-after-rear-ending-semi-broke-down-on-i-70 https://www.newsopi.com/california/1-killed-in-2-car-collision-on-80-freeway-near-gilman-street-in-berkeley/7831
-date: '2020-02-15
+date: '2020-02-15'
 title: Driver of car identified after rear-ending semi broke down on I-70
 ---
 The Kansas Highway Patrol said Christopher Deason, 59, of Kansas City, Kansas, was killed when the 2015 Jeep Patriot he was driving struck the back of a 2017 Freightliner semi tractor.
