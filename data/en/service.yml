@@ -3,17 +3,17 @@ services:
   # service item loop
   - title: "Save Lives"
     icon: "ti-heart" # themify icon pack: https://themify.me/themify-icons
-    content: "Increased vehicle conspicuity is proven to decrease the likelihood of secondary collisions"
+    content: "Increased vehicle conspicuity is proven to decrease the likelihood of secondary (moving to non-moving) collisions"
     
   # service item loop
-  - title : "Low Cost"
+  - title : "Low Integration Cost"
     icon : "ti-money" # themify icon pack: https://themify.me/themify-icons
-    content : "Easy to integrate H.E.L.P. technology into new and existing vehicles"
+    content : "Easy to integrate H.E.L.P. technology into new and existing vehicles using current vehicle lighting components"
     
   # service item loop
   - title : "Cost-Safety-Benefit"
     icon : "ti-bar-chart" # themify icon pack: https://themify.me/themify-icons
-    content : "Most effective safety solution since the seatbelt. Cost less than .05% of a vehicle."
+    content : "Most effective safety solution since the application of the seatbelt. Cost less than .05% of a vehicle."
     
   # service item loop
   - title : "No Add Ons Necessary"
@@ -23,12 +23,12 @@ services:
   # service item loop
   - title : "Scalability"
     icon : "ti-stats-up" # themify icon pack: https://themify.me/themify-icons
-    content : "Improved roadway communication and first responder time to vehicle accidents using V2V and V2X technologies"
+    content : "Improved first responder time and driver to driver communication utilizing V2V and V2X technologies"
     
   # service item loop
   - title : "Sales Driver"
     icon : "ti-rocket" # themify icon pack: https://themify.me/themify-icons
-    content : "Early adoption of H.E.L.P. technology is the catalyst for any auto maker business aiming to achieve a competitive advantage"
+    content : "Early adoption of H.E.L.P. technology is the catalyst for any OEM business aiming to achieve a competitive advantage in safety"
     
   # service item loop
 #  - title : "Business Consulting"
