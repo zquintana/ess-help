@@ -20,7 +20,7 @@ banner:
 banner_cta:
   enable : true
   title : ### "The H.E.L.P. drivers need until HELP arrives"
-  content : "Our mission is to protect roadway users by integrating our Hazard Enhanced Lighting Package (H.E.L.P.) safety technology into all passenger vehicles on the road"
+  content : ### "Our mission is to protect roadway users by integrating our Hazard Enhanced Lighting Package (H.E.L.P.) safety technology into all passenger vehicles on the road"
   button:
     enable : true
     label : "Learn more"
