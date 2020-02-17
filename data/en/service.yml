@@ -28,7 +28,7 @@ services:
   # service item loop
   - title : "Sales Driver"
     icon : "ti-rocket" # themify icon pack: https://themify.me/themify-icons
-    content : "Early adoption of H.E.L.P. technology is the catalyst for any OEM business aiming to achieve a competitive advantage in safety"
+    content : "Early adoption of H.E.L.P. technology is the catalyst for any OEM business striving to achieve a competitive advantage in safety"
     
   # service item loop
 #  - title : "Business Consulting"
