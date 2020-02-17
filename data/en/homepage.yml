@@ -20,7 +20,7 @@ banner:
 banner_cta:
   enable : true
   title : "The H.E.L.P. drivers need until HELP arrives."
-  content : "Our mission is to protect roadway users by integrating H.E.L.P. technology into all vehicles on the road"
+  content : "Our mission is to protect roadway users by integrating ESS's Hazard Enhanced Lighting Package (H.E.L.P.) safety technology into all vehicles on the road"
   button:
     enable : true
     label : "Learn more"
@@ -34,12 +34,12 @@ feature:
     # feature item loop
     - title : "Auto Deployment"
       icon : "ti-wand" # icon pack : https://themify.me/themify-icons
-      content : "Immediate activation of emergency hazard light flashing immediately following a roadway collision."
+      content : "Activation of emergency hazard light flashing immediately following a roadway collision where airbags are deployed."
 
     # feature item loop
     - title : "Manual Activation"
       icon : "ti-control-eject" # icon pack : https://themify.me/themify-icons
-      content : "Simple two-click hazard switch activation. Ideal for distressed vehicles in hazardous conditions which require increased vehicle conspicuity."
+      content : "Simple two-click hazard switch activation at driver's descretion. Ideal solution for distressed vehicles in hazardous conditions that require increased vehicle conspicuity."
 
 ######################## About #######################################
 about:
