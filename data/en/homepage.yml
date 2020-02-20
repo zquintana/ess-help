@@ -234,7 +234,7 @@ team:
 promo_video:
   enable : true
   title : "See Our Solution"
-  video_thumbnail : "images/tesla.jpeg"
+  video_thumbnail : "images/tesla-1000x457.jpeg"
   video_link : "https://www.youtube.com/watch?v=tZLEB2spxLA"
   content: "We strive to develop new strategies and technologies to prevent future accidents."
 
