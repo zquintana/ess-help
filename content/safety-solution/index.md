@@ -1,5 +1,5 @@
 ---
-title: "H.E.L.P. Safety Solution"
+title: 'Hazard Enhanced Lighting Package ("H.E.L.P.")'
 ---
 
 # The Problem
@@ -23,38 +23,45 @@ safely react.
 
 ### Example of a Preventable Tragedy
 
-{{< youtube c6GkXHmdyvA >}}
+{{< youtube c6GkXHmdyvA page-video >}}
 
-To see more examples of preventative tragedies, click here.
+To see more examples of preventative tragedies, [click here](mailto:atucker@ess-help.com).
 
 ### How ESS Can H.E.L.P.
 
-ESS’s H.E.L.P. safety feature is a globally patented low-cost technology designed for emergency 
-situations in which one moving vehicle strikes one or more non-moving, disabled vehicles. This Hazard Enhanced Lighting Package
-utilizes existing vehicle wiring harnessing and componentry, thus H.E.L.P. is an ideal 
-fit into all OEM Vehicle Manufacturers and offers the adopting vehicle manufacturer the best 
-safety-cost-benefit ratio of any original equipment vehicle feature since the advent of the 
-seat belt. Surprisingly enough, the integration of the H.E.L.P. safety feature into passenger 
-vehicles can be done easily using over-the-air (OTA) software or manual updates to the body 
-control module (BCM) or electronic control unit (ECU) of each passenger vehicle. 
+ESS’s globally patented H.E.L.P. safety feature is a low-cost technology designed mitigate the 
+likelihood of a moving vehicles striking stationary, disabled vehicles. The Hazard Enhanced 
+Lighting Package (H.E.L.P.) adds intelligence and enhanced functions to existing vehicle 
+lighting control systems, lights, and switchgear to provide the best safety-cost-benefit 
+profile of any original equipment vehicle feature since the advent of the seat belt. The 
+integration of H.E.L.P. can be easily deployed via over-the-air (OTA) software or via OEM-level 
+manual software updates to the body control module (BCM) of any LED-equipped passenger vehicle.
 
 {{< figure src="/images/cost-of-updates-vs-lives-saved-768x414.png" alt="Cost of Updates vs Lives Saved" >}}
 
 ### H.E.L.P. Safety Features 
 
-The H.E.L.P. Safety Solution is a lighting technology specifically designed to increase the visual 
-conspicuity of distressed or disabled vehicles and motorist. Thanks to the development in 
-lighting, specifically in LED technology, vehicles with H.E.L.P. are equipped an enhanced hazard 
-lighting function that will allow the vehicle to simultaneously strobe at a speed of 5 Hz rather 
-than at the current frequency of between 1-2 Hz. Science has proven time and time again that this increase 
-in flash rate frequency, increases driver reaction timing and therefore, decreases the likelihood 
-of secondary collisions and multi-car pile up accidents. 
-
-Also, the moment a motorist gets into an accident where the air bags deploy, H.E.L.P. technology 
-will also immediately engage and caused the vehicle to strobe at the increased flash rate. This 
-will provide each motorist and all passengers involved increased assurance that they will be seen 
-aided by first responders quicker than ever before. H.E.L.P. technology can also be activated by 
-pressing the in-vehicle hazard button twice as seen in this video.
+H.E.L.P. is an original equipment, emergency communication technology designed to increase the 
+visual and digital conspicuity of stationary, disabled vehicles and motorists on the roadway. 
+Thanks to recent advances in automotive lighting and vehicle communication systems, HELP-Enabled 
+vehicles are equipped with enhanced hazard / emergency communication functions which append to 
+standard 1.5Hz to 2.0Hz hazard lighting functionality.  When activated, H.E.L.P. provides 
+emergency "strobing" of the vehicle’s hazard lights and side markers at an accelerated rate of 
+4Hz to 6Hz; as well as digital messaging via integration with V2V and V2X platforms to provide 
+GPS and emergency response communication systems with advanced notification of a stationary, 
+disabled vehicle on the roadway. High flash rate emergency lighting is a time-tested technique 
+to increase roadway safety.  It has been protecting tow truck drivers, roadway construction 
+personnel, and emergency responders for decades.  Now is the time to extend this same protection 
+to the other 99% of roadway users – mothers, fathers, and children.  H.E.L.P.'s lighting pattern 
+has been developed and optimized to make it (a) effective in eliciting driver response, (b) 
+clearly distinct from emergency responder flash patterns, and (c) compliant with US federal 
+motor vehicle standards (FMVSS 108) and state traffic laws.
+ 
+H.E.L.P.'s emergency communication mode activates automatically upon collision to prevent or 
+mitigate the severity of secondary collisions and multiple car pileups.  It can also be 
+activated manually as an additional mode (second button press) in the hazard light button 
+when your vehicle is completely at rest with the transmission in park.  Think of it as "high 
+beams" for your hazard light system for use in stationary emergency situations.
 
 {{< youtube tZLEB2spxLA >}}
 

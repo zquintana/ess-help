@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section blog-wrap section-preventable-tragedies" data-type="list-{{ .Type }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        {{ $paginator := .Paginate .Data.Pages }}
+        {{ range $paginator.Pages }}
+        {{ .Render "post" }}
+        {{ end }}
+        {{ template "_internal/pagination.html" . }}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

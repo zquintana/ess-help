@@ -3,14 +3,18 @@ title: "Intellectual Property"
 type: ip
 ---
 
-### Emergency Safety Solutions currently holds 38 patents and trademarks assigned in over 45 countries. 
+### 38 awarded and pending patents and trademarks assigned in 32 countries. 
 
-Emergency Safety Solutions has developed its global patent portfolio over four years, using a base of 
-7 awarded foundational patents that are supplemented by dozens of other intangible assets primarily being add-on patents and various
-trademarks. 
+7 awarded foundational patents supplemented by dozens of variation and supplemental patents 
+worldwide.  The strength of our patent portfolio protects automakers and customers as a 
+foundation of standardization.  Consistency is the key ingredient to effective communication 
+on the road.  As the patentholder of emergency lighting output driven by original equipment 
+(OE) lighting control systems, ESS can standardize system controls and ￼the lighting output 
+of H.E.L.P. via technical provisions of our license agreements with automakers and their 
+OEM suppliers.  Once fully deployed as a standard feature on every car, the H.E.L.P. emergency 
+lighting pattern you see on the roadway will be the same, irrespective of vehicle make and 
+model. When you see a vehicle strobing in H.E.L.P.’s emergency mode – whether it be a Toyota, 
+BMW, Volvo, Hyundai, GM, Ferrari, or Tesla – you will know (a) it is a passenger vehicle, (b) 
+it is stationary, and (c) most importantly, you need to slow down and move over a lane if possible. 
 
-### Emergency Safety Solutions Patented Technology
-
-All passenger vehicles use some form of a microcomputer that is solely responsible for sending electronic signals to the exterior lights of the vehicle. This microcomputer is most commonly known as a "Body Control Module" (BCM) or "Electronic Computer Unit" (ECU). These small devices control the activation as well as the frequency and pattern behavior of exterior lighting. Emergency Safety Solutions claims ownership any output sent from a vehicle microcomputer with a frequency of over 2hz up to a steady burn of the exterior lights. 
-
-Emergency Safety Solutions also retains H.E.L.P. technology that can be integrated into vehicles by other means. This includes Over The Air (OTA) updates, manual software updates, or by any plug and play 3rd party device.   
+### Emergency Safety Solutions Awarded Foundational Patents    

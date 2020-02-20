@@ -1,4 +1,4 @@
 ---
-title: "ESS Leadership"
+title: "Board of Directors"
 type: leadership
 ---
