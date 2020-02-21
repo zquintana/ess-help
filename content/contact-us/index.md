@@ -1,5 +1,6 @@
 ---
 title: "Contact Us"
+type: contact-us
 ---
 
 Emergency Safety Solutions, Inc.  

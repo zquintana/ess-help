@@ -29,8 +29,8 @@ To see more examples of preventative tragedies, [click here](mailto:atucker@ess-
 
 ### How ESS Can H.E.L.P.
 
-ESS’s globally patented H.E.L.P. safety feature is a low-cost technology designed mitigate the 
-likelihood of a moving vehicles striking stationary, disabled vehicles. The Hazard Enhanced 
+ESS’s globally patented H.E.L.P. safety feature is a low-cost technology designed to mitigate the 
+likelihood of moving vehicles striking stationary, disabled vehicles. The Hazard Enhanced 
 Lighting Package (H.E.L.P.) adds intelligence and enhanced functions to existing vehicle 
 lighting control systems, lights, and switchgear to provide the best safety-cost-benefit 
 profile of any original equipment vehicle feature since the advent of the seat belt. The 
@@ -63,7 +63,7 @@ activated manually as an additional mode (second button press) in the hazard lig
 when your vehicle is completely at rest with the transmission in park.  Think of it as "high 
 beams" for your hazard light system for use in stationary emergency situations.
 
-{{< youtube tZLEB2spxLA >}}
+{{< youtube tZLEB2spxLA page-video >}}
 
 For more detailed information about ESS’s proprietary HELP system, please contact us 
 directly at our Houston office (281) 507-8800 or click here.
