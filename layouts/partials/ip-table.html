@@ -5,20 +5,16 @@
 <table class="ip-table">
     <thead>
         <tr>
-            <th>Client Case Number</th>
             <th>Title Or Mark</th>
             <th>Application Serial Number</th>
-            <th>Case Type</th>
             <th>Country Or State</th>
         </tr>
     </thead>
     <tbody>
         {{ range $index, $element := .patent }}
             <tr>
-                <td>{{ .case }}</td>
                 <td>{{ .title }}</td>
                 <td>{{ .serial }}</td>
-                <td>{{ .type }}</td>
                 <td>{{ .state }}</td>
             </tr>
         {{ end }}
