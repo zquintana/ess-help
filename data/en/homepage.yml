@@ -2,7 +2,7 @@
 banner:
   enable : true
   subtitle : "Preventable U.S. Disabled Vehicle Fatalities since 2008:"
-  title : "11,603"
+  title : "11,630"
 
   # solid button
   button_solid:
