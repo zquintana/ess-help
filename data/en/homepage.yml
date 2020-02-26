@@ -29,12 +29,12 @@ banner_cta:
 ########################## feature ########################################
 feature:
   enable : true
-  title : "H.E.L.P. has two forms of activation"
+  title : "H.E.L.P. utilizes two forms of activation"
   feature_item:
     # feature item loop
     - title : "Auto Deployment"
       icon : "ti-wand" # icon pack : https://themify.me/themify-icons
-      content : "Activation of emergency hazard lights immediately following a roadway collision where airbags are deployed."
+      content : "Activation of emergency hazard lights immediately following a roadway collision in which the vehicle airbags are deployed."
 
     # feature item loop
     - title : "Manual Activation"
