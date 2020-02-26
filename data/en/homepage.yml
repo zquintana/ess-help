@@ -20,7 +20,7 @@ banner:
 banner_cta:
   enable : true
   title : "The H.E.L.P. drivers need until HELP arrives"
-  content : "Our mission is to protect roadway users by integrating all passenger vehicles with our Hazard Enhanced Lighting Package"
+  content : "Our mission is to protect roadway users with our patented Hazard Enhanced Lighting Package as standard original equipment on every vehicle worldwide"
   button:
     enable : true
     label : "Learn more"
@@ -29,17 +29,17 @@ banner_cta:
 ########################## feature ########################################
 feature:
   enable : true
-  title : "H.E.L.P. utilizes two forms of activation"
+  title : "Two Activation Modes"
   feature_item:
     # feature item loop
     - title : "Auto Deployment"
       icon : "ti-wand" # icon pack : https://themify.me/themify-icons
-      content : "Activation of emergency hazard lights immediately following a roadway collision in which the vehicle airbags are deployed."
+      content : "High flash rate emergency lights activate automatically upon collision, triggered by vehicle emergency detection systems."
 
     # feature item loop
     - title : "Manual Activation"
       icon : "ti-control-eject" # icon pack : https://themify.me/themify-icons
-      content : "Simple two-click hazard switch activation. Ideal solution for distressed vehicles in hazardous conditions that require increased vehicle conspicuity."
+      content : "Simple two-click hazard switch activation. Ideal solution for disabled vehicles in hazardous conditions requiring increased vehicle conspicuity."
 
 ######################## About #######################################
 about:
