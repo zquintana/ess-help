@@ -2,7 +2,7 @@
 banner:
   enable : true
   subtitle : "Preventable U.S. Disabled Vehicle Fatalities since 2008:"
-  title : "11,630"
+  title : "11,633"
 
   # solid button
   button_solid:
@@ -19,7 +19,7 @@ banner:
 ######################## Banner call to action ############################
 banner_cta:
   enable : true
-  title : "The H.E.L.P. drivers need until HELP arrives"
+  title : ""The H.E.L.P. drivers need until HELP arrives""
   content : "Our mission is to protect roadway users by integrating all passenger vehicles with our Hazard Enhanced Lighting Package"
   button:
     enable : true
@@ -29,12 +29,12 @@ banner_cta:
 ########################## feature ########################################
 feature:
   enable : true
-  title : "H.E.L.P. has two forms of activation"
+  title : "H.E.L.P. utilizes two forms of activation"
   feature_item:
     # feature item loop
     - title : "Auto Deployment"
       icon : "ti-wand" # icon pack : https://themify.me/themify-icons
-      content : "Activation of emergency hazard lights immediately following a roadway collision where airbags are deployed."
+      content : "Activation of emergency hazard lights immediately following a roadway collision in which the vehicle airbags are deployed."
 
     # feature item loop
     - title : "Manual Activation"
