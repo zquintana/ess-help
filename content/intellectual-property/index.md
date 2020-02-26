@@ -3,7 +3,7 @@ title: "Intellectual Property"
 type: ip
 ---
 
-### 38 awarded and pending patents and trademarks assigned in 32 countries. 
+### 34 awarded and pending patents in 32 countries. 
 
 7 awarded foundational patents supplemented by dozens of variation and supplemental patents 
 worldwide.  The strength of our patent portfolio protects automakers and customers as a 
@@ -13,7 +13,7 @@ on the road.  As the patentholder of emergency lighting output driven by origina
 of H.E.L.P. via technical provisions of our license agreements with automakers and their 
 OEM suppliers.  Once fully deployed as a standard feature on every car, the H.E.L.P. emergency 
 lighting pattern you see on the roadway will be the same, irrespective of vehicle make and 
-model. When you see a vehicle strobing in H.E.L.P.’s emergency mode – whether it be a Toyota, 
+model. When you see a vehicle strobing in H.E.L.P.’s Emergency Mode – whether it be a Toyota, 
 BMW, Volvo, Hyundai, GM, Ferrari, or Tesla – you will know (a) it is a passenger vehicle, (b) 
 it is stationary, and (c) most importantly, you need to slow down and move over a lane if possible. 
 
