@@ -23,7 +23,7 @@ safely react.
 
 ### Example of a Preventable Tragedy
 
-{{< youtube c6GkXHmdyvA page-video >}}
+{{< youtube YPK5qJk5GR0 page-video >}}
 
 To see more examples of preventative tragedies, [click here](mailto:atucker@ess-help.com).
 
