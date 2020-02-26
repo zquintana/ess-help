@@ -19,7 +19,7 @@ banner:
 ######################## Banner call to action ############################
 banner_cta:
   enable : true
-  title : ""The H.E.L.P. drivers need until HELP arrives""
+  title : "The H.E.L.P. drivers need until HELP arrives"
   content : "Our mission is to protect roadway users by integrating all passenger vehicles with our Hazard Enhanced Lighting Package"
   button:
     enable : true
