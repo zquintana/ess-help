@@ -3,7 +3,7 @@ services:
   # service item loop
   - title: "Save Lives"
     icon: "ti-heart" # themify icon pack: https://themify.me/themify-icons
-    content: "Increased vehicle conspicuity is proven to decrease the likelihood of secondary (moving to non-moving) collisions"
+    content: "Increased vehicle conspicuity has been proven to decrease the likelihood of secondary (moving to non-moving) collisions"
     
   # service item loop
   - title : "Low Integration Cost"
@@ -18,17 +18,17 @@ services:
   # service item loop
   - title : "No Add Ons Necessary"
     icon : "ti-hummer" # themify icon pack: https://themify.me/themify-icons
-    content : "H.E.L.P. technology manipulates the existing technology in today’s vehicles making adoption simple and cost effective"
+    content : "H.E.L.P. technology manipulates the existing technology in today’s vehicles, making adoption simple and cost effective"
     
   # service item loop
   - title : "Scalability"
     icon : "ti-stats-up" # themify icon pack: https://themify.me/themify-icons
-    content : "Improved first responder time and driver to driver communication utilizing V2V and V2X technologies"
+    content : "Advanced first responder and driver to driver communication utilizing V2V (Vehicle-Vehicle) and V2X (Vehicle-Environment) technologies"
     
   # service item loop
   - title : "Sales Driver"
     icon : "ti-rocket" # themify icon pack: https://themify.me/themify-icons
-    content : "Early adoption of H.E.L.P. technology is the catalyst for any OEM business striving to achieve a competitive advantage in safety"
+    content : "Early adoption of ESS's H.E.L.P. technology is the catalyst for any OEM business striving to achieve a competitive advantage in safety"
     
   # service item loop
 #  - title : "Business Consulting"
