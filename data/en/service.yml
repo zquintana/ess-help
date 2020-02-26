@@ -3,22 +3,22 @@ services:
   # service item loop
   - title: "Save Lives"
     icon: "ti-heart" # themify icon pack: https://themify.me/themify-icons
-    content: "Increased vehicle conspicuity has been proven to decrease the likelihood of secondary (moving to non-moving) collisions"
+    content: "Increased vehicle conspicuity is a proven techinque that reduces secondary collisions (moving vehicles hitting non-moving vehicles) and pedestrian fatalities"
     
   # service item loop
   - title : "Low Integration Cost"
     icon : "ti-money" # themify icon pack: https://themify.me/themify-icons
-    content : "Easy to integrate H.E.L.P. technology into new and existing vehicles using current vehicle lighting components"
+    content : "Easily integrated into new and existing vehicles using current vehicle lighting hardware and controls"
     
   # service item loop
   - title : "Cost-Safety-Benefit"
     icon : "ti-bar-chart" # themify icon pack: https://themify.me/themify-icons
-    content : "Most effective safety solution since the application of the seatbelt. Cost less than .05% of a vehicle."
+    content : "At a cost of less than 5/100ths of a percent of average new vehicle MSRP, H.E.L.P. provides the best cost-benefit of any safety feature since the seatbelt."
     
   # service item loop
-  - title : "No Add Ons Necessary"
+  - title : "No Additional Hardware Needed"
     icon : "ti-hummer" # themify icon pack: https://themify.me/themify-icons
-    content : "H.E.L.P. technology manipulates the existing technology in today’s vehicles, making adoption simple and cost effective"
+    content : "The H.E.L.P. solution is deployed via software update to existing vehicle hardware architectures, making adoption simple and cost-effective"
     
   # service item loop
   - title : "Scalability"
