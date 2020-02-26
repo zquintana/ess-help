@@ -34,7 +34,7 @@ likelihood of moving vehicles striking stationary, disabled vehicles. The Hazard
 Lighting Package (H.E.L.P.) adds intelligence and enhanced functions to existing vehicle 
 lighting control systems, lights, and switchgear to provide the best safety-cost-benefit 
 profile of any original equipment vehicle feature since the advent of the seat belt. The 
-integration of H.E.L.P. can be easily deployed via over-the-air (OTA) software or via OEM-level 
+integration of H.E.L.P. is easily deployed via over-the-air (OTA) software or via OEM-level 
 manual software updates to the body control module (BCM) of any LED-equipped passenger vehicle.
 
 {{< figure src="/images/cost-of-updates-vs-lives-saved-768x414.png" alt="Cost of Updates vs Lives Saved" >}}
@@ -47,12 +47,12 @@ Thanks to recent advances in automotive lighting and vehicle communication syste
 vehicles are equipped with enhanced hazard / emergency communication functions which append to 
 standard 1.5Hz to 2.0Hz hazard lighting functionality.  When activated, H.E.L.P. provides 
 emergency "strobing" of the vehicle’s hazard lights and side markers at an accelerated rate of 
-4Hz to 6Hz; as well as digital messaging via integration with V2V and V2X platforms to provide 
+4.0Hz to 6.0Hz; as well as digital messaging via integration with V2V and V2X platforms to provide 
 GPS and emergency response communication systems with advanced notification of a stationary, 
-disabled vehicle on the roadway. High flash rate emergency lighting is a time-tested technique 
-to increase roadway safety.  It has been protecting tow truck drivers, roadway construction 
-personnel, and emergency responders for decades.  Now is the time to extend this same protection 
-to the other 99% of roadway users – mothers, fathers, and children.  H.E.L.P.'s lighting pattern 
+disabled vehicle on or near the roadway. High flash rate emergency lighting is a time-tested technique 
+to increase roadway safety.  We have been protecting tow truck drivers, roadway construction 
+personnel, and emergency responders for decades.  Now is the time to extend this protection 
+to the other 99% of roadway users – mothers, fathers, and children.  H.E.L.P.'s emergency lighting pattern 
 has been developed and optimized to make it (a) effective in eliciting driver response, (b) 
 clearly distinct from emergency responder flash patterns, and (c) compliant with US federal 
 motor vehicle standards (FMVSS 108) and state traffic laws.
