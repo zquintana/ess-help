@@ -9,7 +9,7 @@ busy highways and roads. Dealing with flat tires, fender benders, and overheatin
 should not lead to an injury or loss of life.
 
 A recent study of the National Highway Traffic Safety Administration’s fatality data found
-that during the 10-year period of 2008 to 2017, between 6,500 and 10,000 people lost their 
+that during the 10-year period of 2008 to 2017, up to 10,000 people lost their 
 lives and more than 500,000 people were injured on roadways in the following scenarios:
 
 1. A moving vehicle strikes a non-moving, disabled vehicle on or adjacent to the roadway, 
@@ -25,7 +25,7 @@ safely react.
 
 {{< youtube c6GkXHmdyvA page-video >}}
 
-To see more examples of preventative tragedies, [click here](mailto:atucker@ess-help.com).
+To see more examples of preventative tragedies, [click here](https://www.ess-help.com/preventable-tragedies/).
 
 ### How ESS Can H.E.L.P.
 
