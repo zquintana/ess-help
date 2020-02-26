@@ -23,12 +23,12 @@ services:
   # service item loop
   - title : "Scalability"
     icon : "ti-stats-up" # themify icon pack: https://themify.me/themify-icons
-    content : "Advanced first responder and driver to driver communication utilizing V2V (Vehicle-Vehicle) and V2X (Vehicle-Environment) technologies"
+    content : "Advanced first responder and driver-to-driver communication with integration to V2V (Vehicle to Vehicle) and V2X (Vehicle to Environment) platforms"
     
   # service item loop
-  - title : "Sales Driver"
+  - title : "Sales Value"
     icon : "ti-rocket" # themify icon pack: https://themify.me/themify-icons
-    content : "Early adoption of ESS's H.E.L.P. technology is the catalyst for any OEM business striving to achieve a competitive advantage in safety"
+    content : "Safety sells cars. Consumers expect us to produce cars that reduce fatal and non-fatal crashes. H.E.L.P. delivers on that expectation."
     
   # service item loop
 #  - title : "Business Consulting"
