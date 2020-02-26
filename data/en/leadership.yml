@@ -1,7 +1,7 @@
 team_member:
   ################### team member loop
   - name: "David Tucker"
-    image: "images/team/david-tucker.jpeg"
+    image: "images/team/david-tucker2.jpg"
     designation: "Chief Executive Officer and Chairman of the Board"
     content: "David Tucker is the founder and Chief Executive Officer of ESS. He is responsible for developing and executing ESS’s business plan and research & development program, as well as securing the company’s intellectual property. David is an entrepreneur with more than 25 years of experience building and divesting start-ups. Before he founded ESS, David served as president of Canyon Offshore, Inc. He also co-founded UTEC Survey International as well as Valkyrie Commissioning Services, Inc. He holds an MBA from Rice University and a bachelor’s degree in Business Administration from Chapman University and is the inventor of 10 patents worldwide."
     social:
@@ -45,7 +45,7 @@ team_member:
 
   ################### team member loop
   - name: "Mike Incorvaia"
-    image: "images/team/mike-incorvaia.jpg"
+    image: "images/team/mike-incorvia2.jpg"
     designation: "Senior Vice President of Business Development"
     content: "Mike Incorvaia is the Senior Vice President of Business Development and Director for ESS. Mike is responsible for the development and execution of ESS’ business development endeavors with the vision to make H.E.L.P. a standard feature on every new car produced across the globe.  Mike is a technology-based entrepreneur with broad experience in international corporate automotive manufacturing industries. Before joining ESS, he was positioned as founder, CEO and president of Novita Technologies and then transitioned to CEO of Osram-Novita. Mike earned his bachelor’s degree in Electrical and Computer Engineering from Ohio University."
     social:
@@ -63,7 +63,7 @@ team_member:
 
   ################### team member loop
   - name: "James D. Ray"
-    image: "images/team/james-ray.jpg"
+    image: "images/team/jim-ray.jpg"
     designation: "Director"
     content: "James Ray is a Director for ESS. James is a nationally recognized transportation professional with more than 20 years of experience in government and the private sector. James completed a recent tenure in government in early 2019 where he served as Senior Advisor to Secretary Elaine Chao at the U.S. Department of Transportation (DOT). Prior to his service at USDOT, James worked as a principal at KPMG. During an earlier stint in government, James served in the Bush Administration as Chief Counsel and Acting Administrator for the Federal Highway Administration and later as the Deputy General Counsel for the White House Office of Management and Budget. James graduated from Georgetown University Law Center and earned his bachelor’s degree from the University of North Carolina Chapel Hill."
     social:
@@ -124,7 +124,7 @@ team_member:
   #          link : "#"
 
   - name: "Ramon Rodriguez"
-    image: "images/team/ramon-rodriguez.jpg"
+    image: "images/team/ramon-rodriguez2.jpg"
     designation: "Director"
     content: "Ramon Rodriguez is a Director for ESS. He also serves as the Audit Committee chair of PBS, and on the Board of Directors of Republic Services Inc. Ramon has previously served as chair of the Board of Directors of Republic Services Inc., president of the Florida Institute of Certified Public Accountants, chair of the Florida Board of Accountancy and chair, president and CEO for Madsen, Sapp, Mena, Rodriguez & Co. Rodriguez earned his bachelor’s degree in accounting from Florida Atlantic University and is a licensed CPA."
     social:
