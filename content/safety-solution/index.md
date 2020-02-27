@@ -66,4 +66,4 @@ beams" for your hazard light system for use in stationary emergency situations.
 {{< youtube tZLEB2spxLA page-video >}}
 
 For more detailed information about ESS’s proprietary HELP system, please contact us 
-directly at our Houston office (281) 507-8800 or click here.
+directly at our Houston office (281) 507-8800 or [click here](https://www.ess-help.com/contact-us/).
