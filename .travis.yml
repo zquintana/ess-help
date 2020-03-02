@@ -20,7 +20,7 @@ script:
 deploy:
   - provider: script
     skip_cleanup: true
-    script: firebase deploy --project ess-help --token $FIREBASE_TOKEN
+    script: "firebase deploy --project ess-help --token $FIREBASE_TOKEN"
     on:
       branch: master
 #  - provider: firebase
