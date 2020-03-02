@@ -13,7 +13,6 @@ install:
   - sudo dpkg -i hugo_extended_0.63.2_Linux-64bit.deb
   - npm install --prefix ./functions
   - npm install firebase-tools
-  - ls -la ./node_modules/.bin
 
 script:
   - hugo
@@ -21,7 +20,7 @@ script:
 deploy:
   - provider: script
     skip_cleanup: true
-    script: "firebase deploy --project ess-help --token $FIREBASE_TOKEN"
+    script: "./node_modules/.bin/firebase deploy --project ess-help --token $FIREBASE_TOKEN"
     on:
       branch: master
 #  - provider: firebase
