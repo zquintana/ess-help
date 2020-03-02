@@ -13,4 +13,4 @@ According to DPS, the incident occurred Friday morning on U.S. Hwy 59 South abou
 
 A disabled vehicle was parked on the side of the highway in the southbound shoulder. For what DPS describes as “unknown reasons,” Smith left the vehicle and walked into the southbound lane, where he was hit by a tractor semi-trailer.
 
-The driver of the semi-trailer, Luis Moreno, 33, was uninjured.
+The driver of the semi-trailer, Luis Moreno, 33, was uninjured
