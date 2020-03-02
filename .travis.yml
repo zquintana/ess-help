@@ -18,7 +18,7 @@ script:
 
 deploy:
   - provider: script
-    script: firebase deploy
+    script: firebase deploy --project ess-help
     on:
       branch: master
 #  - provider: firebase
