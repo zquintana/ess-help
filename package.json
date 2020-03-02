@@ -1,0 +1,9 @@
+{
+  "name": "ess-site",
+  "dependencies": {
+    "firebase-tools": "^7.14.0"
+  },
+  "scripts": {
+    "deploy": "firebase deploy --project ess-help"
+  }
+}
