@@ -1,0 +1,3 @@
+{{ range .Site.Params.social }}
+<a href="{{ .link | safeURL }}" target="_blank"><i class="{{ .icon }}"></i></a>
+{{ end }}

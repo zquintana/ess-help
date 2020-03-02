@@ -10,4 +10,4 @@ Houston, TX 77024
 
 Email us at atucker@ess-help.com  
 Call us at 281-507-8800  
-Follow us on social media  
+Follow us on social media: {{< social-links >}}
