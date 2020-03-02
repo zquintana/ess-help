@@ -1,6 +1,6 @@
 {
   "name": "ess-site",
-  "dependencies": {
+  "devDependencies": {
     "firebase-tools": "^7.14.0"
   },
   "scripts": {
