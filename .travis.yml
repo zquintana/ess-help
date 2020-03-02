@@ -7,12 +7,13 @@ before_install:
   - . $HOME/.nvm/nvm.sh
   - nvm install 10
   - nvm use 10
-  - npm install firebase-tools
 
 install:
   - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.63.2/hugo_extended_0.63.2_Linux-64bit.deb
   - sudo dpkg -i hugo_extended_0.63.2_Linux-64bit.deb
   - npm install --prefix ./functions
+  - npm install firebase-tools
+  - ls -la ./node_modules/.bin
 
 script:
   - hugo
