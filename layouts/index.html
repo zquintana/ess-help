@@ -11,7 +11,7 @@
       <div class="col-lg-9 col-md-12">
         <div class="text-center">
           <span class="d-block mb-3 text-uppercase">{{ .subtitle | markdownify }}</span>
-          <h1 class="animated fadeInUp mb-5 text-white">{{ .title | markdownify }}</h1>
+          <h1 class="animated fadeInUp mb-5 text-white" id="preventable-counter">{{ .title | markdownify }}</h1>
           {{ if .button_solid.enable }}
           {{ with .button_solid }}
           <a href="{{ .link | absLangURL }}" class="btn btn-main animated fadeInUp mr-1 mb-2 mb-lg-0">{{ .label }}<i class="btn-icon ti-angle-right ml-2"></i></a>

@@ -90,3 +90,6 @@
   ga('send', 'pageview');
 </script>
 {{ end }}
+
+{{ $homepageScript := resources.Get "js/homepage.js" | minify }}
+<script src="{{ $homepageScript.Permalink }}"></script>
