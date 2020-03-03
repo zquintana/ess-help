@@ -3,7 +3,7 @@ services:
   # service item loop
   - title: "Save Lives"
     icon: "ti-heart" # themify icon pack: https://themify.me/themify-icons
-    content: "Increased vehicle conspicuity is a proven techinque that reduces secondary collisions (moving vehicles hitting stationary vehicles) and pedestrian fatalities"
+    content: "Increased vehicle conspicuity is a proven technique that reduces secondary collisions (moving vehicles hitting stationary vehicles) and pedestrian fatalities"
     
   # service item loop
   - title : "Low Integration Cost"
