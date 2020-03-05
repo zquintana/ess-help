@@ -94,7 +94,7 @@ author = "Themefisher"
 # contact info
 address = "Emergency Safety Solutions, Inc.\n825 Town and Country Lane, Suite 1200\nHouston, TX 77024"
 phone = "281-507-8800"
-email = "atucker@ess-help.com"
+email = "dtucker@ess-help.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
