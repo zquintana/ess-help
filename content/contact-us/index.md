@@ -8,6 +8,6 @@ Emergency Safety Solutions, Inc.
 Suite 1200  
 Houston, TX 77024
 
-Email us at atucker@ess-help.com  
+Email us at dtucker@ess-help.com  
 Call us at 281-507-8800  
 Follow us on social media: {{< social-links >}}
