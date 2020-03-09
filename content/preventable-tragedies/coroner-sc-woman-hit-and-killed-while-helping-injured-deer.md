@@ -1,7 +1,7 @@
 ---
 credit:
   source: Fox 46 
-  url: https://www.fox46charlotte.com/news/coroner-sc-woman-hit-and-killed-while-helping-injured-deerdate: '2020-02-27'
+  url: https://www.fox46charlotte.com/news/coroner-sc-woman-hit-and-killed-while-helping-injured-deerdate
   date: '2020-03-09'
 title: Coroner: SC woman hit and killed while helping injured deer
 ---
