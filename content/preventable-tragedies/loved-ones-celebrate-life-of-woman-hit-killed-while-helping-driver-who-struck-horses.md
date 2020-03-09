@@ -2,7 +2,7 @@
 credit:
   source: News 4 Jacksonville 
   url: https://www.news4jax.com/news/local/2020/03/08/loved-ones-celebrate-life-of-woman-hit-killed-while-helping-driver-who-struck-horses/  
-  date: '2020-03-08'
+date: '2020-03-08'
 title: Loved ones celebrate life of woman hit, killed while helping driver who struck horses
 ---
 According to the Highway Patrol report, a Toyota 4Runner was traveling south on U.S. 301 about 6:45 p.m. Feb. 27 when it hit two horses standing in the southbound lanes of the highway. The horses died from their injuries.
