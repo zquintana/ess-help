@@ -2,7 +2,7 @@
 credit:
   source: Fox 46 
   url: https://www.fox46charlotte.com/news/coroner-sc-woman-hit-and-killed-while-helping-injured-deerdate: '2020-02-27'
-  date: '2020-03-08'
+  date: '2020-03-09'
 title: Coroner: SC woman hit and killed while helping injured deer
 ---
 ANDERSON, S.C. (AP) - A woman who authorities say stopped to help an injured deer on a South Carolina road was struck and killed by a vehicle.
