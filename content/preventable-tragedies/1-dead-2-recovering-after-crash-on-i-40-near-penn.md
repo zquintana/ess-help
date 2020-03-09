@@ -2,7 +2,7 @@
 credit:
   source: Oklahoma's Own 9 
   url: https://www.news9.com/story/41868894/1-dead-2-recovering-after-crash-on-i40-near-penn
-  date: '2020-03-09'
+date: '2020-03-09'
 title: 1 Dead, 2 Recovering After Crash On I-40 Near Penn
 ---
 One person is dead and two others are recovering after a deadly crash on Interstate 40 near Pennsylvania Avenue Saturday night. 
