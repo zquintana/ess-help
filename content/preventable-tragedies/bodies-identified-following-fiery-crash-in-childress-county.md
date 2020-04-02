@@ -3,7 +3,7 @@ credit:
   source: News Channel 6 Now
   url: https://www.newschannel6now.com/story/35819032/bodies-identified-following-fiery-crash-in-childress-county
 date: '2017-08-10'
-title: Bodies identified following fiery crash in Childress County
+title: "Bodies identified following fiery crash in Childress County"
 ---
 
 
