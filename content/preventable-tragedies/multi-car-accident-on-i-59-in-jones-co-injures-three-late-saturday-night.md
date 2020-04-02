@@ -3,11 +3,8 @@ credit:
   source: WDAM 7
   url: https://www.wdam.com/2020/03/22/multi-car-accident-i-jones-co-injures-three-late-saturday-night/
 date: '2020-03-22'
-title: Multi-car accident on I-59 in Jones Co. injures three late Saturday night
+title: "Multi-car accident on I-59 in Jones Co. injures three late Saturday night"
 ---
- 
-
-By Renaldo Hopkins | March 22, 2020 at 4:34 PM CDT - Updated March 22 at 4:34 PM
 ELLISVILLE, Miss. (WDAM) - Volunteer fire departments, along with the Jones County Sheriff’s Office and the Mississippi Highway Patrol, were on the scene of a multi-vehicle accident late Saturday night that injured three individuals.
 
 Moselle, Union, and Southwest volunteer fire departments responded to the collision on Interstate 59 at the U.S. Highway 84 marker in the northbound lanes about 10:30 p.m. after the call came in as a five-car pile-up until first responders arrived to find only three vehicles involved.
