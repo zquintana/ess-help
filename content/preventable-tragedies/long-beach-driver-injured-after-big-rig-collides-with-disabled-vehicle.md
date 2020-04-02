@@ -1,7 +1,7 @@
 ---
 credit:
   source: Onscene.tv
-  url: https://onscene.tv/long-beach-driver-injured-after-big-rig-collides-with-disabled-vehicle/
+  url:  https://onscene.tv/long-beach-driver-injured-after-big-rig-collides-with-disabled-vehicle/
 date: '2020-04-01'
 title: Long Beach: Driver Injured After Big Rig Collides With Disabled Vehicle
 ---
