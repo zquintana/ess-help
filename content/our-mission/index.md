@@ -16,7 +16,7 @@ highways and roads. Dealing with flat tires, fender benders, and overheating eng
 lead to injury or loss of life.
 
 A recent study of the National Highway Traffic Safety Administration’s (NHTSA) fatality data found that 
-during the 10-year period of 2008 to 2017, up to 10,000 people lost their lives and more than 500,000 people were injured on roadways in the following scenarios:
+during the 10-year period of 2008 to 2017, up to 10,000 people lost their lives and more than 150,000 people were injured on roadways in the following scenarios:
 
 1.	A moving vehicle strikes a non-moving, disabled vehicle on or adjacent to the roadway, including multiple car pile-ups;
 2.	A pedestrian is struck while attending to disabled vehicle on or adjacent to roadway;
