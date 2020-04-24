@@ -3,7 +3,7 @@ title: "Intellectual Property"
 type: ip
 ---
 
-### 34 awarded and pending patents in 32 countries. 
+### 49 awarded and pending patents in 46 countries. 
 
 7 awarded foundational patents supplemented by dozens of variation and supplemental patents 
 worldwide.  The strength of our patent portfolio protects automakers and customers as a 
