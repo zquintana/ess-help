@@ -12,6 +12,12 @@ patent:
     type: Foreign Patent
     state: Australia
 
+  - case: 2018 205070
+    title: ENHANCED COMMUNICATION SYSTEM FOR VEHICLE HAZARD LIGHTS
+    serial: 2018 205070
+    type: Foreign Patent
+    state: Australia
+
   - case: 012644-00001
     title: ENHANCED COMMUNICATION SYSTEM FOR VEHICLE HAZARD LIGHTS
     serial: 2,942,926
@@ -50,6 +56,6 @@ patent:
 
   - case: 16801945.3
     title: ENHANCED COMMUNICATION SYSTEM FOR VEHICLE HAZARD LIGHTS
-    serial: Pending
+    serial: 16801945.3
     type: Foreign Patent
     state: European Union*
