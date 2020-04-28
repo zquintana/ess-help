@@ -2,8 +2,8 @@
 title: "Intellectual Property"
 type: ip
 ---
-
-### 49 Awarded and Active Variation Patent Program in 46 Countries 
+ 
+### 49 Awarded and Comprehensive Variation Patent Program in 46 Countries. 
 
 7 awarded foundational patents supplemented by dozens of variation and supplemental patents 
 worldwide.  The strength of our patent portfolio protects automakers and customers as a 
