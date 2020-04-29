@@ -56,6 +56,6 @@ patent:
 
   - case: 16801945.3
     title: ENHANCED COMMUNICATION SYSTEM FOR VEHICLE HAZARD LIGHTS
-    serial: 16801945.3
+    serial: "16801945.3"
     type: Foreign Patent
     state: European Union*
