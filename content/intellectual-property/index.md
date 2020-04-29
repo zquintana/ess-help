@@ -3,9 +3,9 @@ title: "Intellectual Property"
 type: ip
 ---
  
-### Comprehensive Portfolio of 49 Awarded and Open Variations in 46 Countries 
+## Comprehensive Portfolio of 49 Awarded Patents and Open Variation Applications in 46 Countries 
 
-7 awarded foundational patents supplemented by dozens of variation and supplemental patents 
+47 awarded foundational patents supplemented by dozens of variation and supplemental patents 
 worldwide.  The strength of our patent portfolio protects automakers and customers as a 
 foundation of standardization.  Consistency is the key ingredient to effective communication 
 on the road.  As the patentholder of emergency lighting output driven by original equipment 
