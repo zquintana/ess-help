@@ -3,7 +3,7 @@ title: "Intellectual Property"
 type: ip
 ---
  
-### Comprehensive Portfolio of 49 Awarded and Open Variations in 46 Countries 
+### Comprehensive Portfolio of 49 Awarded Patents and Open Variations in 46 Countries 
 
 7 awarded foundational patents supplemented by dozens of variation and supplemental patents 
 worldwide.  The strength of our patent portfolio protects automakers and customers as a 
