@@ -1,9 +1,9 @@
 ---
 credit:
-  source: NBC News
+  source: KDVR News
   url: https://kdvr.com/news/man-dies-after-being-struck-by-vehicle-on-shoulder-of-highway-52-in-fort-lupton/
-date: '2020-05-19'
-title: "A couple went missing the same night of a car wreck. Police took 2 weeks to find their bodies and car."
+date: '2020-05-20'
+title: "Man dies in Fort Lupton hit-and-run; search for suspect underway"
 ---
 FORT LUPTON, Colo. (KDVR) — A man was struck and killed by a car while outside of his vehicle on the shoulder of the 10200 block of Highway 52 on Tuesday, according to the Fort Lupton Police Department.
 
