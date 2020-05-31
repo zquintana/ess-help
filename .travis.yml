@@ -26,6 +26,6 @@ deploy:
 
   - provider: script
     skip_cleanup: true
-    script: "npm run deploy:production"
+    script: "npm run deploy:staging"
     on:
       branch: staging
