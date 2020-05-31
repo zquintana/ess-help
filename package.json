@@ -4,6 +4,7 @@
     "firebase-tools": "^7.14.0"
   },
   "scripts": {
-    "deploy": "firebase deploy --project ess-help"
+    "deploy:production": "firebase deploy --project ess-help",
+    "deploy:staging": "firebase deploy --project ess-help---staging"
   }
 }
