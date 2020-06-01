@@ -31,9 +31,9 @@ services:
     content : "Safety sells cars. Consumers expect us to produce cars that reduce fatal and non-fatal crashes. H.E.L.P. delivers on that expectation."
     
      # service item loop
-  - title : "Standarization"
-    icon : "ti-face-smile" # themify icon pack: https://themify.me/themify-icons
-    content : "Thanks to H.E.L.P.'s ability to make passenger vehicles easily distinguisable from first responders, the H.E.L.P solution will become a standard safety feature on all brands around the globe."
+#  - title : "Standarization"
+#    icon : "ti-face-smile" # themify icon pack: https://themify.me/themify-icons
+#    content : "Thanks to H.E.L.P.'s ability to make passenger vehicles easily distinguisable from first responders, the H.E.L.P solution will become a standard safety feature on all brands around the globe."
     
   # service item loop
 #  - title : "Business Consulting"
