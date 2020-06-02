@@ -33,7 +33,7 @@ services:
   # service item loop
   - title : "Standarization"
     icon : "ti-stamp" # themify icon pack: https://themify.me/themify-icons
-    content : "H.E.L.P's optical pattern is designed to be easily distinguishable from first responders and roadway workers, allowing for a uniformly accepted solution on all passenger vehicle makes and models around the globe."
+    content : "ESS designed H.E.L.P. for standardized deployment, using a flash pattern that is consistent in all vehicle models and is visually distinct from roadway worker and emergency responder vehicles."
     
   # service item loop
 #  - title : "Business Consulting"
