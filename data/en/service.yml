@@ -30,10 +30,10 @@ services:
     icon : "ti-rocket" # themify icon pack: https://themify.me/themify-icons
     content : "Safety sells cars. Consumers expect us to produce cars that reduce fatal and non-fatal crashes. H.E.L.P. delivers on that expectation."
     
-     # service item loop
-#  - title : "Standardization"
-#    icon : "ti-stamp" # themify icon pack: https://themify.me/themify-icons
-#    content : "H.E.L.P's optical pattern is easily distinguishable from first responders, thus allowing for a uniformly accepted solution on all vehicle makes and models around the globe."
+  # service item loop
+  - title : "Standarization"
+    icon : "ti-stamp" # themify icon pack: https://themify.me/themify-icons
+    content : "H.E.L.P's optical pattern is designed to be easily distinguishable from first responders and roadway workers, allowing for a uniformly accepted solution on all passenger vehicle makes and models around the globe."
     
   # service item loop
 #  - title : "Business Consulting"
