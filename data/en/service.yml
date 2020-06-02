@@ -33,7 +33,7 @@ services:
      # service item loop
   - title : "Standarization"
     icon : "ti-stamp" # themify icon pack: https://themify.me/themify-icons
-    content : "Thanks to H.E.L.P.'s ability to make passenger vehicles easily distinguisable from first responders, the H.E.L.P solution will become a standard safety feature on all brands around the globe."
+    content : "H.E.L.P's optical pattern is easily distinguishable from first responders, thus allowing for a uniformly accepted solution on all vehicle makes and models around the globe."
     
   # service item loop
 #  - title : "Business Consulting"
