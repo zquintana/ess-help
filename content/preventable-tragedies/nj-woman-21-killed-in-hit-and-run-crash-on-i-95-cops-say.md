@@ -2,7 +2,7 @@
 credit:
   source: NJ True Jersey
   url: https://www.nj.com/bergen/2020/06/nj-woman-21-killed-in-hit-and-run-crash-on-i-95-cops-say.html
-date: '2020-05-04'
+date: '2020-06-04'
 title: "N.J. woman, 21, killed in hit-and-run crash on I-95, cops say"
 ---
 A 21-year-old Bergen County woman who stepped out of her SUV after a three-vehicle crash Thursday on the New Jersey Turnpike in Fort Lee was struck and killed by a tractor-trailer whose driver fled the scene, authorities said.
