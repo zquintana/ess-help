@@ -2,7 +2,7 @@
 credit:
   source: Tampa Bay Times
   url: https://www.tampabay.com/news/2020/06/01/five-car-pileup-in-tampa-kills-one/
-date: '2020-05-01'
+date: '2020-06-01'
 title: "Five-car pileup in Tampa kills one"
 ---
 Tampa homicide detectives are investigating a car crash that killed one person Monday morning.
