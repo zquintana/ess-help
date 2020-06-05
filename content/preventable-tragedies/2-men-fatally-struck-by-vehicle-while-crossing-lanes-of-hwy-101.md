@@ -2,8 +2,8 @@
 credit:
   source: SF Gate
   url: https://www.sfgate.com/news/bayarea/article/Man-Fatally-Struck-By-Vehicle-While-Crossing-15314406.php
-date: '2020-06-03'
-title: "2 Men Fatally Struck By Vehicle While Crossing Lanes Of Hwy 101"
+date: '2020-06-04'
+title: "N.J. woman, 21, killed in hit-and-run crash on I-95, cops say"
 ---
 A 66-year-old San Jose man was struck and killed after getting out of his vehicle and trying to cross U.S. Highway 101 in San Martin in Santa Clara County early Wednesday morning, according to the California Highway Patrol.
 
