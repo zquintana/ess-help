@@ -1,7 +1,7 @@
 ---
 credit:
-  source: The Legal Advocate
-  url: https://www.news4jax.com/news/local/2020/02/28/fhp-woman-2-horses-dead-in-crash-on-us-301-in-callahan/
+  source: San Diego Tribune
+  url: https://www.sandiegouniontribune.com/news/california/story/2020-03-01/woman-dies-after-being-hit-by-truck-on-california-freeway
 date: '2020-02-29'
 title: Woman dies after being hit by big rig in San Juan Capistrano
 ---
