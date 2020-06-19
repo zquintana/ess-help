@@ -20,11 +20,22 @@ banner:
 banner_cta:
   enable : true
   title : "The H.E.L.P. drivers need until HELP arrives"
-  content : "Our mission is to protect roadway users with our patented Hazard Enhanced Lighting Package as standard original equipment on every vehicle worldwide"
+  content : "ESS (Emergency Safety Solutions) is focused on saving lives by eliminating hundreds of thousands of preventable accidents. H.E.L.P. uses highly visible flash patterns to provide instant, unavoidable visibility and give drivers advanced notice of hazards on or near the roadway while helping to combat driver distraction."
   button:
     enable : true
     label : "Learn more"
     link : "safety-solution"
+    
+######################## About #######################################
+about:
+  enable : True
+  image : 
+  title : "Add Intelligence to Your Hazards"
+  content : "H.E.L.P. revolutionizes traditional hazard lights to emit highly visible flash patterns that provide instant, unavoidable visibility. This gives drivers advanced notice of hazards on or near the roadway and combats driver distraction. H.E.L.P. can be deployed manually or automatically upon an emergency event, in conjunction (in cooperation) with other emergency equipment inside the vehicle."
+  button:
+    enable : false
+    label : "Get started"
+    link : "pricing"
 
 ########################## feature ########################################
 feature:
@@ -39,7 +50,7 @@ feature:
     # feature item loop
     - title : "Manual Activation"
       icon : "ti-control-eject" # icon pack : https://themify.me/themify-icons
-      content : "Simple two-click hazard switch activation. Ideal solution for disabled vehicles in hazardous conditions requiring increased vehicle conspicuity."
+      content : "Simple two-click hazard lighting switch activation working in conjunction with other emergency equipment inside the vehicle. The ideal solution for disabled vehicles in hazardous conditions requiring increased visibility."
 
 ######################## About #######################################
 about:
