@@ -25,16 +25,6 @@ banner_cta:
     enable : true
     label : "Learn more"
     link : "safety-solution"
-    
-######################## Banner ############################
-banner_cta:
-  enable : true
-  title : "Unheralded Roadway Protection"
-  content : "H.E.L.P. revolutionizes traditional hazard lights to emit highly visible flash patterns that provide instant, unavoidable visibility. This gives drivers advanced notice of hazards on or near the roadway and combats driver distraction. H.E.L.P. can be deployed manually or automatically upon an emergency event, in conjunction (in cooperation) with other emergency equipment inside the vehicle."
-  button:
-    enable : False
-    label : "Learn more"
-    link : "safety-solution"
 
 ########################## feature ########################################
 feature:
