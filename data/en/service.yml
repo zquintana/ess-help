@@ -18,12 +18,12 @@ services:
   # service item loop
   - title : "No Additional Hardware Needed"
     icon : "ti-hummer" # themify icon pack: https://themify.me/themify-icons
-    content : "The H.E.L.P. solution is deployed via software update to existing vehicle hardware architectures, making adoption simple and cost-effective"
+    content : "In most cases, the H.E.L.P. solution is integrated through a software update to existing vehicle hardware architectures, making adoption simple and cost-effective"
     
   # service item loop
   - title : "Scalability"
     icon : "ti-stats-up" # themify icon pack: https://themify.me/themify-icons
-    content : "Advanced first responder and driver-to-driver communication with integration to V2V (Vehicle to Vehicle) and V2X (Vehicle to Environment) platforms"
+    content : "H.E.L.P. can be integrated with advanced first responder and driver-to-driver communication to create an intelligent lighting control and communication safety system that operates with V2V (Vehicle to Vehicle) and V2X (Vehicle to Environment) platforms"
     
   # service item loop
   - title : "Sales Value"
