@@ -30,6 +30,10 @@ banner_cta:
 feature:
   enable : true
   title : "Two Activation Modes"
+  description: "H.E.L.P. revolutionizes traditional hazard lights to emit highly visible flash patterns that
+    provide instant, unavoidable visibility. This gives drivers advanced notice of hazards on or near the
+    roadway and combats driver distraction. H.E.L.P. can be deployed manually or automatically upon an emergency
+    event, in conjunction (in cooperation) with other emergency equipment inside the vehicle."
   feature_item:
     # feature item loop
     - title : "Auto Deployment"
