@@ -8,7 +8,7 @@ services:
   # service item loop
   - title : "Low Integration Cost"
     icon : "ti-money" # themify icon pack: https://themify.me/themify-icons
-    content : "Easily integrated into new and existing vehicles using current vehicle lighting hardware and controls"
+    content : "Implementation cost of H.E.L.P. varies by vehicle make and model but is incorporated at the automaker level for minimal cost, depending on the vehicle’s current lighting system"
     
   # service item loop
   - title : "Cost-Safety-Benefit"
@@ -28,7 +28,7 @@ services:
   # service item loop
   - title : "Sales Value"
     icon : "ti-rocket" # themify icon pack: https://themify.me/themify-icons
-    content : "Safety sells cars. Consumers expect us to produce cars that reduce fatal and non-fatal crashes. H.E.L.P. delivers on that expectation."
+    content : "Today’s outdated standard vehicle hazard system has not changed since its introduction 70 years ago. H.E.L.P. revolutionizes this function, to create an intelligent lighting control and safety communication system that will eliminate hundreds of thousands preventable accidents."
     
      # service item loop
   - title : "Standarization"
