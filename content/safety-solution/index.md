@@ -8,7 +8,7 @@ People are injured or killed in preventable tragedies involving disabled vehicle
 
 Preventable tragedies involving disabled vehicles include scenarios such as:
 
-1. A moving vehicle strikes a non-moving, disabled vehicle on or adjacent to the roadway, including multiple car pile-ups.
+1. A moving vehicle strikes a non-moving, disabled vehicle on or adjacent to the roadway, often leading to multiple car pile-ups.
 2. A pedestrian is struck while attending to a disabled vehicle on or adjacent to the roadway.
 3. A vehicle runs off the roadway, strikes a fixed object, and the accident goes unnoticed by passersby for hours or days while trapped vehicle occupants expire.
 
