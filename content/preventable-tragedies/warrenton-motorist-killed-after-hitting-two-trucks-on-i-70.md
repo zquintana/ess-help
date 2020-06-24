@@ -1,7 +1,7 @@
 ---
 credit:
   source: St. Louis Today
-  url:https://www.stltoday.com/news/local/crime-and-courts/warrenton-motorist-killed-after-hitting-two-trucks-on-i-70/article_4a7940c6-f486-5589-89c5-3bf99d926331.html
+  url: https://www.stltoday.com/news/local/crime-and-courts/warrenton-motorist-killed-after-hitting-two-trucks-on-i-70/article_4a7940c6-f486-5589-89c5-3bf99d926331.html
 date: '2020-06-24'
 title: "Warrenton motorist killed after hitting two trucks on I-70"
 ---
