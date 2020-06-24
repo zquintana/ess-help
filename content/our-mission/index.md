@@ -4,7 +4,7 @@ title: "Our Mission"
 ### Who is ESS
 Emergency Safety Solutions (ESS) is focused on saving lives by helping to eliminate hundreds of thousands of preventable accidents involving vehicles that are in an emergency, disabled or parked on the side of the road. Using experience, industry expertise, logic and energy, we develop new strategies and technologies to help prevent future accidents.
 
-### Low Conspicuity Emergencies
+### Low Visibility Roadway Emergencies
 Every day, people are injured or killed in easily preventable tragedies involving disabled vehicles, and the numbers continue to climb. Recent studies (2017-2018) show a nearly 10% annual increase in these types of accidents with a nearly 40% increase in fatalities of pedestrians attending to disabled vehicles. Today, more than 200 preventable crashes involving disabled or stationary vehicles happen every day in the U.S. alone.
 
 Preventable tragedies involving disabled vehicles include scenarios like:
