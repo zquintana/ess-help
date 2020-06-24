@@ -3,12 +3,17 @@ services:
   # service item loop
   - title: "Save Lives"
     icon: "ti-heart" # themify icon pack: https://themify.me/themify-icons
-    content: "Increased vehicle conspicuity is a proven technique that reduces secondary collisions (moving vehicles hitting stationary vehicles) and pedestrian fatalities"
+    content: "Increased vehicle conspicuity is a proven technique that reduces secondary collisions (moving vehicles hitting stationary vehicles) and fatalities of pedestrians attending to disabled vehicles"
+    
+  # service item loop
+  - title : "Optimized Lighting Solution"
+    icon : "ti-stamp" # themify icon pack: https://themify.me/themify-icons
+    content : "The H.E.L.P. flash pattern operates within the 4-6 Hertz frequency range and adds up to an additional 30% increase in light intensity. ESS designed this optical solution for consistent deployment across the various OEM vehicle models."
     
   # service item loop
   - title : "Low Integration Cost"
     icon : "ti-money" # themify icon pack: https://themify.me/themify-icons
-    content : "Implementation cost of H.E.L.P. varies by vehicle make and model but is incorporated at the automaker level for minimal cost, depending on the vehicle’s current lighting system"
+    content : "Implementation cost of H.E.L.P. will vary by vehicle make and model but is deployed as an original equipment solution for minimal cost, depending on the vehicle’s current lighting system"
     
   # service item loop
   - title : "Cost-Safety-Benefit"
@@ -23,17 +28,12 @@ services:
   # service item loop
   - title : "Scalability"
     icon : "ti-stats-up" # themify icon pack: https://themify.me/themify-icons
-    content : "H.E.L.P. can be integrated with advanced first responder and driver-to-driver communication to create an intelligent lighting control and communication safety system that operates with V2V (Vehicle to Vehicle) and V2X (Vehicle to Environment) platforms"
+    content : "H.E.L.P. can be integrated with advanced first responder and driver-to-driver communication to create an intelligent communication safety solution that operates with V2V (Vehicle to Vehicle) and V2X (Vehicle to Environment) platforms to provide additional, digital advanced warning"
     
   # service item loop
   - title : "Sales Value"
     icon : "ti-rocket" # themify icon pack: https://themify.me/themify-icons
-    content : "Today’s outdated standard vehicle hazard system has not changed since its introduction 70 years ago. H.E.L.P. revolutionizes this function, to create an intelligent lighting control and safety communication system that will eliminate hundreds of thousands preventable accidents."
-    
-     # service item loop
-  - title : "Standarization"
-    icon : "ti-stamp" # themify icon pack: https://themify.me/themify-icons
-    content : "ESS designed H.E.L.P. for standardized deployment, using a flash pattern that is consistent in all vehicle models and is visually distinct from roadway worker and emergency responder vehicles."
+    content : "Today’s outdated standard vehicle hazard system has not changed since its introduction nearly 70 years ago. H.E.L.P. revolutionizes this function, making it an intelligent safety solution that will help eliminate hundreds of thousands preventable accidents."
     
   # service item loop
 #  - title : "Business Consulting"
