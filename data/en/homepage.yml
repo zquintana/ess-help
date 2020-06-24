@@ -20,7 +20,7 @@ banner:
 banner_cta:
   enable : true
   title : "The H.E.L.P. drivers need until HELP arrives"
-  content : "ESS (Emergency Safety Solutions) is focused on saving lives by helping to eliminate hundreds of thousands of preventable accidents involving vehicles that are in an emergency, disabled, or parked on the side of the road. Our Hazard Enhanced Lighting Package ("H.E.L.P.") uses highly visible hazard light flash patterns on LED lighting-equipped vehicles to provide instant, greatly enhanced visibility to give drivers more advance notice of oncoming hazards on or near the roadway, while also helping to combat driver distraction."
+  content : "Emergency Safety Solutions (ESS) is focused on saving lives by helping to eliminate hundreds of thousands of preventable accidents involving vehicles that are in an emergency, disabled, or parked on the side of the road. Our Hazard Enhanced Lighting Package ("H.E.L.P.") uses highly visible hazard light flash patterns on LED lighting-equipped vehicles to provide instant, greatly enhanced visibility to give drivers more advance notice of oncoming hazards on or near the roadway, while also helping to combat driver distraction."
   button:
     enable : true
     label : "Learn more"
@@ -30,20 +30,20 @@ banner_cta:
 feature:
   enable : true
   title : "Two Activation Modes"
-  description: "H.E.L.P. revolutionizes traditional hazard lights to emit highly visible flash patterns that
-    provide instant, unavoidable visibility. This gives drivers advanced notice of hazards on or near the
+  description: "H.E.L.P. revolutionizes traditional hazard lights on LED equipped vehicles by emitting highly visible flash patterns that
+    provide instant, greatly enhanced visibility. This gives drivers more advance notice of hazards on or near the
     roadway and combats driver distraction. H.E.L.P. can be deployed manually or automatically upon an emergency
-    event, in conjunction (in cooperation) with other emergency equipment inside the vehicle."
+    event, in conjunction with other emergency equipment inside the vehicle."
   feature_item:
     # feature item loop
     - title : "Auto Deployment"
       icon : "ti-wand" # icon pack : https://themify.me/themify-icons
-      content : "High flash rate emergency lights activate automatically upon collision, triggered by vehicle emergency detection systems."
+      content : "High flash rate emergency lights activate automatically upon a significant safety issue such as a collision or other event triggered by a vehicle's emergency detection system."
 
     # feature item loop
     - title : "Manual Activation"
       icon : "ti-control-eject" # icon pack : https://themify.me/themify-icons
-      content : "Simple two-click hazard lighting switch activation working in conjunction with other emergency equipment inside the vehicle. The ideal solution for disabled vehicles in hazardous conditions requiring increased visibility."
+      content : "Our simple two-click hazard lighting switch activation works in conjunction with other emergency equipment inside the vehicle. It is the ideal solution for disabled vehicles in hazardous conditions requiring increased visibility while at rest."
 
 ######################## About #######################################
 about:
