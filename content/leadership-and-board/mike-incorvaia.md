@@ -3,7 +3,7 @@ title: "Mike Incorvaia"
 type: leadership
 designation: "Senior Vice President of Business Development"
 image: "/images/team/mike-incorvia2.jpg"
-weight: 3
+weight: 40
 social:
   - icon: "ti-linkedin" # icon pack : https://themify.me/themify-icons
     link: "https://www.linkedin.com/in/mike-incorvaia-625a236/"
