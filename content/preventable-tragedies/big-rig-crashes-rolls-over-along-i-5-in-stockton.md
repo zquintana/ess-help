@@ -3,7 +3,7 @@ credit:
   source: KCRA 3
   url: https://www.kcra.com/article/big-rig-crashes-rolls-over-along-i-5-in-stockton/31094624
 date: '2020-02-25'
-title: 1 Killed in 2-Car Collision on 80 Freeway near Gilman Street in Berkeley
+title: "Big rig crashes, rolls over along I-5 in Stockton"
 ---
 STOCKTON, Calif. 
 A truck driver escaped a violent crash in Stockton with just minor injuries early Tuesday morning, according to the California Highway Patrol.

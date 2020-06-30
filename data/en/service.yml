@@ -4,7 +4,7 @@ services:
   - title: "Save Lives"
     icon: "ti-heart" # themify icon pack: https://themify.me/themify-icons
     content: "Increased vehicle conspicuity is a proven technique that reduces secondary collisions (moving vehicles hitting stationary vehicles) and fatalities of pedestrians attending to disabled vehicles"
-    
+
   # service item loop
   - title : "Optimized Lighting Solution"
     icon : "ti-stamp" # themify icon pack: https://themify.me/themify-icons
