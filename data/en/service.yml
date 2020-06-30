@@ -27,12 +27,12 @@ services:
     
   # service item loop
   - title : "Scalability"
-    icon : "ti-stats-up" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-cloud-up" # themify icon pack: https://themify.me/themify-icons
     content : "H.E.L.P. can be integrated with advanced first responder and driver-to-driver communication to create an intelligent communication safety solution that operates with V2V (Vehicle to Vehicle) and V2X (Vehicle to Environment) platforms to provide additional, digital advanced warning"
     
   # service item loop
   - title : "Sales Value"
-    icon : "ti-rocket" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-stats-up" # themify icon pack: https://themify.me/themify-icons
     content : "Today’s outdated standard vehicle hazard system has not changed since its introduction nearly 70 years ago. H.E.L.P. revolutionizes this function, making it an intelligent safety solution that will help eliminate hundreds of thousands preventable accidents."
     
   # service item loop
