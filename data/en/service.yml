@@ -7,7 +7,7 @@ services:
 
   # service item loop
   - title : "Optimized Lighting Solution"
-    icon : "ti-stamp" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-car" # themify icon pack: https://themify.me/themify-icons
     content : "The H.E.L.P. flash pattern operates within the 4-6 Hertz frequency range and adds up to an additional 30% increase in light intensity. ESS designed this optical solution for consistent deployment across the various OEM vehicle models."
     
   # service item loop
@@ -27,12 +27,12 @@ services:
     
   # service item loop
   - title : "Scalability"
-    icon : "ti-stats-up" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-cloud-up" # themify icon pack: https://themify.me/themify-icons
     content : "H.E.L.P. can be integrated with advanced first responder and driver-to-driver communication to create an intelligent communication safety solution that operates with V2V (Vehicle to Vehicle) and V2X (Vehicle to Environment) platforms to provide additional, digital advanced warning"
     
   # service item loop
   - title : "Sales Value"
-    icon : "ti-rocket" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-stats-up" # themify icon pack: https://themify.me/themify-icons
     content : "Today’s outdated standard vehicle hazard system has not changed since its introduction nearly 70 years ago. H.E.L.P. revolutionizes this function, making it an intelligent safety solution that will help eliminate hundreds of thousands preventable accidents."
     
   # service item loop
