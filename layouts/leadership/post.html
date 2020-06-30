@@ -1,0 +1,10 @@
+<div class="blog-item text-center " data-type="post-{{ .Type }}">
+    {{ if .Params.Image }}
+        <img src="{{ .Params.Image }}" alt="{{ .Title | markdownify }}" class="mb-4 rounded" style="max-width: 300px">
+    {{ end }}
+    {{ range .Params.Categories }}<span class="letter-spacing text-color text-sm text-uppercase"><a href="{{ `categories/` | relLangURL }}{{ . | lower }}"> {{ . | humanize }}</a></span>{{ end }}
+    <h3 class="mb-1"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h3>
+    <h5>{{ .Params.designation }}</h5>
+<!--    <p class="mt-3 mb-4">{{ .Summary }}</p>-->
+    <a href="{{ .Permalink }}" class="btn btn-main">{{ i18n "read_more" }}</a>
+</div>

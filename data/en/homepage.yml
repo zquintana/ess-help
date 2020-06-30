@@ -1,108 +1,116 @@
 ################################## Banner #################################
 banner:
-  enable : true
-  subtitle : "Preventable U.S. Disabled Vehicle Fatalities since 2008:"
-  title : "11,642"
+  enable: true
+  subtitle: "Preventable U.S. Disabled Vehicle Fatalities since 2008:"
+  title: "11,642"
 
   # solid button
   button_solid:
-    enable : true
-    label : "Our Solution"
-    link : "safety-solution"
+    enable: true
+    label: "Our Solution"
+    link: "safety-solution"
 
   # border button
   button_border:
-    enable : true
-    label : "Contact Us"
-    link : "contact-us"
+    enable: true
+    label: "Contact Us"
+    link: "contact-us"
 
 ######################## Banner call to action ############################
 banner_cta:
-  enable : true
-  title : "The H.E.L.P. drivers need until HELP arrives"
-  content : "Our mission is to protect roadway users with our patented Hazard Enhanced Lighting Package as standard original equipment on every vehicle worldwide"
+  enable: true
+  title: "The H.E.L.P. drivers need until HELP arrives"
+  content: "Emergency Safety Solutions (ESS) is focused on saving lives by helping to eliminate hundreds of thousands
+    of preventable accidents involving vehicles that are in an emergency, disabled, or parked on the side of the road.
+    Our Hazard Enhanced Lighting Package (\"H.E.L.P.\") uses highly visible hazard light flash patterns on LED
+    lighting-equipped vehicles to provide instant, greatly enhanced visibility to give drivers more advance notice of
+    oncoming hazards on or near the roadway, while also helping to combat driver distraction."
   button:
-    enable : true
-    label : "Learn more"
-    link : "safety-solution"
+    enable: true
+    label: "Learn more"
+    link: "safety-solution"
 
 ########################## feature ########################################
 feature:
-  enable : true
-  title : "Two Activation Modes"
+  enable: true
+  title: "Two Activation Modes"
+  description: "H.E.L.P. revolutionizes traditional hazard lights on LED equipped vehicles by emitting highly visible flash patterns that
+    provide instant, greatly enhanced visibility. This gives drivers more advance notice of hazards on or near the
+    roadway and combats driver distraction. H.E.L.P. can be deployed manually or automatically upon an emergency
+    event, in conjunction with other emergency equipment inside the vehicle."
   feature_item:
     # feature item loop
-    - title : "Auto Deployment"
-      icon : "ti-wand" # icon pack : https://themify.me/themify-icons
-      content : "High flash rate emergency lights activate automatically upon collision, triggered by vehicle emergency detection systems."
+    - title: "Auto Deployment"
+      icon: "ti-wand" # icon pack : https://themify.me/themify-icons
+      content: "High flash rate emergency lights activate automatically upon a significant safety issue such as a collision or other event triggered by a vehicle's emergency detection system."
 
     # feature item loop
-    - title : "Manual Activation"
-      icon : "ti-control-eject" # icon pack : https://themify.me/themify-icons
-      content : "Simple two-click hazard switch activation. Ideal solution for disabled vehicles in hazardous conditions requiring increased vehicle conspicuity."
+    - title: "Manual Activation"
+      icon: "ti-control-eject" # icon pack : https://themify.me/themify-icons
+      content: "Our simple two-click hazard lighting switch activation works in conjunction with other emergency equipment inside the vehicle. It is the ideal solution for disabled vehicles in hazardous conditions requiring increased visibility while at rest."
 
 ######################## About #######################################
 about:
-  enable : false
-  image : "images/about/home-8.jpg"
-  title : "Forget about <br> design limits! Build and customize your portfolio"
-  content : "We provide consulting services in the area of IFRS and management reporting, helping companies
+  enable: false
+  image: "images/about/home-8.jpg"
+  title: "Forget about <br> design limits! Build and customize your portfolio"
+  content: "We provide consulting services in the area of IFRS and management reporting, helping companies
             to reach their highest level. We optimize business processes, making them easier."
   button:
-    enable : false
-    label : "Get started"
-    link : "pricing"
+    enable: false
+    label: "Get started"
+    link: "pricing"
 
 ##################### Funfacts ######################################
 funfacts:
-  enable : false
+  enable: false
   funfact_item:
     # fanfacts item loop
-    - title : "Preventable Tragedies Since 2008"
-      icon : "ti-check" # themify icon pack: https://themify.me/themify-icons
-      count : "11552"
-      unit : ""
+    - title: "Preventable Tragedies Since 2008"
+      icon: "ti-check" # themify icon pack: https://themify.me/themify-icons
+      count: "11552"
+      unit: ""
 
     # fanfacts item loop
-    - title : "User Worldwide"
-      icon : "ti-flag" # themify icon pack: https://themify.me/themify-icons
-      count : "125"
-      unit : "M"
+    - title: "User Worldwide"
+      icon: "ti-flag" # themify icon pack: https://themify.me/themify-icons
+      count: "125"
+      unit: "M"
 
     # fanfacts item loop
-    - title : "Availble Country"
-      icon : "ti-layers" # themify icon pack: https://themify.me/themify-icons
-      count : "40"
-      unit : ""
+    - title: "Availble Country"
+      icon: "ti-layers" # themify icon pack: https://themify.me/themify-icons
+      count: "40"
+      unit: ""
 
     # fanfacts item loop
-    - title : "Award Winner"
-      icon : "ti-medall" # themify icon pack: https://themify.me/themify-icons
-      count : "10"
-      unit : "+"
+    - title: "Award Winner"
+      icon: "ti-medall" # themify icon pack: https://themify.me/themify-icons
+      count: "10"
+      unit: "+"
 
 ######################### Service #####################################
 service:
-  enable : true
-  title : "Value Proposition"
-#  content : "We provide a wide range of creative services adipisicing elit. Autem maxime rem modi eaque, voluptate. Beatae officiis neque"
+  enable: true
+  title: "Value Proposition"
+  #  content : "We provide a wide range of creative services adipisicing elit. Autem maxime rem modi eaque, voluptate. Beatae officiis neque"
   # service item comes from "data/**/service.yml" file
 
 ######################### pricing #####################################
 pricing:
-  enable : false
+  enable: false
   # pricing item comes from "data/**/pricing.yml" file
 
 ############################# Team ##################################
 team:
   enable: false
-  title : "Amazing Team"
-  content : "We provide a wide range of creative services adipisicing elit. Autem maxime rem modi eaque, voluptate. Beatae officiis neque"
+  title: "Amazing Team"
+  content: "We provide a wide range of creative services adipisicing elit. Autem maxime rem modi eaque, voluptate. Beatae officiis neque"
   team_member:
     ################### team member loop
-    - name : "David Tucker"
-      image : "images/team/david-tucker.jpeg"
-      designation : "Chief Executive Officer and Chairman of the Board"
+    - name: "David Tucker"
+      image: "images/team/david-tucker.jpeg"
+      designation: "Chief Executive Officer and Chairman of the Board"
       social:
         # social site loop
         #        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
@@ -113,13 +121,13 @@ team:
         #          link : "#"
 
         # social site loop
-        - icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/david-tucker-a0857a/"
+        - icon: "ti-linkedin" # icon pack : https://themify.me/themify-icons
+          link: "https://www.linkedin.com/in/david-tucker-a0857a/"
 
     ################### team member loop
-    - name : "Stephen Powers"
-      image : "images/team/stephen-powers.jpg"
-      designation : "Chief Operating Officer and Secretary of the Board"
+    - name: "Stephen Powers"
+      image: "images/team/stephen-powers.jpg"
+      designation: "Chief Operating Officer and Secretary of the Board"
       social:
         # social site loop
         #        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
@@ -130,13 +138,13 @@ team:
         #          link : "#"
 
         # social site loop
-        - icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/stephen-powers-1052191/"
+        - icon: "ti-linkedin" # icon pack : https://themify.me/themify-icons
+          link: "https://www.linkedin.com/in/stephen-powers-1052191/"
 
     ################### team member loop
-    - name : "Mike Incorvaia"
-      image : "images/team/mike-incorvaia.jpg"
-      designation : "Senior Vice President of Business Development"
+    - name: "Mike Incorvaia"
+      image: "images/team/mike-incorvaia.jpg"
+      designation: "Senior Vice President of Business Development"
       social:
         # social site loop
         #        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
@@ -147,13 +155,13 @@ team:
         #          link : "#"
 
         # social site loop
-        - icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/mike-incorvaia-625a236/"
+        - icon: "ti-linkedin" # icon pack : https://themify.me/themify-icons
+          link: "https://www.linkedin.com/in/mike-incorvaia-625a236/"
 
     ################### team member loop
-    - name : "James D. Ray"
-      image : "images/team/james-ray.jpg"
-      designation : "Director"
+    - name: "James D. Ray"
+      image: "images/team/james-ray.jpg"
+      designation: "Director"
       social:
       # social site loop
       #        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
@@ -168,9 +176,9 @@ team:
       #          link : "#"
 
     ################### team member loop
-    - name : "Kenneth Wagner"
-      image : "images/team/kenneth-wagner.jpg"
-      designation : "Director"
+    - name: "Kenneth Wagner"
+      image: "images/team/kenneth-wagner.jpg"
+      designation: "Director"
       social:
       # social site loop
       #        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
@@ -189,9 +197,9 @@ team:
       #          link : "#"
 
     ################### team member loop
-    - name : "Martin O’Carroll"
-      image : "images/team/martin-o-carroll.jpg"
-      designation : "Director"
+    - name: "Martin O’Carroll"
+      image: "images/team/martin-o-carroll.jpg"
+      designation: "Director"
       social:
       # social site loop
     #        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
@@ -209,9 +217,9 @@ team:
     #        - icon : "ti-github" # icon pack : https://themify.me/themify-icons
     #          link : "#"
 
-    - name : "Ramon Rodriguez"
-      image : "images/team/ramon-rodriguez.jpg"
-      designation : "Director"
+    - name: "Ramon Rodriguez"
+      image: "images/team/ramon-rodriguez.jpg"
+      designation: "Director"
       social:
       # social site loop
 #        - icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
@@ -232,15 +240,15 @@ team:
 
 ################################### promo video ##########################
 promo_video:
-  enable : true
-  title : "See Our Solution"
-  video_thumbnail : "images/tesla-1000x457.jpeg"
-  video_link : "https://youtube.com/watch?v=P6WKSOsSqOo"
+  enable: true
+  title: "See Our Solution"
+  video_thumbnail: "images/tesla-1000x457.jpeg"
+  video_link: "https://www.youtube.com/watch?v=P6WKSOsSqOo"
   content: "We strive to develop new strategies and technologies to prevent future accidents."
 
 ############################## blog ####################################
 blog:
   enable: false
-  title : "Latest News & Articles"
-  content : "Don’t just take our words for it. Our clients are our biggest supporters. Would you like to know what they think about us?"
+  title: "Latest News & Articles"
+  content: "Don’t just take our words for it. Our clients are our biggest supporters. Would you like to know what they think about us?"
   # blog post comes from "content/**/blog" folder.

@@ -15,12 +15,17 @@ install:
   - npm install --prefix ./functions
 
 script:
-  - hugo
+  - echo "Ignore rake"
 
 deploy:
   - provider: script
     skip_cleanup: true
-    script: "npm run deploy"
+    script: "npm run deploy:production"
     on:
       branch: master
 
+  - provider: script
+    skip_cleanup: true
+    script: "npm run deploy:staging"
+    on:
+      branch: staging

@@ -4,6 +4,9 @@
     "firebase-tools": "^7.14.0"
   },
   "scripts": {
-    "deploy": "firebase deploy --project ess-help"
+    "compile:production": "hugo",
+    "compile:staging": "hugo --config config.toml,config.staging.toml",
+    "deploy:production": "npm run compile:production && firebase deploy --project ess-help",
+    "deploy:staging": "npm run compile:staging && firebase deploy --project ess-help---staging"
   }
 }
