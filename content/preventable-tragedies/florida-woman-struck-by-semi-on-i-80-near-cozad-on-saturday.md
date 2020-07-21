@@ -1,6 +1,6 @@
 ---
 credit:
-  source: Lexch Florida News
+  source: Lexington Clipper-Herald
   url: https://lexch.com/news/local/florida-woman-struck-by-semi-on-i-80-near-cozad-on-saturday/article_61b1c7f4-caa6-11ea-b973-77e37783d0a4.html
 date: '2020-07-20'
 title: "Florida woman struck by semi on I-80 near Cozad on Saturday"
