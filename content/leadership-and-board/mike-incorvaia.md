@@ -1,7 +1,7 @@
 ---
 title: "Mike Incorvaia"
 type: leadership
-designation: "Senior Vice President of Business Development"
+designation: "Senior Vice President of Product Development"
 image: "/images/team/mike-incorvia2.jpg"
 weight: 40
 social:
