@@ -1,7 +1,7 @@
 ---
 title: "James D. Ray"
 type: leadership
-designation: "Director"
+designation: "Director of Regulatory Compliance"
 weight: 50
 image: "/images/team/jim-ray.jpg"
 ---
