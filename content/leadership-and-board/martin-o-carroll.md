@@ -1,7 +1,7 @@
 ---
 title: "Martin O’Carroll"
 type: leadership
-designation: "Director oif Capital Management"
+designation: "Director of Capital Management"
 weight: 150
 image: "/images/team/martin-o-carroll.jpg"
 ---
