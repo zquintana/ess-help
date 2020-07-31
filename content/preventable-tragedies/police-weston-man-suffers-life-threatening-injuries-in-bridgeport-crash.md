@@ -2,7 +2,7 @@
 credit:
   source: Stamford Advocate
   url: https://www.stamfordadvocate.com/local/article/Police-Weston-man-suffers-life-threatening-15444352.php
-date: '2020-07-30'
+date: '2020-07-29'
 title: "Police: Weston man suffers life-threatening injuries in Bridgeport crash"
 ---
 BRIDGEPORT — A Weston man suffered life-threatening injuries after he apparently ran into traffic on Interstate 95 south Tuesday night and was hit by a vehicle, according to police.
