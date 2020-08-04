@@ -2,7 +2,7 @@
 credit:
   source: CBS 46
   url: https://www.cbs46.com/news/1-child-2-adults-injured-after-fatal-7-vehicle-pile-up-on-buford-hwy/article_744632a4-d51b-11ea-87bd-4fdeb4f09a1c.html
-date: '2020-07-02'
+date: '2020-08-02'
 title: "1 child, 2 adults injured after fatal 7 vehicle pile-up on Buford Hwy"
 ---
 CHAMBLEE, Ga. (CBS46) -- A fatal seven-vehicle pile up caused major delays for commuters on Buford Highway Saturday afternoon.
