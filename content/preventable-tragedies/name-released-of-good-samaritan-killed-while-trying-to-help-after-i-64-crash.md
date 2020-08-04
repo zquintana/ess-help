@@ -2,7 +2,7 @@
 credit:
   source: WKYT Kentucky
   url: https://www.wkyt.com/2020/08/03/montgomery-county-crash-blocks-traffic-on-i64/
-date: '2020-07-03'
+date: '2020-08-03'
 title: "Name released of good Samaritan killed while trying to help after I-64 crash"
 ---
 MT. STERLING, Ky. (WKYT) - The name of the person killed while trying to help after a crash on Interstate 64 in Montgomery County has been released.
