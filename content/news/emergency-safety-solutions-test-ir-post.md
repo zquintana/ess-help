@@ -4,6 +4,7 @@ date: '2020-08-10'
 url: emergency-safety-solutions-test-ir-post
 ---
 Title: Frequency and Cost of Crashes, Fatalities, and Injuries Involving Disabled Vehicles
+
 Authors: Rebecca Spicer, George Bahouth, Amin Vahabaghaie, Rebecca Drayer
 
 Abstract"
