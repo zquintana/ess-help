@@ -3,10 +3,10 @@ title: Emergency Safety Solutions Test IR Post
 date: '2020-08-10'
 url: emergency-safety-solutions-test-ir-post
 ---
-"Frequency and Cost of Crashes, Fatalities, and Injuries Involving Disabled Vehicles"
+Title: Frequency and Cost of Crashes, Fatalities, and Injuries Involving Disabled Vehicles
 Authors: Rebecca Spicer, George Bahouth, Amin Vahabaghaie, Rebecca Drayer
 
-"Abstract"
+Abstract"
 
 "Objective": To quantify the total number and cost of crashes, fatalities, and injuries that could be
 addressed by improved conspicuity of disabled vehicles to approaching traffic.
