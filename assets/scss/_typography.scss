@@ -62,6 +62,14 @@ h6,.h6 {
   font-size: 14px;
 }
 
+.content {
+  a {
+    color: #c77602;
+    &:hover {
+      color: black;
+    }
+  }
+}
 
 @include mobile-xs{
     h1, .h1 {
