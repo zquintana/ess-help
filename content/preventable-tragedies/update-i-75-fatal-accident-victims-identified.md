@@ -3,7 +3,7 @@ credit:
   source: Tampa CBS Local News
   url: https://tampa.cbslocal.com/2020/08/26/update-i75-fatal-accident-victims-identified/
 date: '2020-08-26'
-title: "UPDATE: I-75 Fatal Accident Victims Identified"
+title: "I-75 Fatal Accident Victims Identified"
 ---
 The Marietta Police Department (MPD) has identified the driver and occupants of a Nissan Rogue hit by a tractor trailer truck on Interstate 75 near North Marietta Parkway Tuesday, according to Officer Joshua Madison, Public Information Officer of the Marietta Police Department.
 
