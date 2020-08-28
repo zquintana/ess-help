@@ -2,7 +2,7 @@
 credit:
   source: KPC News
   url: https://www.kpcnews.com/newssun/article_403ab371-dbff-5bca-9082-554e6b15c24f.html
-date: '2020-08-27
+date: '2020-08-27'
 title: "Crash on Toll Road takes one life"
 ---
 SHIPSHEWANA — A Michigan man was killed Wednesday afternoon when the truck he was riding in struck the trailer of a disabled semi parked along the side of the Indiana Toll Road.
