@@ -44,7 +44,7 @@ hasChildren = true
 
 [[menu.main]]
 weight = 3
-name = "Safety Solution"
+name = "Our Solution"
 URL = "safety-solution"
 
 [[menu.main]]

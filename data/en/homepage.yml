@@ -48,15 +48,15 @@ feature:
 
 ######################## About #######################################
 about:
-  enable: false
-  image: "images/about/home-8.jpg"
-  title: "Forget about <br> design limits! Build and customize your portfolio"
-  content: "We provide consulting services in the area of IFRS and management reporting, helping companies
-            to reach their highest level. We optimize business processes, making them easier."
+  enable: true
+  image: "images/accidents/crash-1.jpg"
+  title: "The Problem"
+  content: "New research by Impact Research Inc. quantifies extent of growing fatalities and injuries resulting from preventable disabled vehicle crashes along America’s roadways"
+
   button:
-    enable: false
-    label: "Get started"
-    link: "pricing"
+    enable: true
+    label: "View Full Safety Case"
+    link: "safety-solution"
 
 ##################### Funfacts ######################################
 funfacts:

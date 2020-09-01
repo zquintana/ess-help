@@ -15,9 +15,9 @@
 	}
 }
 
-
-
-
+section.about {
+  margin: 4em 0;
+}
 
 @include mobile-xs{
   .bg-about{

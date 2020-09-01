@@ -54,12 +54,6 @@
 {{ end }}
 <!-- Slider End -->
 
-<!-- Section feature Start -->
-{{ if $data.homepage.feature.enable }}
-{{ partial "feature.html" . }}
-{{ end }}
-<!-- Section feature END -->
-
 <!-- Section About Start -->
 {{ if $data.homepage.about.enable }}
 {{ with $data.homepage.about }}
@@ -177,6 +171,12 @@
 {{ end }}
 {{ end }}
 <!--  Section Cta End-->
+
+<!-- Section feature Start -->
+{{ if $data.homepage.feature.enable }}
+{{ partial "feature.html" . }}
+{{ end }}
+<!-- Section feature END -->
 
 <!-- Section Blog Start -->
 {{ if $data.homepage.blog.enable }}
