@@ -16,7 +16,7 @@
         <div class="col-lg-4 col-md-4">
           <div class="header-top-socials text-center text-lg-right">
             {{ range .Site.Params.social }}
-            <a href="{{ .link | safeURL }}" target="_blank"><i class="{{ .icon }}"></i></a>
+            <a href="{{ .link | safeURL }}" target="_blank" rel="nofollow"><i class="{{ .icon }}"></i></a>
             {{ end }}
           </div>
         </div>
