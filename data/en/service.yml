@@ -7,7 +7,7 @@ services:
 
   # service item loop
   - title : "Optimized Lighting Solution"
-    icon : "ti-stamp" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-car" # themify icon pack: https://themify.me/themify-icons
     content : "The H.E.L.P. flash pattern operates within the 4-6 Hertz frequency range and adds up to an additional 30% increase in light intensity. ESS designed this optical solution for consistent deployment across the various OEM vehicle models."
     
   # service item loop
