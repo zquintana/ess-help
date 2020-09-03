@@ -8,7 +8,7 @@
         var limit = 0;
         var countInterval = setInterval(function() {
             var currentVal = parseInt($counter.data('count')) || 0;
-            var nextVal = currentVal + 18;
+            var nextVal = currentVal + 63;
 
             if (limit > 0 && nextVal >= limit) {
                 clearInterval(countInterval);
@@ -23,7 +23,7 @@
             ;
         }, 1);
 
-        $.getJSON('https://us-central1-ess-help.cloudfunctions.net/getPreventableCount').done(function(resp) {
+        $.getJSON('https://us-central1-ess-help.cloudfunctions.net/getInvolvedInAccidentCount').done(function(resp) {
             limit = resp.count;
             var currentCount = parseInt($counter.data('count')) || 0;
 

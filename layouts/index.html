@@ -56,84 +56,19 @@
 
 <!-- Section About Start -->
 {{ if $data.homepage.about.enable }}
-{{ with $data.homepage.about }}
-<section class="about">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-6">
-        <div class="about-img mb-5 mb-lg-0" data-aos="fade-right" data-aos-delay="200">
-          <img src="{{ .image | absURL }}" alt="" class="img-fluid">
-        </div>
-      </div>
-      <div class="col-lg-6">
-        <div class="about-item pl-3 mt-4 mt-lg-0">
-          <h2 class="mb-4 font-secondary">{{ .title | markdownify }}</h2>
-          <p class="mb-5">{{ .content | markdownify }}</p>
-          {{ if .button.enable }}
-          {{ with .button }}
-          <a href="{{ .link | absLangURL }}" class="btn btn-main">{{ .label }}</a>
-          {{end}}
-          {{end}}
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
+{{ partial "about.html" . }}
 {{ end }}
 <!-- Section About End -->
 
-<!-- section Counter Start -->
-{{ if $data.homepage.funfacts.enable }}
-{{ with $data.homepage.funfacts }}
-<section class="section counter">
-  <div class="container">
-    <div class="row">
-      {{ range $index, $element := .funfact_item }}
-      {{ $delay := mul $index 100 }}
-      <div class="col-lg-3 col-md-6 col-sm-6">
-        <div class="counter-item text-center mb-5 mb-lg-0 " data-aos="fade-up" data-aos-delay="{{ $delay }}">
-          <h3 class="mb-0"><span class="counter-stat" data-count="{{ .count }}">0</span> {{ .unit }}</h3>
-          <p class="text-muted">{{ .title }}</p>
-        </div>
-      </div>
-      {{end }}
-    </div>
-  </div>
-</section>
+<!-- Section Problem Start -->
+{{ if $data.homepage.problem.enable }}
+{{ partial "problem.html" . }}
 {{ end }}
-{{ end }}
-<!-- section Counter End  -->
+<!-- Section Problem End -->
 
 <!--  Section Services Start -->
 {{ if $data.homepage.service.enable }}
-<section class="section service bg-gray">
-  <div class="container">
-    {{ with $data.homepage.service }}
-    <div class="row justify-content-center">
-      <div class="col-lg-6 text-center">
-        <div class="section-title">
-          <h2 class="mb-4">{{ .title | markdownify }}</h2>
-          <p>{{ .content | markdownify }}</p>
-        </div>
-      </div>
-    </div>
-    {{ end }}
-
-    <div class="row justify-content-center">
-      {{ range $index, $element:=  first 9 $data.service.services }}
-      {{ $delay := mul $index 100 }}
-      <div class="col-lg-4 col-md-6 col-sm-6">
-        <div class="card mb-4 p-5 text-center" data-aos="fade-up" data-aos-delay="{{ $delay }}">
-          <i class="{{ .icon }} text-color text-lg"></i>
-          <h4 class="mb-3 mt-4">{{ .title | markdownify }}</h4>
-          <p>{{ .content | markdownify }}</p>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
+{{ partial "services.html" . }}
 {{ end }}
 <!--  Section Services End -->
 
@@ -161,7 +96,7 @@
           <a  href="{{ .video_link | safeURL }}" class="videoplay mr-3 text-white popup-youtube"><i class="ti-control-play"></i></a>
           <div class="cta-content-block">
             <h2 class="mt-2 mb-4 font-secondary">{{ .title | markdownify }}</h2>
-            <p>{{ .content | markdownify }}</p>
+            <p><a href="preventable-tragedies">{{ .content | markdownify }}</a></p>
           </div>
         </div>
       </div>
@@ -172,11 +107,39 @@
 {{ end }}
 <!--  Section Cta End-->
 
+<!-- section Counter Start -->
+{{ if $data.homepage.funfacts.enable }}
+{{ with $data.homepage.funfacts }}
+<section class="section counter">
+  <div class="container">
+    <div class="row">
+      {{ range $index, $element := .funfact_item }}
+      {{ $delay := mul $index 100 }}
+      <div class="col-lg-3 col-md-6 col-sm-6">
+        <div class="counter-item text-center mb-5 mb-lg-0 " data-aos="fade-up" data-aos-delay="{{ $delay }}">
+          <h3 class="mb-0"><span class="counter-stat" data-count="{{ .count }}">0</span> {{ .unit }}</h3>
+          <p class="text-muted">{{ .title }}</p>
+        </div>
+      </div>
+      {{end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- section Counter End  -->
+
 <!-- Section feature Start -->
 {{ if $data.homepage.feature.enable }}
 {{ partial "feature.html" . }}
 {{ end }}
 <!-- Section feature END -->
+
+<!-- Section Study Start -->
+{{ if $data.homepage.study.enable }}
+{{ partial "study.html" . }}
+{{ end }}
+<!-- Section Study End -->
 
 <!-- Section Blog Start -->
 {{ if $data.homepage.blog.enable }}

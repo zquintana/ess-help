@@ -1,0 +1,34 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ with $data.solution }}
+<section class="features">
+    <div class="container">
+        {{ range $index, $element := .features }}
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="feature-item pl-3 mt-4 mt-lg-0">
+                    <h2 class="mb-4 font-secondary">{{ .title | markdownify }}</h2>
+                    <p class="mb-5">{{ .content | markdownify }}</p>
+
+                    {{ if .video.enable }}
+                    {{ with .video }}
+                    <div class="page-video">
+                        <iframe src="https://www.youtube.com/embed/{{ .youtubeID }}" allowfullscreen="" title="{{ .title }}"></iframe>
+                    </div>
+                    {{ end }}
+                    {{ end }}
+
+                    {{ if .image.enable }}
+                    {{ with .image }}
+                    <figure>
+                        <img src="{{ .src }}" alt="{{ .title }}">
+                    </figure>
+                    {{ end }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
