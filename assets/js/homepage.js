@@ -23,7 +23,7 @@
             ;
         }, 1);
 
-        $.getJSON('https://us-central1-ess-help.cloudfunctions.net/getInvolvedInAccidentCount').done(function(resp) {
+        $.getJSON(FUNCTIONS_BASE_URL + '/getInvolvedInAccidentCount').done(function(resp) {
             limit = resp.count;
             var currentCount = parseInt($counter.data('count')) || 0;
 

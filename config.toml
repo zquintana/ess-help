@@ -101,6 +101,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 google_analitycs_id = "UA-151259080-1" # your id
 # search
 search = true
+functionsBaseURL = "https://us-central1-ess-help.cloudfunctions.net"
 
 # Preloader
 [params.preloader]
