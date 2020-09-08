@@ -268,8 +268,8 @@ team:
 promo_video:
   enable: true
   title: "Example Of A Preventable Tragedy"
-  video_thumbnail: "images/tesla-1000x457.jpeg"
-  video_link: "https://youtu.be/NZDNw0UGNno"
+  video_thumbnail: "images/compliant-standard.jpg"
+  video_link: "https://www.youtube.com/watch?v=C-VfMlnNPF8"
   content: "View more examples of preventative tragedies"
 
 ############################## blog ####################################
