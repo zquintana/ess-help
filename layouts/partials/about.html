@@ -18,6 +18,12 @@
                     <a href="{{ .link | absLangURL }}" class="btn btn-main" target="_blank">{{ .label }}</a>
                     {{end}}
                     {{end}}
+
+                    {{ if .button2.enable }}
+                    {{ with .button2 }}
+                    <a href="{{ .link | absLangURL }}" class="btn btn-main" target="_blank">{{ .label }}</a>
+                    {{end}}
+                    {{end}}
                 </div>
             </div>
         </div>

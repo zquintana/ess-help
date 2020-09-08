@@ -58,6 +58,11 @@ about:
     label: "View Full Safety Case"
     link: "/whitepaper/ESS_Safety_Case.pdf"
 
+  button2:
+    enable: true
+    label: "View Executive Summary"
+    link: "/whitepaper/ESS_Summary.pdf"
+
 problem:
   enable: true
   content: |
