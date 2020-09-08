@@ -28,5 +28,4 @@ deploy:
     skip_cleanup: true
     script: "npm run deploy:staging"
     on:
-      tags: true
-      condition: $TRAVIS_TAG = staging
+      branch: staging2
