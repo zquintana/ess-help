@@ -51,7 +51,7 @@ about:
   enable: true
   image: "images/accidents/crash-1.jpg"
   title: "The Problem"
-  content: "New research by Impact Research Inc. quantifies extent of growing fatalities and injuries resulting from preventable disabled vehicle crashes along America’s roadways"
+  content: "A new study by Impact Research Inc. quantifies the extent of growing fatalities and injuries resulting from preventable disabled vehicle crashes along America’s roadways"
 
   button:
     enable: true
@@ -66,23 +66,23 @@ about:
 problem:
   enable: true
   content: |
-    People are injured or killed in preventable tragedies involving disabled vehicles every day. Recent studies (2017-2018) show a nearly 10% annual increase in these types of accidents, including a nearly 40% increase in fatalities of pedestrians attending to disabled vehicles. As a result, more than 200 preventable crashes involving disabled or stationary vehicles occur every day in the U.S. alone.
+    People are injured or killed in preventable tragedies involving disabled vehicles every day. Recent studies (2017-2018) show a nearly 10% annual increase in these types of accidents, including a nearly 40% increase in fatalities of pedestrians attending to disabled vehicles. As a result, every day more than 200 people are involved in preventable crashes with disabled or stationary vehicles in the U.S. alone. These accidents occur when oncoming drivers do not notice disabled vehicles in time to safely react.
 
     Preventable tragedies involving disabled vehicles include scenarios such as:
 
-    A moving vehicle strikes a non-moving, disabled vehicle on or adjacent to the roadway, often leading to multiple car pile-ups.
-    A pedestrian is struck while attending to a disabled vehicle on or adjacent to the roadway.
-    A vehicle runs off the roadway, strikes a fixed object, and the accident goes unnoticed by passersby for hours or days while trapped vehicle occupants expire.
-    These accidents occur when oncoming drivers do not notice disabled vehicles in time to safely react.
+    1. A moving vehicle strikes a non-moving, disabled vehicle on or adjacent to the roadway, often leading to multiple car pile-ups.
+    2. A pedestrian is struck while attending to a disabled vehicle on or adjacent to the roadway.
+    3. A vehicle runs off the roadway, strikes a fixed object, and the accident goes unnoticed by passersby for hours or days while trapped vehicle occupants expire.
+    
 
 study:
   enable: true
-  title: A new study by Impact Research quantifies the impact of these disabled vehicle-involved crashes for the first time.
+  title: New Study By Impact Research Quantifies Impact Of Disabled Vehicle-Involved Crashes For The First Time
   content: |
-    - They involve nearly 72,000 people in the U.S. each year – one every seven minutes, 200 per day – resulting in nearly 15,000 people injured or killed.
+    - Disabled vehicle-involved crashes affect nearly 72,000 people in the U.S. each year – one every seven minutes, 200 per day – resulting in nearly 15,000 people injured or killed.
     - Crashes involving motorists attending to their disabled vehicle and those who assist them are especially tragic, with nearly 300 people killed in crashes of this type each year.
-    - The societal cost of crashes involving disabled vehicles and their occupants in the U.S. is immense at $8.8 billion annually.
-    -- Includes the economic cost of medical payments and wage losses, in addition to value of quality of life lost due to death or disability.
+    - The societal cost of crashes involving disabled vehicles and their occupants in the U.S. is immense at $8.8 billion annually
+    (Includes the economic cost of medical payments and wage losses, in addition to value of quality of life lost due to death or disability).
 
     The full safety case study can be viewed [here](whitepaper/ESS_Safety_Case.pdf). To view a condensed interpretation of the safety case, please [click here](whitepaper/ESS_Summary.pdf).
 
