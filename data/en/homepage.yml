@@ -51,7 +51,7 @@ about:
   enable: true
   image: "images/accidents/crash-1.jpg"
   title: "The Problem"
-  content: "A new study by Impact Research Inc. quantifies extent of growing fatalities and injuries resulting from preventable disabled vehicle crashes along America’s roadways"
+  content: "A new study by Impact Research Inc. quantifies the extent of growing fatalities and injuries resulting from preventable disabled vehicle crashes along America’s roadways"
 
   button:
     enable: true
@@ -70,14 +70,14 @@ problem:
 
     Preventable tragedies involving disabled vehicles include scenarios such as:
 
-    A moving vehicle strikes a non-moving, disabled vehicle on or adjacent to the roadway, often leading to multiple car pile-ups.
-    A pedestrian is struck while attending to a disabled vehicle on or adjacent to the roadway.
-    A vehicle runs off the roadway, strikes a fixed object, and the accident goes unnoticed by passersby for hours or days while trapped vehicle occupants expire.
+    1. A moving vehicle strikes a non-moving, disabled vehicle on or adjacent to the roadway, often leading to multiple car pile-ups.
+    2. A pedestrian is struck while attending to a disabled vehicle on or adjacent to the roadway.
+    3. A vehicle runs off the roadway, strikes a fixed object, and the accident goes unnoticed by passersby for hours or days while trapped vehicle occupants expire.
     These accidents occur when oncoming drivers do not notice disabled vehicles in time to safely react.
 
 study:
   enable: true
-  title: A new study by Impact Research quantifies the impact of these disabled vehicle-involved crashes for the first time.
+  title: New Study By Impact Research Quantifies Impact Of Disabled Vehicle-Involved Crashes For The First Time
   content: |
     - They involve nearly 72,000 people in the U.S. each year – one every seven minutes, 200 per day – resulting in nearly 15,000 people injured or killed.
     - Crashes involving motorists attending to their disabled vehicle and those who assist them are especially tragic, with nearly 300 people killed in crashes of this type each year.
