@@ -38,7 +38,7 @@
     <div class="row align-items-center bg-primary p-4 p-sm-5 rounded">
       <div class="col-lg-8">
         <h3 class="mb-2 text-white">{{ .title | markdownify }}</h3>
-        <p class="text-white-50">{{ .content | markdownify }}</p>
+        <p class="text-white">{{ .content | markdownify }}</p>
       </div>
       {{ if .button.enable }}
       {{ with .button }}
