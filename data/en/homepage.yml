@@ -51,7 +51,7 @@ about:
   enable: true
   image: "images/accidents/crash-1.jpg"
   title: "The Problem"
-  content: "New research by Impact Research Inc. quantifies extent of growing fatalities and injuries resulting from preventable disabled vehicle crashes along America’s roadways"
+  content: "A new study by Impact Research Inc. quantifies extent of growing fatalities and injuries resulting from preventable disabled vehicle crashes along America’s roadways"
 
   button:
     enable: true
