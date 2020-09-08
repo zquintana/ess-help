@@ -1,0 +1,7 @@
+.features {
+  & > .container {
+    & > .row {
+      margin-bottom: 2em;
+    }
+  }
+}
