@@ -28,4 +28,4 @@ deploy:
     skip_cleanup: true
     script: "npm run deploy:staging"
     on:
-      branch: staging
+      branch: staging2

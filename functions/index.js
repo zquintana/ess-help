@@ -19,3 +19,14 @@ exports.getPreventableCount = functions.https.onRequest((request, response) => {
         "count": startCount + (Math.floor(diff * ratePerHour))
     });
 });
+
+exports.getInvolvedInAccidentCount = functions.https.onRequest((request, response) => {
+    const perHour = 8;
+    const start = moment('2020-01-01 00:00:00', 'YYYY-MM-DD HH:mm:ss');
+    const hourDiff = moment().diff(start, 'hours');
+
+    response.set('Access-Control-Allow-Origin', '*');
+    response.json({
+        "count": Math.floor(hourDiff * perHour)
+    });
+});

@@ -17,8 +17,8 @@ body {
 
 }
 
-p{
-  color: #4e5256;
+p {
+  color: $text-color;
 }
 h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6 {
   font-family: $primary-font;
@@ -68,6 +68,12 @@ h6,.h6 {
     &:hover {
       color: black;
     }
+  }
+}
+
+section {
+  ol, ul {
+    color: $text-color;
   }
 }
 

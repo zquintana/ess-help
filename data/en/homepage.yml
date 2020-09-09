@@ -1,8 +1,8 @@
 ################################## Banner #################################
 banner:
   enable: true
-  subtitle: "Preventable U.S. Disabled Vehicle Fatalities since 2008:"
-  title: "11,642"
+  subtitle: "Victims Involved in U.S. Disabled Vehicle Crashes in 2020:"
+  title: "48,122"
 
   # solid button
   button_solid:
@@ -32,7 +32,7 @@ banner_cta:
 
 ########################## feature ########################################
 feature:
-  enable: true
+  enable: false
   title: "Two Activation Modes"
   description: "H.E.L.P. can be deployed manually or automatically upon an emergency event, in conjunction with other emergency equipment inside the vehicle."
   feature_item:
@@ -48,31 +48,59 @@ feature:
 
 ######################## About #######################################
 about:
-  enable: false
-  image: "images/about/home-8.jpg"
-  title: "Forget about <br> design limits! Build and customize your portfolio"
-  content: "We provide consulting services in the area of IFRS and management reporting, helping companies
-            to reach their highest level. We optimize business processes, making them easier."
+  enable: true
+  image: "images/accidents/crash-1.jpg"
+  title: "The Problem"
+  content: "A new study by Impact Research Inc. quantifies the extent of growing fatalities and injuries resulting from preventable disabled vehicle crashes along America’s roadways"
+
   button:
-    enable: false
-    label: "Get started"
-    link: "pricing"
+    enable: true
+    label: "View Full Safety Case"
+    link: "/whitepaper/ESS_Safety_Case.pdf"
+
+  button2:
+    enable: true
+    label: "View Executive Summary"
+    link: "/whitepaper/ESS_Summary.pdf"
+
+problem:
+  enable: true
+  content: |
+    People are injured or killed in preventable tragedies involving disabled vehicles every day. Recent studies (2017-2018) show a nearly 10% annual increase in these types of accidents, including a nearly 40% increase in fatalities of pedestrians attending to disabled vehicles. As a result, every day more than 200 people are involved in preventable crashes with disabled or stationary vehicles in the U.S. alone. These accidents occur when oncoming drivers do not notice disabled vehicles in time to safely react.
+
+    Preventable tragedies involving disabled vehicles include scenarios such as:
+
+    1. A moving vehicle strikes a non-moving, disabled vehicle on or adjacent to the roadway, often leading to multiple car pile-ups.
+    2. A pedestrian is struck while attending to a disabled vehicle on or adjacent to the roadway.
+    3. A vehicle runs off the roadway, strikes a fixed object, and the accident goes unnoticed by passersby for hours or days while trapped vehicle occupants expire.
+    
+
+study:
+  enable: true
+  title: New Study By Impact Research Quantifies Impact Of Disabled Vehicle-Involved Crashes For The First Time
+  content: |
+    - Disabled vehicle-involved crashes affect nearly 72,000 people in the U.S. each year – one every seven minutes, 200 per day – resulting in nearly 15,000 people injured or killed.
+    - Crashes involving motorists attending to their disabled vehicle and those who assist them are especially tragic, with nearly 300 people killed in crashes of this type each year.
+    - The societal cost of crashes involving disabled vehicles and their occupants in the U.S. is immense at $8.8 billion annually
+    (Includes the economic cost of medical payments and wage losses, in addition to value of quality of life lost due to death or disability).
+
+    The full safety case study can be viewed [here](whitepaper/ESS_Safety_Case.pdf). To view a condensed interpretation of the safety case, please [click here](whitepaper/ESS_Summary.pdf).
 
 ##################### Funfacts ######################################
 funfacts:
   enable: false
   funfact_item:
     # fanfacts item loop
-    - title: "Preventable Tragedies Since 2008"
+    - title: "People Involved in Accidents Every Year"
       icon: "ti-check" # themify icon pack: https://themify.me/themify-icons
-      count: "11552"
+      count: "72,000"
       unit: ""
 
     # fanfacts item loop
-    - title: "User Worldwide"
+    - title: "People Involved In Accidents Every Day"
       icon: "ti-flag" # themify icon pack: https://themify.me/themify-icons
-      count: "125"
-      unit: "M"
+      count: "200"
+      unit: ""
 
     # fanfacts item loop
     - title: "Availble Country"
@@ -88,7 +116,7 @@ funfacts:
 
 ######################### Service #####################################
 service:
-  enable: true
+  enable: false
   title: "Value Proposition"
   #  content : "We provide a wide range of creative services adipisicing elit. Autem maxime rem modi eaque, voluptate. Beatae officiis neque"
   # service item comes from "data/**/service.yml" file
@@ -236,12 +264,18 @@ team:
 
 
 ################################### promo video ##########################
+#promo_video:
+#  enable: true
+#  title: "See Our Solution"
+#  video_thumbnail: "images/tesla-1000x457.jpeg"
+#  video_link: "https://www.youtube.com/watch?v=P6WKSOsSqOo"
+#  content: "We strive to develop new strategies and technologies to prevent future accidents."
 promo_video:
   enable: true
-  title: "See Our Solution"
-  video_thumbnail: "images/tesla-1000x457.jpeg"
-  video_link: "https://www.youtube.com/watch?v=P6WKSOsSqOo"
-  content: "We strive to develop new strategies and technologies to prevent future accidents."
+  title: "Example Of A Preventable Tragedy"
+  video_thumbnail: "images/compliant-standard.jpg"
+  video_link: "https://www.youtube.com/watch?v=C-VfMlnNPF8"
+  content: "View more examples of preventative tragedies"
 
 ############################## blog ####################################
 blog:

@@ -1,1 +1,4 @@
 baseURL = "https://ess-help---staging.firebaseapp.com/"
+
+[params]
+functionsBaseURL = "https://us-central1-ess-help---staging.cloudfunctions.net"

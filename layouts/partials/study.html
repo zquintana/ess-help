@@ -1,0 +1,15 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ with $data.homepage.study }}
+<section class="study">
+    <div class="container">
+        <div class="row">
+                <div class="study-item pl-3 mt-4 mt-lg-0">
+                    <h2 class="mb-4 font-secondary">{{ .title | markdownify }}</h2>
+                    <p class="mb-5">{{ .content | markdownify }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}

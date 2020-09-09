@@ -1,0 +1,19 @@
+features:
+  - title: H.E.L.P. Safety Features
+    content: |
+      H.E.L.P. uses its highly visible hazard light pattern to provide instant, greatly enhanced visibility to give oncoming drivers more advance notice of hazards on or near the roadway, while also helping to combat driver distraction. It can be deployed manually or automatically upon an emergency event, in conjunction with other emergency equipment inside the vehicle. H.E.L.P is automatically deployed after a colission or can be deployed manually by pressing the vehicle’s hazard activation button two times, and is intended for use when high visibility is needed or in an emergency.
+
+      H.E.L.P. is a software-based solution that requires minimal to no hardware updates to new vehicle safety and lighting control systems."How ESS can help" chart and text
+    video:
+      enable: true
+      title: YouTube Video
+      youtubeID: -B655YkgKlc
+
+  - title: How ESS Can H.E.L.P.
+    content: |
+      ESS developed its H.E.L.P. (Hazard Enhanced Lighting Package) safety solution to better protect occupants of disabled vehicles and Good Samaritans who assist them – providing advanced warning to oncoming drivers of potential threats on or near the roadway. H.E.L.P. revolutionizes today’s outdated standard vehicle hazard lighting function, which has not changed in nearly 70 years by transforming it into an intelligent communication system.
+
+    image:
+      enable: true
+      src: /images/cost-of-updates-vs-lives-saved-768x414.png
+      title: Cost of Updates vs Lives Saved
