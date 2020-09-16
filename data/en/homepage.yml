@@ -272,9 +272,9 @@ team:
 #  content: "We strive to develop new strategies and technologies to prevent future accidents."
 promo_video:
   enable: true
-  title: "Example Of A Preventable Tragedy"
+  title: "Example Of A Preventable Tragedy, and Our Solution"
   video_thumbnail: "images/compliant-standard.jpg"
-  video_link: "https://www.youtube.com/watch?v=C-VfMlnNPF8"
+  video_link: "https://youtu.be/LmQ-KiaN_VE"
   content: "View more examples of preventative tragedies"
 
 ############################## blog ####################################
