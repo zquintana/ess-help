@@ -1,6 +1,6 @@
 ---
 credit:
-  source: Kold 13 News
+  source: KOLD 13 News
   url: https://www.kold.com/2020/09/22/driver-dies-fatal-collision-near-sahuarita/
 date: '2020-09-22'
 title: "One dead following fatal collision near Sahuarita"
