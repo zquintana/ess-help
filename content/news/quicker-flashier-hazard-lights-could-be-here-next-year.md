@@ -1,7 +1,7 @@
 ---
-title: Quicker, Flashier Hazard Lights Could Be Here Next Year
+title: Car and Driver Covers Emergency Lighting for Passenger Vehicles
 date: '2020-09-27'
-url: https://www.caranddriver.com/news/a34100032/hazard-lights-quicker-improvements/
+url: quicker-flashier-hazard-lights-could-be-here-next-year
 ---
 One company thinks it has a way to make lights more noticeable on vehicles disabled by the side of the road.
 
