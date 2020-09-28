@@ -1,5 +1,5 @@
 ---
-title: "Car and Driver: Emergency Lighting for Passenger Vehicles"
+title: "Car and Driver Investigates Emergency Lighting for Passenger Vehicles"
 date: '2020-09-27'
 url: quicker-flashier-hazard-lights-could-be-here-next-year
 ---
