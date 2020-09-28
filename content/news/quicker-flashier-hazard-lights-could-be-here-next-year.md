@@ -3,6 +3,8 @@ title: Car and Driver Covers Emergency Lighting for Passenger Vehicles
 date: '2020-09-27'
 url: quicker-flashier-hazard-lights-could-be-here-next-year
 ---
+To view full story by Car and Driver please visit: https://www.caranddriver.com/news/a34100032/hazard-lights-quicker-improvements/
+
 One company thinks it has a way to make lights more noticeable on vehicles disabled by the side of the road.
 
 A company called Emergency Safety Solutions (ESS) thinks yellow flashers that blink more like emergency vehicles could save a lot of lives around the world.
