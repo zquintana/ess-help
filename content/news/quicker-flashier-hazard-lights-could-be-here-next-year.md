@@ -1,5 +1,5 @@
 ---
-title: "Car and Driver Investigates Enhanced Hazard Lighting for Passenger Vehicles"
+title: "Quicker, Flashier Hazard Lights Could Be Here Next Year"
 date: '2020-09-27'
 url: quicker-flashier-hazard-lights-could-be-here-next-year
 ---
