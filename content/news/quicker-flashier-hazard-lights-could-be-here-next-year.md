@@ -3,8 +3,6 @@ title: Car and Driver Covers Emergency Lighting for Passenger Vehicles
 date: '2020-09-27'
 url: quicker-flashier-hazard-lights-could-be-here-next-year
 ---
-To view full story by Car and Driver please visit: https://www.caranddriver.com/news/a34100032/hazard-lights-quicker-improvements/
-
 One company thinks it has a way to make lights more noticeable on vehicles disabled by the side of the road.
 
 A company called Emergency Safety Solutions (ESS) thinks yellow flashers that blink more like emergency vehicles could save a lot of lives around the world.
@@ -28,3 +26,5 @@ NHTSA Looking at Proposal
 To bring the new lights to cars, ESS has been working with regulators in the U.S. and Europe, as well as around a half-dozen automakers who have expressed "great interest," Powers said. He would not give a timeline for when this technology might be available, but in the best-case scenario, it'd be early next year. NHTSA is currently looking the company's proposal over, and: "It's not a request that is sitting somewhere on the bottom of a stack and they just haven't gotten to it yet," he said. "They are actively working on it now. Could it be done by the end of this year, in terms of our U.S. regulatory work? Yes, that's very possible."
 
 Once the regulators sign off on the technology, then it's up to the automakers to put it into their cars. Powers said that for vehicles with the right hardware—like LED head- and taillights, a hazard button that's not a binary on/off switch, and over-the-air software capabilities—new code could be pushed out in a few months. Even for OEMs that would need to install new software at a dealership or adding the ESS lights during production, the timeline is not that long and the cost is not that great, Powers said. In other words, after 70 years, hazard lights might finally be getting an upgrade.
+
+To view full story by Car and Driver please visit: https://www.caranddriver.com/news/a34100032/hazard-lights-quicker-improvements/
