@@ -3,7 +3,7 @@ title: "Intellectual Property"
 type: ip
 ---
  
-### Comprehensive Portfolio Including 48 Awarded Patents and Open Variation Applications in 46 Countries 
+### Comprehensive Portfolio Including Over 50 Awarded Patents and Open Variation Applications in 46 Countries 
 
 The ESS Global Patent Portfolio consists of 48 awarded foundational patents supplemented by dozens of variation and supplemental patents worldwide. The strength of our patent portfolio protects automakers and customers as a foundation of standardization. Consistency is the key ingredient to effective communication on the road. 
 
