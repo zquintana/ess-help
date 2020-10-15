@@ -11,7 +11,7 @@ Around 2:20 a.m. Saturday morning, Portland police say an SUV broke down on the 
 
 Police say two women who were inside got out, and another car stopped to help in the center of the freeway split. The women tried to cross the highway to get to that car but were hit and killed by a driver.
 
-Police say 25-year-old Michael Hanson was that driver. Hanson is now facing negligent homicide and DUII charges.
+Police say 25-year-old Michael Hanson was that driver. Hanson is now facing negligent homicide charges.
 
 "It’s a really difficult time for us right now," Boys and Girls Club of Portland CEO, Terry Johnson said. "It’s a very tragic loss to our community."
 
