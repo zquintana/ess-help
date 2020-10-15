@@ -3,7 +3,7 @@ title: This Has Been a Trying Year. Chris Smith Knows As Well As Anyone
 date: '2020-10-15'
 url: this-has-been-a-trying-year-chris-smith-knows-as-well-as-anyone
 ---
-See Full Sports Illustrated Store Here: https://www.si.com/nfl/2020/10/15/chris-smith-year-of-loss-and-strength
+See Full Sports Illustrated Story Here: https://www.si.com/nfl/2020/10/15/chris-smith-year-of-loss-and-strength
 
 A month before he bagged Patrick Mahomes, in a devastatingly 2020 moment, the Raiders defensive lineman sat in his team hotel room, under quarantine. He turned on his phone, logged into FaceTime and watched alone as friends and family mourned the loss of the person who meant the most to him.
 
