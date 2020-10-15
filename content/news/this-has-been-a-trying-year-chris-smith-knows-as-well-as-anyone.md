@@ -3,8 +3,6 @@ title: This Has Been a Trying Year. Chris Smith Knows As Well As Anyone
 date: '2020-10-15'
 url: this-has-been-a-trying-year-chris-smith-knows-as-well-as-anyone
 ---
-See Full Sports Illustrated Story Here: https://www.si.com/nfl/2020/10/15/chris-smith-year-of-loss-and-strength
-
 A month before he bagged Patrick Mahomes, in a devastatingly 2020 moment, the Raiders defensive lineman sat in his team hotel room, under quarantine. He turned on his phone, logged into FaceTime and watched alone as friends and family mourned the loss of the person who meant the most to him.
 
 As his flight climbed toward the heavens on Sept. 11, as his teammates busied themselves with banal entertainment for the long plane ride to Carolina in Week 1, Chris Smith reclined in his seat and reflected on loss. Man, it’s crazy, the Raiders defensive lineman thought. It’s really been a year.
@@ -45,3 +43,5 @@ While Smith was enjoying the early fruits of a three-year, $12 million deal with
 The following August, only hours after Smith arrived back in Charlotte from a joint training camp practice against the Colts, Cordero went into labor. “She dilated to nine centimeters and she didn’t use an epidural until the end,” Smith says. “It just shows how tough she was.” When it came time to name their daughter, Cordero stood strong again. “She said, ‘You get the last name, so let me choose the first!’ ”
 
 Fourteen months later, Smith says he isn’t exactly sure how Cordero landed on Haven. But he knows what the name means to him now. “I correlate it to my grieving process,” he says. “Haven means a safe place. After Petara passed, [our daughter] was my safe haven.”
+
+See Full Sports Illustrated Story Here: https://www.si.com/nfl/2020/10/15/chris-smith-year-of-loss-and-strength
