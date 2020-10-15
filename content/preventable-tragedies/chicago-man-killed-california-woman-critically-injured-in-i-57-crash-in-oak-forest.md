@@ -10,3 +10,7 @@ A Chicago man died on Interstate 57 in Oak Forest overnight when the car he was 
 The two-vehicle crash happened about 11:20 p.m. Tuesday, and all southbound lanes of I-57 were closed at 167th Street for about five hours, according to state police.The two cars were heading south on I-57 when the one the woman was in, a silver 2005 Nissan Altima, became disabled in the right lane and the car Logan was in, a white 2016 Nissan Sentra, moved from the center lane into the right lane, rear-ending the Altima, police said in a release.
 
 The driver of the Sentra, a 44-year-old man from Lockport, suffered minor injuries and was taken to a hospital for treatment. The driver of the car the woman was in, a 22-year-old Chicago man, as well as another passenger in his car, a 19-year-old Sacramento, California, woman, were not injured, police said.
+
+About 2:10 a.m., a passenger car hit two Illinois Department of Transportation trucks whose drivers were helping with traffic control, injuring the two drivers, state police said. The drivers were taken to a local hospital with minor injuries, police said.
+
+No information about charges or citations was immediately released.
