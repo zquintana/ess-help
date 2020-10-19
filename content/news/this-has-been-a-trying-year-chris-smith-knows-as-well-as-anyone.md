@@ -4,6 +4,7 @@ date: '2020-10-15'
 url: this-has-been-a-trying-year-chris-smith-knows-as-well-as-anyone
 ---
 **This Has Been a Trying Year. Chris Smith Knows As Well As Anyone**
+
 By: Alex Prewitt
 
 A month before he bagged Patrick Mahomes, in a devastatingly 2020 moment, the Raiders defensive lineman sat in his team hotel room, under quarantine. He turned on his phone, logged into FaceTime and watched alone as friends and family mourned the loss of the person who meant the most to him.
