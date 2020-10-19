@@ -4,6 +4,7 @@ date: '2020-10-12'
 url: road-hazards-could-be-seen-in-a-new-light
 ---
 **Road hazards could be seen in a new light**
+
 By: Whitney McDonald
 
 After former Cleveland Browns defensive end Chris Smith's girlfriend Petara Cordero died in a [disabled vehicle accident](https://www.news5cleveland.com/news/local-news/cleveland-metro/police-not-charging-driver-who-struck-killed-browns-players-girlfriend-in-sept) in Ohio last year, he agreed to promote a new technology that could help prevent similar tragedies.
