@@ -3,6 +3,9 @@ title: This Has Been a Trying Year. Chris Smith Knows As Well As Anyone
 date: '2020-10-15'
 url: this-has-been-a-trying-year-chris-smith-knows-as-well-as-anyone
 ---
+**This Has Been a Trying Year. Chris Smith Knows As Well As Anyone**
+By: Alex Prewitt
+
 A month before he bagged Patrick Mahomes, in a devastatingly 2020 moment, the Raiders defensive lineman sat in his team hotel room, under quarantine. He turned on his phone, logged into FaceTime and watched alone as friends and family mourned the loss of the person who meant the most to him.
 
 As his flight climbed toward the heavens on Sept. 11, as his teammates busied themselves with banal entertainment for the long plane ride to Carolina in Week 1, Chris Smith reclined in his seat and reflected on loss. Man, it’s crazy, the Raiders defensive lineman thought. It’s really been a year.
