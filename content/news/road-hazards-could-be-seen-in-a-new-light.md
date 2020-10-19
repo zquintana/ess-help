@@ -3,7 +3,7 @@ title: Road hazards could be seen in a new light
 date: '2020-10-12'
 url: road-hazards-could-be-seen-in-a-new-light
 ---
-### Road hazards could be seen in a new light ###
+### Road Hazards Could Be Seen In A New Light ###
 
 **Whitney McDonald**
 
