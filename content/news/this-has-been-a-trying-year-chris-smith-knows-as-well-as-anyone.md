@@ -3,7 +3,7 @@ title: This Has Been a Trying Year. Chris Smith Knows As Well As Anyone
 date: '2020-10-15'
 url: this-has-been-a-trying-year-chris-smith-knows-as-well-as-anyone
 ---
-##### Sports Illustrated ####
+###### Sports Illustrated #####
 ### This Has Been a Trying Year. Chris Smith Knows As Well As Anyone ###
 
 **Alex Prewitt**
