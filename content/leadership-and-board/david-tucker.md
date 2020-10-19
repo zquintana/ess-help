@@ -15,4 +15,4 @@ company’s intellectual property. David is an entrepreneur with more than 25 ye
 building and divesting start-ups. Before he founded ESS, David served as president of Canyon Offshore, 
 Inc. He also co-founded UTEC Survey International as well as Valkyrie Commissioning Services, Inc. 
 He holds an MBA from Rice University and a bachelor’s degree in Business Administration from Chapman 
-University and is the inventor of over 50 patents worldwide.
+University and is the lead inventor of over 50 patents worldwide.
