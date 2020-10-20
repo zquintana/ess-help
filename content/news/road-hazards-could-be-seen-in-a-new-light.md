@@ -1,5 +1,5 @@
 ---
-title: Automotive News: Road hazards could be seen in a new light
+title: "Automotive News: Road hazards could be seen in a new light"
 date: '2020-10-12'
 url: road-hazards-could-be-seen-in-a-new-light
 ---
