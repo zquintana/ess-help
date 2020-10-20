@@ -12,5 +12,3 @@ Patrick Albin as the driver and sole occupant of a Toyota Corolla that was hit a
 The state police said a preliminary investigation indicates that the Corolla was stopped in the breakdown lane when it was hit by the tractor-trailer.
 
 The truck driver was not injured, state police said.
-
-The crash remains under investigation and anyone with information is asked to call the state police Wickford barracks at (401) 444-1064.
