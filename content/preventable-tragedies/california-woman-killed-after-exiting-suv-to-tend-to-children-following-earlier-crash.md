@@ -1,4 +1,4 @@
----
+--
 credit:
   source: Sacramento Bee
   url: https://www.sacbee.com/news/local/article246559788.html
