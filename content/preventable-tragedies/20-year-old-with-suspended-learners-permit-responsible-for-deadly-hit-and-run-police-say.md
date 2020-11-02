@@ -2,7 +2,7 @@
 credit:
   source: Local 10 News
   url: https://www.local10.com/news/local/2020/11/01/20-year-old-driver-with-suspended-learners-permit-responsible-for-deadly-hit-and-run-crash-on-i-95-police-say/
-date: '2020-10-29'
+date: '2020-10-31'
 title: "20-year-old with suspended learner’s permit responsible for deadly hit and run, police say"
 ---
 HOLLYWOOD, Fla. – A man driving with a suspended learner’s permit was arrested after a year-long investigation into a hit-and-run on Interstate 95.
