@@ -1,7 +1,7 @@
 ---
 title: "Our Mission"
 ---
-### Who is ESS
+## Who is ESS
 Emergency Safety Solutions (ESS) is focused on saving lives by helping to eliminate hundreds of thousands of preventable accidents involving vehicles that are in an emergency, disabled or parked on the side of the road. Using experience, industry expertise, logic and energy, we develop new strategies and technologies to help prevent future accidents.
 
 ### Low Visibility Roadway Emergencies
