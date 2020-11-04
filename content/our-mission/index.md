@@ -19,7 +19,7 @@ These accidents occur when drivers do not notice disabled vehicles in time to sa
 
 ### Inspiring Societal Change
 ### Chris Smith 
-#### ESS Brand Ambassador
+## ESS Brand Ambassador
 
 Chris Smith is a defensive end for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Jacksonville Jaguars in the fifth round of the 2014 NFL Draft. Smith has also played for the Cincinnati Bengals and Cleveland Browns. He played college football at Arkansas.
 
