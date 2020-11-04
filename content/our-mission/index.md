@@ -16,3 +16,14 @@ Preventable tragedies involving disabled vehicles include scenarios like:
 These accidents occur when drivers do not notice disabled vehicles in time to safely react.
 
 {{< youtube H1dYVAJ72YE >}} 
+
+### Inspiring Societal Change
+
+### Chris Smith – ESS Brand Ambassador
+Chris Smith is a defensive end for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Jacksonville Jaguars in the fifth round of the 2014 NFL Draft. Smith has also played for the Cincinnati Bengals and Cleveland Browns. He played college football at Arkansas.
+
+ On the evening of September 11, 2019, Smith and his fiancé, Petara Cordero, experienced a tragic disabled-vehicle crash in the Cleveland metro area while traveling along an expressway. Following the crash, Smith activated his hazard lights and Cordero got out of the vehicle. She was standing next to it awaiting help when she was fatally struck by an oncoming vehicle. 
+
+ In the wake of this tragedy, Smith serves as a brand ambassador for ESS – advocating for our Hazard Enhanced Lighting Package (H.E.L.P.) to be implemented into all new passenger vehicles so he can spare others from the pain and loss he has experienced following Cordero’s death.
+ 
+{{< youtube YqtQPfQvioI >}} 
