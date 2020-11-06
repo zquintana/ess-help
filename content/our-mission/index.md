@@ -32,4 +32,4 @@ Chris Smith is a defensive end for the Las Vegas Raiders of the National Footbal
 
  In the wake of this tragedy, Smith serves as a brand ambassador for ESS – advocating for our Hazard Enhanced Lighting Package (H.E.L.P.) to be implemented into all new passenger vehicles so he can spare others from the pain and loss he has experienced following Cordero’s death.
  
-{{< youtube YqtQPfQvioI >}} 
+{{< youtube IMqlGqj3iTA >}} 
