@@ -3,7 +3,7 @@ title: Revolutionary H.E.L.P. Vehicle Hazard Lighting Solution Makes Disabled Ca
 date: '2020-11-10'
 url: revolutionary-help-vehicle-hazard-lighting-solution-makes-disabled-cars-more-visible
 ---
-# Revolutionary H.E.L.P. Vehicle Hazard Lighting Solution Makes Disabled Cars More Visible
+## Revolutionary H.E.L.P. Vehicle Hazard Lighting Solution Makes Disabled Cars More Visible
 
 Emergency Safety Solutions aims to greatly reduce disabled vehicle-involved crashes with dramatically more visible emergency hazard lighting, supplemental digital advanced warning to oncoming traffic
 
