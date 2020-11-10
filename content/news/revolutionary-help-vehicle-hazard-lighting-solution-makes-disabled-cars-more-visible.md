@@ -45,9 +45,9 @@ ESS (Emergency Safety Solutions, Inc.), creator of the H.E.L.P. (Hazard Enhanced
 *Craig Keller			
 ESS Communications			
 ckeller@ess-help.com	
-847.476.7543	
+847.476.7543*	
 
 *Lisa Gill
 Marx Buscemi Eisbrenner Group, on behalf of ESS
 lgill@mbe.group
-810.459.4446
+810.459.4446*
