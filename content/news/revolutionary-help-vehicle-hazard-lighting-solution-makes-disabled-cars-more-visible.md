@@ -40,9 +40,14 @@ About ESS
 ESS (Emergency Safety Solutions, Inc.), creator of the H.E.L.P. (Hazard Enhanced Lighting Package) solution, is focused on saving lives by helping to eliminate hundreds of thousands of preventable accidents globally involving vehicles that are in an emergency, disabled or stopped on the side of the road. H.E.L.P. protects occupants of disabled vehicles and good Samaritans who assist them – providing more advance warning to drivers of potential threats on or near the roadway.
 
 
-Media Contacts
-Craig Keller				Lisa Gill
-ESS Communications			Marx Buscemi Eisbrenner Group, on behalf of ESS
-ckeller@ess-help.com	lgill@mbe.group
-847.476.7543	810.459.4446 
+*Media Contacts*
 
+*Craig Keller			
+ESS Communications			
+ckeller@ess-help.com	
+847.476.7543	
+
+*Lisa Gill
+Marx Buscemi Eisbrenner Group, on behalf of ESS
+lgill@mbe.group
+810.459.4446
