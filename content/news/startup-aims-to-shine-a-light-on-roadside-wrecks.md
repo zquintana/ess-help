@@ -17,7 +17,7 @@ The cause is a good one: reducing the number of accidents involving disabled and
 
 **Why It Matters**
 
-These types of accidents—including multi-car pileups, occupants who have exited the disabled car and good Samaritans who stopped to help—happen every seven minutes in the U.S., according to an analysis of government data conducted by Impact Research.
+These types of accidents—including multi-car pileups, occupants who have exited the disabled car and good Samaritans who stopped to help—happen every seven minutes in the U.S., according to an analysis of government data conducted by [Impact Research](https://www.ess-help.com/whitepaper/ESS_Summary.pdf).
 The results can be tragic.
 Nearly 15,000 people per year in 2016-2018 were injured or killed in crashes involving disabled and stationary vehicles, the researchers found. The total includes an average of 566 fatalities during the period.
 And the frequency rate has increased about 10% in recent years, according to the study.
