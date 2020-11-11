@@ -13,8 +13,9 @@ Emergency Safety Solutions aims to greatly reduce disabled vehicle-involved cras
 
 •	Current passenger vehicle hazard lighting systems are based on outdated limiting technology and regulatory standards that have not changed in nearly 70 years 
 
-**Houston, Nov. 10, 2020** – Emergency Safety Systems, Inc. (ESS) – an automotive safety company established in 2014 – has launched a revolutionary new automotive safety lighting solution, called the Hazard Enhanced Lighting Package (H.E.L.P.), that significantly increases the visibility of disabled or stopped cars on the roadside. 
+**Houston – Nov. 11, 2020**
 
+**Emergency Safety Systems, Inc.** (ESS) – an automotive safety company established in 2018 – has launched a revolutionary new automotive safety lighting solution, called the Hazard Enhanced Lighting Package (H.E.L.P.), that significantly increases the visibility of disabled or stopped cars on the roadside. 
 
 Designed specifically to better protect occupants of disabled vehicles and Good Samaritans who assist them, [H.E.L.P.](https://youtu.be/yv-exGz8BTQ) uses highly visible, faster hazard light flash patterns to provide instant, greatly-enhanced visibility of stationary, disabled vehicles – giving oncoming drivers more advance notice of potential threats on or near the roadway.
 
@@ -36,9 +37,12 @@ H.E.L.P. is a software-based solution, making updates to the lighting control sy
 
 ESS is also working with communications technology and traffic data partners to develop solutions that provide oncoming motorists with advance digital notification of these emergencies through their mobile phones and vehicle GPS systems to supplement the visual communication provided when H.E.L.P. is activated.  
 
+# # # #
+
+
 **About ESS**
 
-ESS (Emergency Safety Solutions, Inc.), creator of the H.E.L.P. (Hazard Enhanced Lighting Package) solution, is focused on saving lives by helping to eliminate hundreds of thousands of preventable accidents globally involving vehicles that are in an emergency, disabled or stopped on the side of the road. H.E.L.P. protects occupants of disabled vehicles and good Samaritans who assist them – providing more advance warning to drivers of potential threats on or near the roadway.
+ESS (Emergency Safety Solutions, Inc.), creator of the H.E.L.P. (Hazard Enhanced Lighting Package) solution, is focused on saving lives by helping to eliminate hundreds of thousands of preventable accidents globally involving vehicles that are in an emergency, disabled or stopped on the side of the road. H.E.L.P. protects occupants of disabled vehicles and good Samaritans who assist them – providing more advance warning to drivers of potential threats on or near the roadway. ESS was certified as a national minority supplier by the National Minority Supplier Development Council in October, 2020.
 
 
 *Media Contacts*
