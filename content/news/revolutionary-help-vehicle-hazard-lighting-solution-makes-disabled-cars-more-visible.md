@@ -36,7 +36,8 @@ H.E.L.P. is a software-based solution, making updates to the lighting control sy
 
 ESS is also working with communications technology and traffic data partners to develop solutions that provide oncoming motorists with advance digital notification of these emergencies through their mobile phones and vehicle GPS systems to supplement the visual communication provided when H.E.L.P. is activated.  
 
-About ESS
+**About ESS**
+
 ESS (Emergency Safety Solutions, Inc.), creator of the H.E.L.P. (Hazard Enhanced Lighting Package) solution, is focused on saving lives by helping to eliminate hundreds of thousands of preventable accidents globally involving vehicles that are in an emergency, disabled or stopped on the side of the road. H.E.L.P. protects occupants of disabled vehicles and good Samaritans who assist them – providing more advance warning to drivers of potential threats on or near the roadway.
 
 
