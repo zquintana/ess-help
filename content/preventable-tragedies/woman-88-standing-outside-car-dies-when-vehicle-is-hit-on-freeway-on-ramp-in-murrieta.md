@@ -3,7 +3,7 @@ credit:
   source: PE
   url: https://www.pe.com/2020/11/15/woman-88-standing-outside-car-dies-when-vehicle-is-hit-on-freeway-on-ramp-in-murrieta/
 date: '2020-11-15'
-title: "WWoman, 88, standing outside car dies when vehicle is hit on freeway on-ramp in Murrieta"
+title: "Woman, 88, standing outside car dies when vehicle is hit on freeway on-ramp in Murrieta"
 ---
 MURRIETA — An 88-year-old woman was killed while standing outside a vehicle that was rear-ended on an Interstate 15 on-ramp in Murrieta.
 
