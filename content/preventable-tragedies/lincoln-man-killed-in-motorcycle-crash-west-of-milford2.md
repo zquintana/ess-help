@@ -1,8 +1,8 @@
 ---
 credit:
-  source: 10110 NOW
-  url: https://www.1011now.com/2020/11/30/lincoln-man-killed-in-motorcycle-crash-west-of-milford/
-date: '2020-11-30'
+  source: Star Herald
+  url: https://starherald.com/news/state-and-regional/lincoln-man-killed-in-motorcycle-crash-west-of-milford/article_eed8a87d-1d13-5d46-b552-ab27618b08f6.html
+date: '2020-12-30'
 title: "Lincoln man killed in motorcycle crash west of Milford"
 ---
 MILFORD, Neb. (AP) — A Lincoln man died in a motorcycle crash near Milford in southeastern Nebraska last week, authorities said.
