@@ -16,7 +16,7 @@ A new system to improve the visibility of vehicles stranded by the side of the r
 
 More than 64,000 people have been involved this year in the United States in crashes with disabled vehicle, according to an ominous real time ticker on ESS’s website.
 
-## 70,000-plus crashes, 500-plus deaths
+### 70,000-plus crashes, 500-plus deaths
 
 Every year from 2016 through 2018, nearly 72,000 people in the U.S. were involved in a crash that included a disabled vehicle, according to research ESS commissioned.
 
@@ -26,7 +26,7 @@ More than 14,000 people were injured and an average of 566 killed each year, acc
 
 The 70-year-old regulation was written when the speed at which incandescent bulbs could be switched on and off was the limiting factor and there’d been no research into what kind of lights work best to warn drivers, Powers said.
 
-## A deceptively simple solution
+### A deceptively simple solution
 
 Current emergency flashers blink at the same rate as turn signals, about 1.5 flashes per second. About 5 hertz — five flashes a second — is best, according to research ESS used to develop its system, which it calls the Hazard Enhanced Lighting Package (HELP). Even then, faster is better but only up to a point. Rates faster than five flashes per second become less effective for alerting people without distracting them.
 
@@ -42,7 +42,7 @@ The fast lights are automatically activated if the vehicle’s air bags deploy.
 
 NHTSA is evaluating the system. There’s no announced schedule for a decision, but Powers said it’s a “front burner” item at the regulator. The company also is talking to European regulators.
 
-## Why are police flashers distracting?
+### Why are police flashers distracting?
 
 ESS also is working on digital alerts that could alert navigation systems like Waze  when a vehicle is disabled on the side of the road.
 
