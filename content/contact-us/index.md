@@ -6,7 +6,7 @@ type: contact-us
 Emergency Safety Solutions, Inc.  
 825 Town and Country Lane  
 Suite 1200  
-Houston, TX 7702
+Houston, TX 77024
 
 Business Inquiries, please contact atucker@ess-help.com
 
