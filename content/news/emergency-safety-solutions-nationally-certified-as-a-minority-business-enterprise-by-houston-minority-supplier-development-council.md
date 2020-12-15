@@ -1,5 +1,5 @@
 ---
-title: Your Car's Emergency Flashers Could Get A Major Upgrade Soon — And Here's Why
+title: Emergency Safety Solutions Nationally Certified as a Minority Business Enterprise by Houston Minority Supplier Development Council
 date: '2020-12-14'
 url: emergency-safety-solutions-nationally-certified-as-a-minority-business-enterprise-by-houston-minority-supplier-development-council
 ---
