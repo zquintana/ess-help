@@ -2,7 +2,7 @@
 credit:
   source: 3 News
   url: https://www.kiiitv.com/article/news/local/two-dead-in-three-vehicle-crash-in-jim-wells-county/503-652fa77e-0e28-4d78-9952-0787644adbe8
-date: '2021-01-22'
+date: '2021-01-24'
 title: "One dead, several injured after multiple-car crash on I-75"
 ---
 UPDATE: One person has died after a four-vehicle crash on I-75 SB at the Benchwood exit on Sunday morning.
