@@ -1,7 +1,7 @@
 ---
 credit:
   source: Lubbock Avalanche Journal
-  url: UPDATE: Man dies after crashing into wall on Borman, getting hit by another car, officials say
+  url: https://www.lubbockonline.com/story/news/2021/01/31/1-killed-when-car-crashes-into-disabled-vehicle-along-east-lubbock-roadway/4331869001/
 date: '2021-01-31'
 title: "1 killed when car crashes into disabled vehicle along East Lubbock roadway"
 ---
