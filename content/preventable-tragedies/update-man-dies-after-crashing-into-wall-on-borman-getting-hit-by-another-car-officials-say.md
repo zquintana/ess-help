@@ -1,9 +1,9 @@
 ---
 credit:
   source: NWI Times.com
-  url: UPDATE: Man dies after crashing into wall on Borman, getting hit by another car, officials say
+  url: https://www.nwitimes.com/news/local/crime-and-courts/update-man-dies-after-crashing-into-wall-on-borman-getting-hit-by-another-car-officials/article_e8f724db-a304-5d6e-a196-9814670e36cc.html
 date: '2021-02-01'
-title: "Deadly rear-end crash catches Amazon truck on fire, shuts down SH 71 near Montopolis"
+title: "UPDATE: Man dies after crashing into wall on Borman, getting hit by another car, officials say"
 ---
 HAMMOND — A male who died after crashing, getting out of his car, and getting hit by another car Sunday on the Borman Expressway has not yet been identified.
 
