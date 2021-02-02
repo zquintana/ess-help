@@ -1,6 +1,6 @@
 ---
 credit:
-  source: Lubbock Avalanche Journal
+  source: Lubbock Avalanche
   url: https://www.lubbockonline.com/story/news/2021/01/31/1-killed-when-car-crashes-into-disabled-vehicle-along-east-lubbock-roadway/4331869001/
 date: '2021-01-31'
 title: "1 killed when car crashes into disabled vehicle along East Lubbock roadway"
