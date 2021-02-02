@@ -3,7 +3,7 @@ credit:
   source: People.com
   url: https://people.com/human-interest/bodies-of-missing-michigan-parents-and-son-found-in-woods-near-car/?utm_source=smsshare
 date: '2021-01-27'
-title: "Bodies of Missing Mich. Parents and 8-Month Son Found in the Woods Near Stuck Car: 'Tragic'"
+title: "Bodies of Missing Mich. Parents and 8-Month Son Found in the Woods Near Stuck Car"
 ---
 A Michigan family missing for nearly two weeks has been found dead, according to authorities.
 
