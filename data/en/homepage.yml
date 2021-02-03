@@ -44,7 +44,7 @@ feature:
     # feature item loop
     - title: "Manual Activation"
       icon: "ti-control-eject" # icon pack : https://themify.me/themify-icons
-      content: "Our simple software-driven soft switch activation works in conjunction with other emergency equipment inside the vehicle. It is the ideal solution for disabled vehicles in hazardous conditions requiring increased visibility while at rest."
+      content: "Our simple software-driven soft switch (visible via vehicle infotainment unit or other in-vehicle screen) activation works in conjunction with other emergency equipment inside the vehicle. It is the ideal solution for disabled vehicles in hazardous conditions requiring increased visibility while at rest. Manual activation is also available via a secondary hard switch"
 
 ######################## About #######################################
 about:
