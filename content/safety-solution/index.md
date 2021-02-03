@@ -6,7 +6,7 @@ type: safety-solution
 ESS developed H.E.L.P. (Hazard Enhanced Lighting Package) to protect 
 occupants of disabled vehicles and good Samaritans who assist them – 
 providing more advance warning to drivers of potential threats on or 
-near the roadway. H.E.L.P. revolutionizes today’s outdated standard 
+near the roadway. H.E.L.P. is a regulatory compliant safety feature that revolutionizes today’s outdated standard 
 vehicle hazard lighting function, which dates back to 1951, by 
 transforming it into an intelligent safety communication system. 
 H.E.L.P. uses highly visible hazard light flash patterns to provide 
