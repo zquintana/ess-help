@@ -2,7 +2,7 @@
 credit:
   source: We Are Central PA
   url: https://www.wearecentralpa.com/news/local-news/multi-vehicle-crash-reported-in-clearfield-county/
-date: '2021-02-15'
+date: '2021-02-16'
 title: "Three sent to hospital after I-80 crash"
 ---
 CLEARFIELD COUNTY, Pa. (WTAJ) — Crews responded to a multi-vehicle accident Monday night in Clearfield County.
