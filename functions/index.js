@@ -22,7 +22,7 @@ exports.getPreventableCount = functions.https.onRequest((request, response) => {
 
 exports.getInvolvedInAccidentCount = functions.https.onRequest((request, response) => {
     const perHour = 8;
-    const start = moment('2020-01-01 00:00:00', 'YYYY-MM-DD HH:mm:ss');
+    const start = moment('2021-01-01 00:00:00', 'YYYY-MM-DD HH:mm:ss');
     const hourDiff = moment().diff(start, 'hours');
 
     response.set('Access-Control-Allow-Origin', '*');

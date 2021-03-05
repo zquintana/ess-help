@@ -88,9 +88,7 @@ team_member:
   ################### team member loop
   - name: "Kenneth Wagner"
     image: "images/team/kenneth-wagner.jpg"
-    designation: "Director
-    
-    "
+    designation: "Director"
     content: "Kenneth Wagner is a Director for ESS. Kenneth also serves as the current Oklahoma Secretary of Energy and Environment. He is a former senior advisor to the Administrator of the U.S. Environmental Protection Agency and a former managing partner of Latham, Wagner, Steele & Lehman, P.C. He has been named to the List of SuperLawyers from 2008 to 2016 and peer reviewed as Preeminent for being in Top 5% of all lawyers for Competence and Ethics by Martindale-Hubbell. Kenneth graduated from University of Tulsa Law School and earned his bachelor’s degree from The University of Oklahoma."
     social:
     # social site loop
@@ -110,11 +108,28 @@ team_member:
     #          link : "#"
 
   ################### team member loop
+  - name: "Clifford Swint"
+    image: "images/team/cifford-swints.jpg"
+    designation: "Director"
+    content: |
+      As a Director for ESS, Clifford (Cliff) Swint brings a broad range of business and leadership experience from various industries, as well
+      as a long track record as a champion for diversity, equality and opportunity. He leads the ESS Board’s newly created Diversity and
+      Community Engagement Committee.
+
+      Cliff currently serves as executive vice president of MFR Securities, Inc. Prior to joining MFR, heheaded the
+      banking team at Blaylock Robert Van, LLC, another leading diversity securities firm. He also held leadership positions RBC Capital Markets
+      and Prudential Insurance. Before his Wall Street career, Cliff was a design engineer for Westinghouse Defense and worked on projects such as
+      the fire control systems for the B1 Bomber and F-16 Fighter.
+
+      Cliff is a Chartered Financial Analyst and holds an MBA from Harvard Business School, a Master of Science degree in computer science from
+      Johns Hopkins University and a Bachelor ofScience degree in mechanical engineering from Lafayette College.
+    social:
+      - icon: "ti-linkedin"
+        link: "https://www.linkedin.com/in/clifford-swint-4a887a8/"
+
   - name: "Martin O’Carroll"
     image: "images/team/martin-o-carroll.jpg"
-    designation: "Director
-    
-    "
+    designation: "Director"
     content: "Martin O’Carroll is a Director for ESS. Martin is an entrepreneur and executive manager with more than 25 years of experience working in finance and with start-ups, building and exiting strong businesses at superior returns to stakeholders. Before he joined ESS, Martin co-founded UTEC Survey International and Canyon Offshore Inc. He earned his bachelor of commerce degree from the National University of Ireland."
     social:
     # social site loop
@@ -135,8 +150,6 @@ team_member:
 
   - name: "Ramon Rodriguez"
     image: "images/team/ramon-rodriguez2.jpg"
-    designation: "Director
-    
-    "
+    designation: "Director"
     content: "Ramon Rodriguez is a Director for ESS. He also serves as the Audit Committee chair of PBS, and on the Board of Directors of Republic Services Inc. Ramon has previously served as chair of the Board of Directors of Republic Services Inc., president of the Florida Institute of Certified Public Accountants, chair of the Florida Board of Accountancy and chair, president and CEO for Madsen, Sapp, Mena, Rodriguez & Co. Rodriguez earned his bachelor’s degree in accounting from Florida Atlantic University and is a licensed CPA."
     social:
