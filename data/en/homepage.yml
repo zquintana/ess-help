@@ -1,7 +1,7 @@
 ################################## Banner #################################
 banner:
   enable: true
-  subtitle: "Victims Involved in U.S. Disabled Vehicle Crashes in 2020:"
+  subtitle: "Victims Involved in U.S. Disabled Vehicle Crashes in 2021:"
   title: "48,122"
 
   # solid button
