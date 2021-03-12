@@ -1,7 +1,7 @@
 ---
 title: "Kenneth Wagner"
 type: leadership
-designation: "Director of Legal Affairs and Sustainability"
+designation: "Director, Legal Affairs and Sustainability"
 weight: 100
 image: "/images/team/kenneth-wagner.jpg"
 ---
