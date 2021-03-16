@@ -1,7 +1,7 @@
 ---
 credit:
-  source: Veince Gondolier
-  url: https://www.yoursun.com/venice/updated-interstate-reopens-after-fatal-crash/article_1f67bdaa-b178-11ea-837d-db0339f90188.html
+  source: KX Net
+  url: https://www.kxnet.com/news/local-news/two-injured-in-bismarck-expressway-bridge-collision-sunday-night/
 date: '2021-03-15'
 title: "Two injured in Bismarck Expressway Bridge collision Sunday night"
 ---
