@@ -1,7 +1,7 @@
 ---
 title: "Andrew Coetzee"
 type: leadership
-designation: "Chief Safety Advocate"
+designation: "Director, Safety Advocacy"
 image: "/images/team/andrew-coetzee.jpg"
 weight: 30
 social:

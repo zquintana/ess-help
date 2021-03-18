@@ -1,7 +1,7 @@
 ---
 title: "Ramon Rodriguez"
 type: leadership
-designation: "Director of Growth Management"
+designation: "Director, Growth Management"
 weight: 200
 image: "/images/team/ramon-rodriguez2.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Clifford Swint"
 type: leadership
-designation: "Director"
+designation: "Director, Diversity and Community Outreach"
 weight: 125
 image: "/images/team/clifford-swint.jpg"
 ---
