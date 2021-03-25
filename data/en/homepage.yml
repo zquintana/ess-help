@@ -1,8 +1,8 @@
 ################################## Banner #################################
 banner:
   enable: true
-  subtitle: "Victims Involved in U.S. Disabled Vehicle Crashes in 2021:"
-  title: "48,122"
+  subtitle: "Deaths and Injuries Caused by U.S. Disabled Vehicle Crashes Since Company Inception in October 2018:"
+  title: "173,852"
 
   # solid button
   button_solid:
