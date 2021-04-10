@@ -2,7 +2,7 @@
 credit:
   source: WSAZ 3
   url: https://www.wsaz.com/2021/04/06/man-in-hospital-after-being-hit-on-route-35/
-date: '2020-04-06'
+date: '2021-04-06'
 title: UPDATE | Tractor trailer driver doing ‘great’ after hit and run sends him to hospital
 ---
 MASON COUNTY, W.Va. (WSAZ) -- Mason County Sheriff Corey Miller tells WSAZ he has spoken to the victim of a tractor trailer crash on Route 35, which sent a tractor trailer driver to the hospital.
