@@ -2,7 +2,7 @@
 credit:
   source: WFLA 8
   url: https://www.wfla.com/news/traffic/good-samaritans-4-others-seriously-hurt-at-i-275-crash-scene/
-date: '2020-04-06'
+date: '2021-04-06'
 title: Good Samaritans, 4 others seriously hurt at I-275 crash scene
 ---
 TAMPA, Fla. (WFLA) — Two Good Samaritans who stopped to help a woman who crashed her car on Interstate 275 were seriously hurt after another car slammed into the woman’s vehicle, troopers said.
