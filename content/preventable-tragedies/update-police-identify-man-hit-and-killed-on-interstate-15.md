@@ -2,7 +2,7 @@
 credit:
   source: East Idaho News
   url: https://www.eastidahonews.com/2021/04/update-police-identify-man-hit-and-killed-on-interstate-15/
-date: '2020-04-06'
+date: '2021-04-06'
 title: UPDATE: Police identify man hit and killed on Interstate 15
 ---
 Police have identified the man hit and killed on Interstate 15 near Idaho Falls while trying to help a driver who slid off the road Tuesday morning.
