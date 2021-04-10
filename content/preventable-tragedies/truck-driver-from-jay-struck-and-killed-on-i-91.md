@@ -2,7 +2,7 @@
 credit:
   source: My Champlain Valley
   url: https://www.mychamplainvalley.com/news/truck-driver-struck-and-killed-on-i-91/
-date: '2020-04-06'
+date: '2021-04-06'
 title: Truck driver from Jay struck and killed on I-91
 ---
 A truck driver who got out of his disabled tractor-trailer was hit and killed on I-91 early Monday .
