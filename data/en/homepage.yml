@@ -1,7 +1,7 @@
 ################################## Banner #################################
 banner:
   enable: true
-  subtitle: "Deaths and Injuries Caused By U.S. Disabled Vehicle Crashes Since Company Inception in October 2018:"
+  subtitle: "Victims Involved in U.S. Disabled Vehicle Crashes Since Company Inception in October 2018:"
   title: "34,325"
 
   # solid button
