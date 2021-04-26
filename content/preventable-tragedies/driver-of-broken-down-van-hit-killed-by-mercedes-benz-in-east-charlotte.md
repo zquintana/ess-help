@@ -1,7 +1,7 @@
 ---
 credit:
   source: WSOC TV
-  url: WSOC TV
+  url: https://www.wsoctv.com/news/local/driver-broken-down-van-hit-killed-by-mercedes-benz-east-charlotte/H3MXE34XTZBMPDCWHX3UL57UU4/
 date: '2021-04-26'
 title: "Driver of broken down van hit, killed by Mercedes-Benz in east Charlotte"
 ---
