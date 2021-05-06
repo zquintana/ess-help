@@ -7,7 +7,9 @@ title: "Police: Man killed in LIE crash involving FedEx cargo truck"
 ---
 A Lake Ronkonkoma man has died after being hit by a FedEx cargo truck on the Long Island Expressway, police say.
 
-Suffolk police say Stephen Neville crashed his 2018 Honda into a Nissan near Exit 60 in Ronkonkoma around 11:35 p.m. Tuesday. The Honda came to a stop in the center lane and the Nissan stopped on the exit ramp.
+Suffolk police say Stephen Neville crashed his 2018 Honda into a Nissan near Exit 60 in Ronkonkoma around 11:35 p.m. Tuesday. The Honda came to a stop in the center
+
+lane and the Nissan stopped on the exit ramp.
 
 Both drivers got out to inspect their cars, and when Neville got back in, police say his car was hit by the FedEx truck, killing him.
 
