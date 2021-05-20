@@ -22,8 +22,7 @@ banner_cta:
   title: "The H.E.L.P. drivers need until HELP arrives"
   content: "Emergency Safety Solutions (ESS) is focused on saving lives by helping to eliminate hundreds of thousands
     of preventable accidents involving vehicles that are disabled on or along the side of the road.
-    Our Hazard Enhanced Lighting Package (\"H.E.L.P.\") is a regulatory compliant, intelligent emergency communications safety feature that combines highly visible emergency-based flash rates of the vehicle lighting, and digital notifications sent to other vehicles and GPS-based mapping applications that delivers advanced warnings to oncoming motorists, giving them minutes, not milliseconds, to react.  
-    upcoming disabled vehicles on or near the roadway."
+    Our Hazard Enhanced Lighting Package (\"H.E.L.P.\") is a regulatory compliant, intelligent emergency communications safety feature that combines highly visible emergency-based flash rates of the vehicle lighting, and digital notifications sent to other vehicles and GPS-based mapping applications that delivers advanced warnings to oncoming motorists, giving them minutes, not milliseconds, to react."
   button:
     enable: true
     label: "Learn more"
