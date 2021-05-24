@@ -30,12 +30,17 @@
                             {{ if .Params.Image }}
                                 <img src="{{ .Params.Image | absURL }}" alt="{{ .Title | markdownify }}" class="img-fluid rounded">
                             {{ end }}
-                            <div class="contant">
+                            <div class="content">
                                 {{.Content}}
                             </div>
-                            {{ partial "feature.html" . }}
+<!--                            {{ partial "feature.html" . }}-->
                             {{ partial "solution/features.html" . }}
                             {{ partial "services.html" . }}
+                            <div class="content" style="align-content: center; text-align: center">
+                                <figure>
+                                    <img src="/images/cost-of-updates-vs-lives-saved-768x414.png" alt="">
+                                </figure>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-12 mb-3 text-center">
