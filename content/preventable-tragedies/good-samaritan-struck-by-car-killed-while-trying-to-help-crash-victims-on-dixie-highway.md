@@ -1,7 +1,7 @@
 ---
 credit:
   source: WLKY
-  url: xhttps://www.wlky.com/article/good-samaritan-struck-by-car-killed-while-trying-to-help-crash-victims-on-dixie-highway/36845633
+  url: https://www.wlky.com/article/good-samaritan-struck-by-car-killed-while-trying-to-help-crash-victims-on-dixie-highway/36845633
 date: '2021-06-25'
 title: "Good Samaritan struck by car, killed while trying to help crash victims on Dixie Highway"
 ---
