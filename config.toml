@@ -9,27 +9,17 @@ contentDir = "content"
 # main menu
 [[menu.main]]
 name = "Our Company"
-URL = "our-mission"
+URL = "https://www.ess-help.com/our-company"
 weight = 2
-hasChildren = true
+hasChildren = false
 
-  [[menu.main]]
-  parent = "Our Company"
-  name = "Our Mission"
-  URL = "our-mission"
-  weight = 1
+ # [[menu.main]]
+ # parent = "Our Company"
+ # name = "Our Company"
+ # URL = "our-mission"
+ # weight = 1
 
-  [[menu.main]]
-  parent = "Our Company"
-  name = "Board of Directors"
-  URL = "leadership-and-board"
-  weight = 2
-
-  [[menu.main]]
-  parent = "Our Company"
-  name = "Intellectual Property"
-  URL = "intellectual-property"
-  weight = 3
+  
 
 #  [[menu.main]]
 #  parent = "Our Company"
@@ -45,7 +35,7 @@ hasChildren = true
 [[menu.main]]
 weight = 3
 name = "Technology"
-URL = "safety-solution"
+URL = "https://www.ess-help.com/technology"
 
 [[menu.main]]
 name = "Stories"
@@ -54,12 +44,12 @@ weight = 4
 
 [[menu.main]]
 name = "News"
-URL = "news"
+URL = "https://www.ess-help.com/news"
 weight = 5
 
 [[menu.main]]
 name = "Contact Us"
-URL = "contact-us"
+URL = "https://www.ess-help.com/contact-us"
 weight = 6
 
 # footer menu
