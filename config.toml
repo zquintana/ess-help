@@ -8,31 +8,31 @@ contentDir = "content"
 
 # main menu
 [[menu.main]]
-name = "About Us"
+name = "Our Company"
 URL = "our-mission"
 weight = 2
 hasChildren = true
 
   [[menu.main]]
-  parent = "About Us"
+  parent = "Our Company"
   name = "Our Mission"
   URL = "our-mission"
   weight = 1
 
   [[menu.main]]
-  parent = "About Us"
+  parent = "Our Company"
   name = "Board of Directors"
   URL = "leadership-and-board"
   weight = 2
 
   [[menu.main]]
-  parent = "About Us"
+  parent = "Our Company"
   name = "Intellectual Property"
   URL = "intellectual-property"
   weight = 3
 
 #  [[menu.main]]
-#  parent = "About Us"
+#  parent = "Our Company"
 #  name = "Austin's Awesome Page"
 #  URL = "#"
 #  weight = 4
@@ -44,11 +44,11 @@ hasChildren = true
 
 [[menu.main]]
 weight = 3
-name = "Our Solution"
+name = "Technology"
 URL = "safety-solution"
 
 [[menu.main]]
-name = "Preventable Tragedies"
+name = "Stories"
 URL = "preventable-tragedies"
 weight = 4
 
@@ -85,7 +85,7 @@ weight = 6
 
 #################### default parameters ################################
 [params]
-logo = "images/logo-no-slogan-150x65.png"
+logo = "images/logo-new.png"
 # top header
 top_header = true
 # Meta data
