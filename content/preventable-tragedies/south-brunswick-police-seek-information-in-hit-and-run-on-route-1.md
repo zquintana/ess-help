@@ -3,7 +3,7 @@ credit:
   source: My Central Jersey
   url: https://www.mycentraljersey.com/story/news/crime/jersey-mayhem/2021/08/21/south-brunswick-police-seek-information-hit-and-run-route-1/8229117002/
 date: '2021-08-21'
-title: "Coroner: 26-year-old man dies following a car crash on Tuesday"
+title: "South Brunswick police seek information in hit-and-run on Route 1"
 ---
 SOUTH BRUNSWICK - Police are seeking information in a hit-and-run that left a 28-year-old South Carolina man in serious condition after he was struck by a van early Saturday morning on southbound Route 1.
 
