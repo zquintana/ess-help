@@ -2,7 +2,7 @@
 credit:
   source: KMBC
   url: https://www.kmbc.com/article/osawatomie-kansas-man-killed-after-being-hit-by-tractor-trailer-on-i-70-in-kansas-city/37421799#
-date: '2021-08-26'
+date: '2021-08-28'
 title: "Osawatomie man killed after being hit by tractor-trailer on I-70 early Saturday"
 ---
 KANSAS CITY, Mo. —
