@@ -2,7 +2,7 @@
 credit:
   source: ABC 13
   url: https://www.wtvq.com/2021/09/09/21-year-old-dies-when-car-hit-by-18-wheeler/
-date: '2021-09-00'
+date: '2021-09-09'
 title: "21-year-old dies when car hit by 18-wheeler"
 ---
 TAYLOR COUNTY, Ky. (WTVQ) – A 21-year-old Louisville man was killed Wednesday when his car careened into the path of an 18-wheeler.
