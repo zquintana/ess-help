@@ -2,7 +2,7 @@
 credit:
   source: WHIO TV 7
   url: https://www.whio.com/news/local/2-injured-jefferson-twp-crash/5C5BU7ZZIBADZMVYCRUEF2RLMQ/
-date: '2021-10-19'
+date: '2021-10-09'
 title: "Motorcycle hits woman changing tire in Jefferson Twp"
 ---
 JEFFERSON TWP. — Two people have been injured in a crash in Montgomery County.
