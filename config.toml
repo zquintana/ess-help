@@ -1,4 +1,4 @@
-baseURL = "https://stories.ess-help.com"
+BaseURL = "https://www.ess-help.com"
 languageCode = "en-us"
 title = "ESS - The Help Drivers Need Until Help Arrives"
 theme = "enov-hugo"
@@ -39,7 +39,7 @@ URL = "https://www.ess-help.com/technology"
 
 [[menu.main]]
 name = "Stories"
-URL = "preventable-tragedies"
+URL = "https://www.ess-help.com/stories"
 weight = 4
 
 [[menu.main]]
@@ -76,6 +76,7 @@ weight = 6
 #################### default parameters ################################
 [params]
 logo = "images/logo-new.png"
+BaseURL = "https://www.ess-help.com"
 # top header
 top_header = true
 # Meta data
@@ -83,8 +84,8 @@ description = "Emergency Safety Solutions (ESS) is focused on saving lives by he
 author = "Themefisher"
 # contact info
 address = "Emergency Safety Solutions, Inc.\n825 Town and Country Lane, Suite 1200\nHouston, TX 77024"
-phone = "847-476-7543"
-email = "ckeller@ess-help.com"
+# phone = "847-476-7543"
+# email = "ckeller@ess-help.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs

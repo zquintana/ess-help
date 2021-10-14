@@ -14,7 +14,8 @@
           <h1 class="animated fadeInUp mb-5 text-white" id="preventable-counter">{{ .title | markdownify }}</h1>
           {{ if .button_solid.enable }}
           {{ with .button_solid }}
-          <a href="{{ .link | absLangURL }}" class="btn btn-main animated fadeInUp mr-1 mb-2 mb-lg-0">{{ .label }}<i class="btn-icon ti-angle-right ml-2"></i></a>
+          <a href="{{ .link | absLangURL }}" class="btn btn-main animated fadeInUp mr-1 mb-2 mb-lg-0">{{ .label }}<i
+              class="btn-icon ti-angle-right ml-2"></i></a>
           {{ end }}
           {{ end }}
 
@@ -88,12 +89,14 @@
 {{ if $data.homepage.promo_video.enable }}
 {{ with $data.homepage.promo_video }}
 <section class="section cta-section position-relative">
-  <div class="bg-2 w-50 bg-absolute d-none d-sm-block d-md-block d-lg-block" style="background-image: url('{{ .video_thumbnail | absURL }}');"></div>
+  <div class="bg-2 w-50 bg-absolute d-none d-sm-block d-md-block d-lg-block"
+    style="background-image: url('{{ .video_thumbnail | absURL }}');"></div>
   <div class="container">
     <div class="row">
       <div class="col-lg-7 offset-lg-5">
         <div class="cta-item p-5 position-relative ml-4">
-          <a  href="{{ .video_link | safeURL }}" class="videoplay mr-3 text-white popup-youtube"><i class="ti-control-play"></i></a>
+          <a href="{{ .video_link | safeURL }}" class="videoplay mr-3 text-white popup-youtube"><i
+              class="ti-control-play"></i></a>
           <div class="cta-content-block">
             <h2 class="mt-2 mb-4 font-secondary">{{ .title | markdownify }}</h2>
             <p><a href="preventable-tragedies">{{ .content | markdownify }}</a></p>
@@ -165,7 +168,8 @@
           <img src="{{ .Params.Image | absURL }}" class="img-fluid rounded-top" alt="{{ .Title | markdownify }}">
           <div class="p-4">
             <div class="d-flex w-100 justify-content-between">
-              <span><i class="ti-user mr-1"></i><a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></span>
+              <span><i class="ti-user mr-1"></i><a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{
+                  .Params.Author | title }}</a></span>
               <span class="text-uppercase text-sm letter-spacing"><i class="ti-time mr-1"></i>
                 {{ .PublishDate.Format "January 02, 2006" }}</span>
             </div>

@@ -7,10 +7,10 @@
       <div class="row justify-content-between align-items-center">
         <div class="col-lg-8 col-md-8">
           <div class="header-top-info">
-            <a href="tel:{{ .Site.Params.phone }}"><i
-                class="ti-mobile mr-2"></i><span>{{ .Site.Params.phone }}</span></a>
-            <a href="mailto:{{ .Site.Params.email }}"><i
-                class="ti-email mr-2"></i><span>{{ .Site.Params.email }}</span></a>
+            <!-- <a href="tel:{{ .Site.Params.phone }}"><i class="ti-mobile mr-2"></i><span>{{ .Site.Params.phone
+                }}</span></a>
+            <a href="mailto:{{ .Site.Params.email }}"><i class="ti-email mr-2"></i><span>{{ .Site.Params.email
+                }}</span></a> -->
           </div>
         </div>
         <div class="col-lg-4 col-md-4">
@@ -28,8 +28,9 @@
 
   <nav class="navbar navbar-expand-lg  main-nav py-3" id="navbar">
     <div class="container">
-      <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}"><img src="{{ .Site.Params.logo | absURL }}"
-          alt="{{ .Site.Title }}" class="img-fluid"></a>
+      <a class="navbar-brand" href="{{ .Site.Params.BaseURL | relLangURL }}">
+        <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" class="img-fluid">
+      </a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navigation"
         aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
         <span class="ti-menu"></span>
@@ -37,8 +38,8 @@
 
       <div class="collapse navbar-collapse" id="navigation">
         <ul class="navbar-nav ml-auto text-center text-lg-left">
-          <li class="nav-item active"><a class="nav-link"
-              href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Home }}</a></li>
+          <li class="nav-item active"><a class="nav-link" href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Home
+              }}</a></li>
           {{ range .Site.Menus.main }}
           {{ if .HasChildren }}
           <li class="nav-item dropdown">
@@ -85,7 +86,8 @@
         {{ if .Site.Params.navigation_button.enable }}
         <div class="text-center text-lg-left">
           <a href="{{ .Site.Params.navigation_button.link | absLangURL }}"
-            class="quote-btn ml-4 bg-primary text-white rounded-btn letter-spacing text-uppercase">{{ .Site.Params.navigation_button.label }}
+            class="quote-btn ml-4 bg-primary text-white rounded-btn letter-spacing text-uppercase">{{
+            .Site.Params.navigation_button.label }}
             <i class="ti-angle-right"></i></a>
         </div>
         {{ end }}
