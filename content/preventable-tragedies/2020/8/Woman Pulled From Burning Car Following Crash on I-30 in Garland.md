@@ -2,7 +2,7 @@
 credit:
   source: NBC DFW News
   url: https://www.nbcdfw.com/news/local/woman-pulled-from-burning-car-following-crash-on-i-30-in-garland/2431159/
-date: '2020--8-23'
+date: '2020-8-23'
 title: "Woman Pulled From Burning Car Following Crash on I-30 in Garland"
 ---
 A woman was pulled from a burning car and another person was injured in a two-vehicle incident on Interstate 30 early Sunday morning, Garland police say.

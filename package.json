@@ -1,7 +1,9 @@
 {
   "name": "ess-site",
   "devDependencies": {
-    "firebase-tools": "^7.14.0"
+    "date-fns": "^2.25.0",
+    "firebase-tools": "^7.14.0",
+    "front-matter": "^4.0.2"
   },
   "scripts": {
     "serve": "hugo serve",
