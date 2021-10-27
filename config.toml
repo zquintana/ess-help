@@ -1,4 +1,4 @@
-BaseURL = "https://www.ess-help.com"
+baseURL = "https://stories.ess-help.com"
 languageCode = "en-us"
 title = "ESS - The Help Drivers Need Until Help Arrives"
 theme = "enov-hugo"
