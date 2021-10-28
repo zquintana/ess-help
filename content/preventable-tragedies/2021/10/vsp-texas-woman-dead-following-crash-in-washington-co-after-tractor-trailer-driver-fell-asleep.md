@@ -1,6 +1,6 @@
 ---
 credit:
-  source: WJHL.com 11
+  source: WJHL
   url: https://www.wjhl.com/news/local/vsp-texas-woman-dead-following-i-81-crash-in-washington-co-after-tractor-trailer-driver-fell-asleep/
 date: '2021-10-26'
 title: "VSP: Texas woman dead following crash in Washington Co. after tractor-trailer driver fell asleep"
