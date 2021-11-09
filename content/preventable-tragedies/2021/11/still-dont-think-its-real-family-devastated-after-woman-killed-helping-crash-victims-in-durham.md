@@ -3,7 +3,7 @@ credit:
   source: WRAL.com
   url: https://www.wral.com/still-don-t-think-it-s-real-family-devastated-after-woman-killed-helping-crash-victims-in-durham/19967523/
 date: '2021-11-07'
-title: "'Still don't think it's real': Family devastated after woman killed helping crash victims in Durham"
+title: "Still don't think it's real': Family devastated after woman killed helping crash victims in Durham"
 ---
 DURHAM, N.C. — A Raleigh woman was hit by an SUV and died after she stopped to help victims who had been in a crash on South Miami Boulevard in Durham early Sunday morning.
 
