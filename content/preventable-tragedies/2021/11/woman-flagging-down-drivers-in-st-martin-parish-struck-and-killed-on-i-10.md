@@ -5,13 +5,6 @@ credit:
 date: '2021-11-04'
 title: "Woman flagging down drivers in St. Martin Parish struck and killed on I-10"
 ---
----
-credit:
-  source: KLFY
-  url: https://www.klfy.com/st-martin-parish/woman-flagging-down-drivers-in-st-martin-parish-struck-and-killed-on-i-10/
-date: '2021-11-04'
-title: "Woman flagging down drivers in St. Martin Parish struck and killed on I-10"
----
 St. Martin Parish, La. (KLFY) A woman flagging down drivers to alert them of her disabled vehicle was struck and killed on I-10 in St. Martin Parish.
 
 Police say it happened late Sunday near mile marker 112.
