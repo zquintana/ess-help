@@ -2,7 +2,7 @@
 credit:
   source: ABC 13
   url: https://abc13.com/houston-traffic-deaths-southwest-freeway-crash-uber-passenger-killed-woman-in/11263432/
-date: '2021-11-22'
+date: '2021-11-23'
 title: "Uber passenger killed after car breaks down on Southwest Freeway"
 ---
 HOUSTON, Texas (KTRK) -- A 39-year-old woman is dead after the Uber she was riding in was hit from behind over the weekend.
