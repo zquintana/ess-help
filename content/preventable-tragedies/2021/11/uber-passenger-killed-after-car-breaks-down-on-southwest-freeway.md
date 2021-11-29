@@ -7,7 +7,9 @@ title: "Uber passenger killed after car breaks down on Southwest Freeway"
 ---
 HOUSTON, Texas (KTRK) -- A 39-year-old woman is dead after the Uber she was riding in was hit from behind over the weekend.
 
-The incident happened early Saturday. Houston police said Misty Holley was a passenger in a Mitsubishi Lancer, when the vehicle began having mechanical problems in a moving lane of traffic on the Southwest Freeway, near Newcastle.While stopped on the freeway, a truck slammed into the back of the car, killing Misty Holley.
+The incident happened early Saturday. Houston police said Misty Holley was a passenger in a Mitsubishi Lancer, when the vehicle began having mechanical problems in 
+
+a moving lane of traffic on the Southwest Freeway, near Newcastle.While stopped on the freeway, a truck slammed into the back of the car, killing Misty Holley.
 
 Investigators said Misty Holley, who was in the backseat, died at the scene.
 
@@ -15,7 +17,9 @@ Investigators said Misty Holley, who was in the backseat, died at the scene.
 
 Misty Holley's family told ABC13 she worked as a security guard at the Point Aquarius gated community on Lake Conroe.
 
-"She had a little tenor ukulele and she would have it in the guard shack with her. Cars and the residents would be coming through and she would be learning new songs on it and play it for the residents. She was a character for sure," her family told ABC13.
+"She had a little tenor ukulele and she would have it in the guard shack with her. Cars and the residents would be coming through and she would be learning new 
+
+songs on it and play it for the residents. She was a character for sure," her family told ABC13.
 
 Police said in his statement, the 50-year-old identified himself as an Uber driver. He was taken to the hospital after the crash with broken ribs.
 
