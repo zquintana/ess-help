@@ -3,7 +3,7 @@ credit:
   source: Patch.com
   url: https://patch.com/california/los-angeles/woman-hit-semi-710-freeway
 date: '2021-11-29'
-title: "Exeter Township man severely injured in multi-vehicle weekend accident in Reading"
+title: "Woman Hit By Semi On 710 Freeway"
 ---
 LONG BEACH, CA — A Long Beach woman died Monday morning after being hit by a semi-tractor on the Long Beach (710) Freeway.
 
