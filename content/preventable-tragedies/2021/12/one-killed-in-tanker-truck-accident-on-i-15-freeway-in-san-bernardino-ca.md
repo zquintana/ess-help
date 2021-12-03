@@ -9,6 +9,8 @@ San Bernardino, CA -- November 22, 2021, one person sustainted fatal injuries fo
 
 Investigators reported that the crash took place at around 6:44 a.m. along the I-15 Freeway in the Cajon Pass area near Oak Hill Road.
 
-Officials said that a witnesses saw a silver Hyundai Accident reportedly driving erratically. At some point, the car reportedly attempted to pass a semi-truck and crashed into a tanker truck that was parked along the shoulder, possibly protruding into the lane of travel.
+Officials said that a witnesses saw a silver Hyundai Accident reportedly driving erratically. At some point, the car reportedly attempted to pass a semi-truck and 
+
+crashed into a tanker truck that was parked along the shoulder, possibly protruding into the lane of travel.
 
 Due to the collision, the Hyundai driver succumbed to fatal injuries. Authorities did not identify the victim. Right now, additional details are unavailable.
