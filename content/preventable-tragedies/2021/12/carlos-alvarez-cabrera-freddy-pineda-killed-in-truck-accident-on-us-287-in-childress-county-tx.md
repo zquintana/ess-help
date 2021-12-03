@@ -2,7 +2,7 @@
 credit:
   source: Nationwide Accident News From Wrongful Death Attorney Michael Grossman
   url: https://www.texas-wrongful-death-lawyer.net/164485/carlos-alvarez-cabrera-freddy-pineda-accident-us-287-childress-co-tx.htm
-date: '2021-12-1'
+date: '2021-12-01'
 title: "Carlos Alvarez-Cabrera, Freddy Pineda Killed in Truck Accident on US-287 in Childress County, TX"
 ---
 Childress County, TX -- November 28, 2021, Carlos Alvarez-Cabrera and Freddy Pineda were killed by a tractor-trailer on the shoulder of U.S. Highway 287 near 
