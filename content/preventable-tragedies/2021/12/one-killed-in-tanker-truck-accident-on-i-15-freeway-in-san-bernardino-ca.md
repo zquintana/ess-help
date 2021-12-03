@@ -2,7 +2,7 @@
 credit:
   source: Nationwide Accident News From Wrongful Death Attorney Michael Grossman
   url: https://www.texas-wrongful-death-lawyer.net/164492/tanker-truck-accident-cajon-pass-san-bernardino-ca-i-15.htm
-date: '2021-12-1'
+date: '2021-12-01'
 title: "One Killed in Tanker Truck Accident on I-15 Freeway in San Bernardino, CA"
 ---
 San Bernardino, CA -- November 22, 2021, one person sustainted fatal injuries following an accident where a vehicle crashed into a tanker on I-15.
