@@ -5,7 +5,7 @@ credit:
 date: '2021-12-02'
 title: "Killdeer woman fatally struck by vehicle on Highway 22"
 ---
-A 73-year-old female pedestrian was struck by a pickup truck at around 4:40 p.m. on Wednesday, Dec. 1, 4 miles north of Killdeer on Highway 22. According to the 
+A 73-year-old female pedestrian was struck by a pickup truck at around 4:40 p.m. on Wednesday, Dec. 1,4 miles north of Killdeer on Highway 22. According to the 
 
 North Dakota Highway Patrol, the pedestrian was pronounced dead at the scene.
 
