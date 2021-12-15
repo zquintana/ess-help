@@ -3,7 +3,7 @@ credit:
   source: Northwest Florida Daily News
   url: https://www.nwfdailynews.com/story/news/local/2021/12/14/navarre-pedestrian-struck-killed-pickup-truck-u-s-highway-98/6506888001/
 date: '2021-12-14'
-title: "53-year-old Navarre man struck, killed while crossing U.S. Highway 98 in Okaloosa County
+title: "53-year-old Navarre man struck, killed while crossing U.S. Highway 98 in Okaloosa County"
 ---
 MARY ESTHER — A 53-year-old Navarre man was killed Monday after he was reportedly struck by a pickup truck while crossing U.S. Highway 98.
 
