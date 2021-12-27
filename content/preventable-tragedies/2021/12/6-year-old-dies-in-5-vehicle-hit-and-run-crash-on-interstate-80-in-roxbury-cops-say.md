@@ -2,7 +2,7 @@
 credit:
   source: NJ.com
   url: https://www.nj.com/news/2021/12/6-year-old-dies-in-5-vehicle-hit-and-run-crash-on-interstate-80-in-roxbury-cops-say.html
-date: '2021-12-23'
+date: '2021-12-24'
 title: "6-year-old dies in 5-vehicle, hit-and-run crash on Interstate 80 in Roxbury, cops say"
 ---
 A 6-year-old boy died following a five-vehicle crash in Roxbury on Thursday night involving a hit-and-run driver who is now being sought, the New Jersey State Police said.
