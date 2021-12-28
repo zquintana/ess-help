@@ -30,4 +30,3 @@ The Nissan driver died at the scene.
 This fatal crash and two others occurred on I-95 near Downtown Richmond. State Police said 
 
 the two crashes happened ahead of the deadly crash.
-
