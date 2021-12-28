@@ -1,14 +1,10 @@
 ---
 credit:
-  source: PleasantonWeekly.com
+  source: Pleasantonweekly.com
   url: https://www.pleasantonweekly.com/news/2021/12/19/teen-passenger-killed-in-fiery-crash-on-i-580-at-hopyard-road
 date: '2021-12-19'
 title: "Teen passenger killed in fiery crash on I-580 at Hopyard Road"
 ---
-Second of successive collisions turns fatal early Sunday morning
-
-by Jeremy Walsh / Pleasanton Weekly
-
 A 16-year-old boy died after the vehicle he was riding in, which had stalled on Interstate 
 
 580 in Pleasanton after an initial collision, was struck from behind at freeway speed by 
