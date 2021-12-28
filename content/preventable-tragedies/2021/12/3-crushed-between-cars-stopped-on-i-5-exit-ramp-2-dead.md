@@ -1,6 +1,6 @@
 ---
 credit:
-  source: Fox 32 Chicago
+  source: Koin 6 News
   url: https://www.koin.com/local/clark-county/3-crushed-between-cars-stopped-on-i-5-exit-ramp-1-dead/
 date: '2021-12-19'
 title: "3 crushed between cars stopped on I-5 exit ramp, 2 dead"
