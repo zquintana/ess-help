@@ -3,7 +3,7 @@ credit:
   source: New Delhi TV
   url: https://www.ndtv.com/world-news/over-100-car-pile-up-on-super-icy-us-highway-interstate-91-watch-2668500
 date: '2021-12-23'
-title: "Tow Truck operator almost hit by semi-truck on highway"
+title: "Pics: Over 100 Car Pile-Up On 'Super Icy' US Highway"
 ---
 The police said that the icy road conditions had caused a number of vehicle crashes and runoffs in west-central Wisconsin.
 
