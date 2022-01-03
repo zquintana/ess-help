@@ -9,6 +9,8 @@ Armstrong County, PA -- December 27, 2021, Michael Gargett and Mara Reilly were 
 
 Investigators reported that the crash took place at around 9:00 a.m. near Exit 18 along Route 28.
 
-In their initial reports, officials said that 44-year-old Michael Gargett and 46-year-old Mara Reilly were in a vehicle traveling northbound along Route 28. For reasons unclear, their vehicle swerved to avoid a car on the shoulder, lost control, then hit a box truck which was also on the shoulder.
+In their initial reports, officials said that 44-year-old Michael Gargett and 46-year-old Mara Reilly were in a vehicle traveling northbound along Route 28. For 
+
+reasons unclear, their vehicle swerved to avoid a car on the shoulder, lost control, then hit a box truck which was also on the shoulder.
 
 Due to the collision, Gargett and Reilly both succumbed to fatal injuries. It's unclear if anyone else was hurt. No further information is available at this time.
