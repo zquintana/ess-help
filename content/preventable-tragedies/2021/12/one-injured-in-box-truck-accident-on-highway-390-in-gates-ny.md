@@ -1,4 +1,4 @@
---
+---
 credit:
   source: Nationwide Accidents News From Wrongful Death Attorney Michael Grossman
   url: https://www.texas-wrongful-death-lawyer.net/166002/box-truck-accident-hwy-390-gates-ny.htm
