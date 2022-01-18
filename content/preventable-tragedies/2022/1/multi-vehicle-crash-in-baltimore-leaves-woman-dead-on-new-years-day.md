@@ -3,7 +3,7 @@ credit:
   source: ABC 2 WMAR Baltimore
   url: https://www.wmar2news.com/news/local-news/multi-vehicle-crash-in-baltimore-leaves-woman-dead-on-new-years-day
 date: '2022-01-03'
-title: "Multi-vehicle crash in Baltimore leaves woman dead on New Year's Day"
+title: "Multi Vehicle crash in Baltimore leaves woman dead on New Year's Day"
 ---
 BALTIMORE — Maryland Transportation Authority Police are investigating an overnight crash on New Year's Day that left a 34-year-old woman dead.
 
