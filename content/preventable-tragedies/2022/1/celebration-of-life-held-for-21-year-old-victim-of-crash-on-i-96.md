@@ -21,6 +21,8 @@ An SUV didn't see the car until it was too late and crashed into it. Her brother
 
 Police called it a tragic accident. Drugs and alcohol aren't believed to be factors in the crash.
 
-"That was my baby, and like she would say ‘We’re here for a good time not a lifetime. Forever 21 baby, I love you," said Karlesha's mother.
+"That was my baby, and like she would say ‘We’re here for a good time not a lifetime. Forever 21 baby, I love you," said 
+
+Karlesha's mother.
 
 The family created a GoFundMe to help with Karlesha's memorial. Anyone interested in donating can do so by clicking here.
