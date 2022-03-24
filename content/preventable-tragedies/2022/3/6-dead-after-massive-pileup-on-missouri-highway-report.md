@@ -1,24 +1,46 @@
 ---
 credit:
-  source: NEW  York Post
-  url: https://nypost.com/2022/03/17/6-dead-after-massive-pileup-on-missouri-highway-report/
-date: '2022-03-17'
-title: "6 dead after massive pileup on Missouri highway: report"
+  source: ABC News
+  url: https://abcnews.go.com/US/wireStory/patrol-missouri-interstate-crashes-killed-injured-15-83625422
+date: '2022-03-23'
+title: "Patrol: Missouri interstate crashes killed 5, injured 15"
 ---
-Six people were killed in a massive pileup involving more than 100 vehicles on a Missouri highway Thursday morning, authorities said.
+CHARLESTON, Mo. -- Five people died and 15 people were injured in a series of chain-
 
-The deadly chain reaction crash on Interstate 57 near Charleston unfolded after a driver hit their brakes due to foggy conditions in the area, officials told KFVS.
+reaction collisions on a southeast Missouri interstate last week, according to a final 
 
-First responders from Missouri, Illinois, and Kentucky raced to the scene of the “mass casualty motor vehicle collision” involving “over 135 vehicles,” the Scott City Fire Department wrote on Facebook.
+report from the Missouri State Highway Patrol.
 
-“When we got the call about 8 a.m., and as we approached the interstate it was a very thick fog,” Charleston Department of Public Safety Director Robert Hearnes reportedly said.
+Mississippi County Coroner Terry Parker had initially said a sixth person died in the 
 
-“You couldn’t … visibility was less than 50 feet. And so the traffic had already backed up, but we had multiple, multiple accidents on both sides of the interstate.”
+collisions on Interstate 57 near Charleston, Missouri, about 150 miles (241 kilometers) 
 
-A mobile morgue had been set up in a Charleston funeral home, Mississippi County Coroner Terry Parker told the local station, as he confirmed a sixth fatality.
+south of St. Louis.
 
-Other injured people were treated on scene and at local hospitals, including several first responders, Parker reportedly said.
+Parker said communication during the chaotic scene was difficult and one person his 
 
-“Only in one of, one of the worse war movies, or a Chicago or St. Louis fire, something we’d maybe see on the news in a large city, but nothing of this nature in our area,” he told the station.
+office thought had died did not, The Southeast Missourian reported.
 
-The names of the victims had not yet been released because not all of their families had been notified, authorities said.
+The dead included two people from Texas, and one each from Missouri, North Carolina and 
+
+Wisconsin, the patrol said.
+
+The patrol's report said the crashes began about 8 a.m. Thursday in the southbound 
+
+lanes, when a tractor-trailer hit another tractor-trailer and caused a series of 
+
+collisions.
+
+Another collision in the northbound lanes killed 45-year-old Jose Hernandez, of Houston, 
+
+whose truck hit a trailer that was disabled from a prior crash and then was hit by 
+
+another tractor-trailer.
+
+The four other people died after another chain-reaction collision involving 13 vehicles. 
+
+William Ryan, 75, of Pevely, Missouri; Joshua Wiggins, 30, Candler, North Carolina; and 
+
+Raina Jamerson, 22, of Kenosho, Wisconsin, died at the scene. Jesse Jimenez, 51, of 
+
+Houston, died later at a Kentucky hospital.
