@@ -2,7 +2,7 @@
 credit:
   source: BBC News 
   url: https://www.bbc.com/news/uk-england-oxfordshire-61082099
-date: '2022-04-14'
+date: '2022-04-13'
 title: "Man found dead more than a week after M40 collision in Oxfordshire"
 ---
 A man has been found dead eight days after a collision on a motorway in Oxfordshire, police have said.
