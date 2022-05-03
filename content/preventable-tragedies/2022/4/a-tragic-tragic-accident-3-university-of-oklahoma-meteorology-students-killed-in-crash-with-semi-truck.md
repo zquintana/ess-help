@@ -2,7 +2,7 @@
 credit:
   source: KFOR.com Oklahoma's News 4
   url: https://kfor.com/news/a-tragic-tragic-accident-3-university-of-oklahoma-meteorology-students-killed-in-crash-with-semi-truck/
-date: '2022-05-01'
+date: '2022-04-30'
 title: "‘A tragic, tragic accident’: 3 University of Oklahoma meteorology students killed in crash with semi-truck"
 ---
 KAY COUNTY, Okla. (KFOR) – Three University of Oklahoma meteorology students died Friday night when their vehicle was struck by a semi-truck on their way home from chasing severe weather in Kansas.
