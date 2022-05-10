@@ -1,5 +1,6 @@
 ---
-credit:ABC 11
+credit:
+  source: ABC 11
   url: https://abc11.com/kenly-crashed-woman-trapped-driver-rescued/11832041/
 date: '2022-05-09'
 title: "Man recounts finding woman trapped for 2 days in wrecked SUV"
