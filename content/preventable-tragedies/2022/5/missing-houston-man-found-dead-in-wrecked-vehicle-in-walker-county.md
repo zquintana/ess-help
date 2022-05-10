@@ -1,7 +1,8 @@
 ---
-credit: KHOU 11
+credit:
+  source: KHOU 11
   url: https://www.khou.com/article/news/local/missing-houston-man-found-dead/285-eefc9d47-da72-429b-afb8-e1d40b5588e7
-date: '2022-05-09'
+date: '2022-05-06'
 title: "Missing Houston man found dead in wrecked vehicle in Walker County"
 ---
 HUNTSVILLE, Texas — A Houston man who had been missing a week was found dead Monday in Walker County.
