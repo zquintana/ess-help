@@ -1,7 +1,7 @@
 ---
 credit:
   source: Cobb County Courier 
-  url: Multi-Vehicle Pile-Up On I-75 In Marietta Results In Life-Threatening Injuries
+  url: https://cobbcountycourier.com/2022/06/multi-vehicle-pile-up-on-i-75-in-marietta-results-in-life-threatening-injuries/
 date: '2022-06-15'
 title: "Multi-Vehicle Pile-Up On I-75 In Marietta Results In Life-Threatening Injuries"
 ---
