@@ -2,7 +2,7 @@
 credit:
   source: WILX 10 NBC
   url: https://www.wilx.com/2022/06/22/one-dead-crash-us-127/
-date: '2022-06-21'
+date: '2022-06-22'
 title: "Mason woman dies in crash on US-127"
 ---
 LANSING, Mich. (WILX) - One person is dead after a crash on US-127 north on Wednesday morning, the Ingham County Sheriff’s Office confirmed to News 10.
